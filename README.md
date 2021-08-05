@@ -6,4 +6,4 @@ description: Willkommen zur offiziellen Dokumentation vom FoE Helfer
 
 ## Need help getting started?
 
-{% page-ref page="deutsch/anleitung" %}
+{% page-ref page="deutsch/anleitung/" %}
