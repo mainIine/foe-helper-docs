@@ -1,8 +1,4 @@
----
-description: Dokumentation des Forge of Empires Helfers
----
-
 # Erweiterung
 
-## Installation
+Text aus der Deutsch/Erweiterung/README.md
 

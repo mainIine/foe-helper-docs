@@ -4,4 +4,4 @@
 
 ## Deutsch
 
-* [Installation](deutsch/erweiterung/README.md)
+* [Erweiterung](deutsch/erweiterung/README.md)
