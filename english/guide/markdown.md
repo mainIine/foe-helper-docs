@@ -21,7 +21,8 @@ The images are always stored in the same folder level in a ```.images``` directo
 ```markdown
 ![Test image](https://github.com/mainIine/foe-helper-docs/raw/master/english/guide/.images/app48.png)
 ```
-Gerendert
+Rendered
+
 ![Test image](https://github.com/mainIine/foe-helper-docs/raw/master/english/guide/.images/app48.png)
 
 ### Links
