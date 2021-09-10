@@ -28,3 +28,34 @@ Rendered
 ### Links
 
 Links are always converted automatically and do not require any extra code.
+
+
+### Hints
+
+Hints can created by the following syntax:
+
+```markdown
+{% hint style="info" %}
+Hello world
+{% endhint %}
+```
+
+These values are possible: info, success, danger & warning
+
+Examples:
+
+{% hint style="info" %}
+Info hint
+{% endhint %}
+
+{% hint style="success" %}
+Success hint
+{% endhint %}
+
+{% hint style="danger" %}
+Danger hint
+{% endhint %}
+
+{% hint style="warning" %}
+Warning hint
+{% endhint %}
