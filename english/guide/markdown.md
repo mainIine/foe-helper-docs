@@ -12,6 +12,8 @@ The complete documentation is written in markdown code. Here are some examples:
 | \#### Heading level 4 | &lt;h4>Heading level 4&lt;/h4> | <h4>Heading level 4</h4> |
 | \##### Heading level 5 | &lt;h5>Heading level 5&lt;/h5> | <h5>Heading level 5</h5> |
 
+---
+
 ### Images
 
 Screenshots can also be submitted. For uniformity, we may replace graphics with our own.
@@ -25,10 +27,13 @@ Rendered
 
 ![Test image](https://github.com/mainIine/foe-helper-docs/raw/master/english/guide/.images/app48.png)
 
+---
+
 ### Links
 
 Links are always converted automatically and do not require any extra code.
 
+---
 
 ### Hints
 
@@ -59,3 +64,6 @@ Danger hint
 {% hint style="warning" %}
 Warning hint
 {% endhint %}
+
+---
+
