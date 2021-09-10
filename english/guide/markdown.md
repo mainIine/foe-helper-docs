@@ -12,9 +12,9 @@ The complete documentation is written in markdown code. Here are some examples:
 | \#### Heading level 4 | &lt;h4>Heading level 4&lt;/h4> | <h4>Heading level 4</h4> |
 | \##### Heading level 5 | &lt;h5>Heading level 5&lt;/h5> | <h5>Heading level 5</h5> |
 
-### Bilder
+### Images
 
-Screenshots können ebenfalls eingereicht werden. Für die Vereinheitlichung kann es sein das wir Grafiken mit unseren eigenen ersetzten.
+Screenshots can also be submitted. For uniformity, we may replace graphics with our own.
 
 The images are always stored in the same folder level in a ```.images``` directory. They are then linked in this way:
 
@@ -28,3 +28,34 @@ Rendered
 ### Links
 
 Links are always converted automatically and do not require any extra code.
+
+
+### Hints
+
+Hints can created by the following syntax:
+
+```markdown
+{% hint style="info" %}
+Hello world
+{% endhint %}
+```
+
+These values are possible: `info`, `success`, `danger` & `warning`
+
+Examples:
+
+{% hint style="info" %}
+Info hint
+{% endhint %}
+
+{% hint style="success" %}
+Success hint
+{% endhint %}
+
+{% hint style="danger" %}
+Danger hint
+{% endhint %}
+
+{% hint style="warning" %}
+Warning hint
+{% endhint %}
