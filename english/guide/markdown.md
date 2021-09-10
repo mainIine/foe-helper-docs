@@ -40,7 +40,7 @@ Hello world
 {% endhint %}
 ```
 
-These values are possible: info, success, danger & warning
+These values are possible: `info`, `success`, `danger` & `warning`
 
 Examples:
 
