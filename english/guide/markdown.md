@@ -12,7 +12,7 @@ The complete documentation is written in markdown code. Here are some examples:
 | \#### Heading level 4 | &lt;h4>Heading level 4&lt;/h4> | <h4>Heading level 4</h4> |
 | \##### Heading level 5 | &lt;h5>Heading level 5&lt;/h5> | <h5>Heading level 5</h5> |
 
-### Bilder
+### Images
 
 Screenshots can also be submitted. For uniformity, we may replace graphics with our own.
 
