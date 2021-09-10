@@ -14,7 +14,7 @@ The complete documentation is written in markdown code. Here are some examples:
 
 ### Bilder
 
-Screenshots können ebenfalls eingereicht werden. Für die Vereinheitlichung kann es sein das wir Grafiken mit unseren eigenen ersetzten.
+Screenshots can also be submitted. For uniformity, we may replace graphics with our own.
 
 The images are always stored in the same folder level in a ```.images``` directory. They are then linked in this way:
 
