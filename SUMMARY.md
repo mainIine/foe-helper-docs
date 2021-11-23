@@ -10,7 +10,7 @@
 * [Anleitung](de/anleitung/README.md)
   * [Github](de/anleitung/github.md)
   * [Markdown](de/anleitung/markdown.md)
-  * [Write a docu](de/anleitung/dokumentation.md)
+  * [Dokumentation schreiben](de/anleitung/dokumentation.md)
 
 ## English
 
