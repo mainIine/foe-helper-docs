@@ -21,11 +21,11 @@ Screenshots can also be submitted. For uniformity, we may replace graphics with 
 The images are always stored in the same folder level in a ```.images``` directory. They are then linked in this way:
 
 ```markdown
-![Test image](https://github.com/mainIine/foe-helper-docs/raw/master/english/guide/.images/app48.png)
+![Test image](https://github.com/mainIine/foe-helper-docs/raw/master/en/guide/.images/app48.png)
 ```
 Rendered
 
-![Test image](https://github.com/mainIine/foe-helper-docs/raw/master/english/guide/.images/app48.png)
+![Test image](https://github.com/mainIine/foe-helper-docs/raw/master/en/guide/.images/app48.png)
 
 ---
 
