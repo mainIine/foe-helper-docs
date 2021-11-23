@@ -18,3 +18,9 @@
   * [Github](en/guide/github.md)
   * [Markdown](en/guide/markdown.md)
   * [Write a docu](en/guide/documentation.md)
+  
+## Français
+* [Aide] (fr/guide/README.md)
+  * [Github] (fr/guide/github.md)
+  * [Markdow] (fr/guide/markdow.md)
+  * [Ecrire un doc] (fr/guide/documentation.md)
