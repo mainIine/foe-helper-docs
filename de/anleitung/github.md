@@ -1,7 +1,11 @@
-# Work with Github
+# Github Repo
 
-Anyone can help to expand this documentation via Github. Simply make a pull request to the repository https://github.com/mainIine/foe-helper-docs in the beta branch. All other pull requests are rejected immediately.
+Jeder kann helfen, diese Dokumentation über Github zu erweitern. Stelle einfach einen Pull-Request an das Repository https://github.com/mainIine/foe-helper-docs im Beta-Zweig. Alle anderen Pull Requests werden sofort abgelehnt.
 
-We then check the content and approve the text. We also reserve the right to change, delete or completely reject texts.
+Wir prüfen dann den Inhalt und geben den Text frei. Weiterhin behalten wir uns auch das Recht vor, Texte zu ändern, zu löschen oder ganz abzulehnen.
 
-Many thanks in advance for your help!
+Vielen Dank im Voraus für Ihre Hilfe!
+
+{% hint style="success" %}
+Sollte deine Sprache fehlen, lege diese einfach wie die vorhandenen Strukturen an.
+{% endhint %}
