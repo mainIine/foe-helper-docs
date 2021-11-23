@@ -6,9 +6,14 @@ description: Structure of a docu and its code
 
 ## Create the file
 
-Create a new empty ``xxxx.md`` file. The name of this file should not contain any umlauts, special characters or spaces. It is also important to keep to the default folder structure.
+Create a new empty ``README.md`` file in a folder named after a module of the helper. As an example, you can look at the directory ``/de/erweiterung/kostenrechner``.
+There is also a hidden picture folder. Screenshots of the cost calculator will be placed there.
 
-In the ``/SUMMARY.md``, this page is then linked as in the default structure.
+{% hint style="info" %}
+A ``README.md`` will not appear in the URL, it will be treated as an index.*. If it is necessary to divide a module into several pages, use unique lower case names without special characters or spaces.
+{% endhint %}
+
+This file/path must then be added to the ``/SUMMARY.md`` in the root directory.
 
 ```markdown
 * [Helping out](english/guide/README.md)
