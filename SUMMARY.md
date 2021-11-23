@@ -4,11 +4,17 @@
 
 ## Deutsch
 
-* [Erweiterung](deutsch/erweiterung/README.md)
+* [Erweiterung](de/erweiterung/README.md)
+  * [Kostenrechner](de/erweiterung/kostenrechner/README.md)
 
-## Participate
+* [Anleitung](de/anleitung/README.md)
+  * [Github](de/anleitung/github.md)
+  * [Markdown](de/anleitung/markdown.md)
+  * [Write a docu](de/anleitung/dokumentation.md)
 
-* [Helping out](english/guide/README.md)
-  * [Github](english/guide/github.md)
-  * [Markdown](english/guide/markdown.md)
-  * [Write a docu](english/guide/documentation.md)
+## English
+
+* [Helping out](en/guide/README.md)
+  * [Github](en/guide/github.md)
+  * [Markdown](en/guide/markdown.md)
+  * [Write a docu](en/guide/documentation.md)
