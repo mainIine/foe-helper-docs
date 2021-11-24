@@ -27,11 +27,16 @@ Mode d'emploi de la calculatrice pour ses propres GM
 Cette fenêtre permet de choisir quelle valeur seront affichées pour calculer le prix des places de vos GM. Une option permet que le format soit différent pour chaque GM.
 
 
-## Zone supérieur 
+## Zone supérieur
+Cette partie affiche le taux de calcul des places, le montant en PF requis pour le niveau, le niveau de sa propre contribution et sur le coté, le bouton pour afficher la fenêtre de copie des places 
 
+![Calcul_GM_Int_23](https://user-images.githubusercontent.com/61996796/143283662-ef3a1bb0-d03b-4432-b052-2cd16553a340.png)
 
 ## Zone intermédiaire
 Cette partie affiche le montant en PF pour chaque place ainsi que le nombre de PF a posé pour sécuriser
+![Calcul_GM_Int_22](https://user-images.githubusercontent.com/61996796/143282691-f6ccbaed-8afb-4f89-ab17-a6cfdbd7a54e.png)
 
 ## Zone inférieur
 Cette partie affiche diverses infos comme le nombre de PF restant pour la quête réccurente active
+![Calcul_GM_Int_21](https://user-images.githubusercontent.com/61996796/143282712-6c381d1d-dd71-43d4-898c-f6c65ce619c1.png)
+
