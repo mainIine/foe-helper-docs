@@ -20,6 +20,10 @@
   * [Write a docu](en/guide/documentation.md)
   
 ## Français
+
+* [Extention](fr/guide/README.md)
+  * [Calculatrice GM interne](fr/extention/calcultatrice_gm_interne/README.md)
+
 * [Aide](fr/guide/README.md)
   * [Github](fr/guide/github.md)
   * [Markdow](fr/guide/markdow.md)
