@@ -1,0 +1,3 @@
+--- 
+description: Guild Battleground (GBG) 
+--- 
