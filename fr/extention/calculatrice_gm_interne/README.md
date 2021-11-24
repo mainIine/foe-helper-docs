@@ -18,7 +18,9 @@ Mode d'emploi de la calculatrice pour ses propres GM
 ![Calcul_GM_Int_10](https://user-images.githubusercontent.com/61996796/143271020-9d9c29ac-eeb4-4d48-8d4d-b3c47c696b2a.png) Permet de réduire la fenêtre
 ![Calcul_GM_Int_11](https://user-images.githubusercontent.com/61996796/143271052-87464308-d3ad-4299-a017-dba66338eff8.png) Ferme la fenêtre
 
-##### Préfèrence d'affichage ![Calcul_GM_Int_9](https://user-images.githubusercontent.com/61996796/143271686-76b5ef75-f3dc-46e0-97df-29cfbddf5b24.png)
+---
+
+##### Réglage des taux ![Calcul_GM_Int_9](https://user-images.githubusercontent.com/61996796/143271686-76b5ef75-f3dc-46e0-97df-29cfbddf5b24.png)
 
 ![Calcul_GM_Int_2](https://user-images.githubusercontent.com/61996796/143271123-4a31d061-8895-4aed-9646-69bc289c0bba.png)
 
