@@ -3,12 +3,12 @@ Mode d'emploi de la calculatrice pour ses propres GM
 
 ---
 
-### Fenêtre principale de la calculatrice
+## Fenêtre principale de la calculatrice
 ![Calcul_GM_Int_1](https://user-images.githubusercontent.com/61996796/143266417-9adb6d5e-e1bd-44a8-b7ad-626196112e6e.png)
 
 ---
 
-#### Zone du menu
+## Zone du menu
 ![Calcul_GM_Int_7](https://user-images.githubusercontent.com/61996796/143267032-3f2a14c9-8df8-40fa-9dbb-39670d9d3a18.png)
 
 ##### Les icônes
@@ -25,3 +25,13 @@ Mode d'emploi de la calculatrice pour ses propres GM
 ![Calcul_GM_Int_2](https://user-images.githubusercontent.com/61996796/143271123-4a31d061-8895-4aed-9646-69bc289c0bba.png)
 
 Cette fenêtre permet de choisir quelle valeur seront affichées pour calculer le prix des places de vos GM. Une option permet que le format soit différent pour chaque GM.
+
+
+## Zone supérieur 
+
+
+## Zone intermédiaire
+Cette partie affiche le montant en PF pour chaque place ainsi que le nombre de PF a posé pour sécuriser
+
+## Zone inférieur
+Cette partie affiche diverses infos comme le nombre de PF restant pour la quête réccurente active
