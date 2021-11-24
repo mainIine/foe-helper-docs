@@ -22,5 +22,5 @@
 ## Français
 * [Aide](fr/guide/README.md)
   * [Github](fr/guide/github.md)
-  * [Markdow](fr/guide/markdow.md)
+  * [Markdown](fr/guide/markdown.md)
   * [Ecrire un doc](fr/guide/documentation.md)
