@@ -6,4 +6,4 @@ description: Willkommen zur offiziellen Dokumentation vom FoE Helfer
 
 ## Need help getting started?
 
-{% page-ref page="english/guide/" %}
+{% page-ref page="en/guide/github.md" %}

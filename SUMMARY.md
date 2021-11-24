@@ -23,4 +23,4 @@
 * [Aide](fr/guide/README.md)
   * [Github](fr/guide/github.md)
   * [Markdow](fr/guide/markdow.md)
-  * [Ecrire un doc](fr/guide/Documentation.md)
+  * [Ecrire un doc](fr/guide/documentation.md)
