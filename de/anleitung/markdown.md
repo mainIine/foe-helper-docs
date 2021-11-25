@@ -21,11 +21,11 @@ Es können auch Screenshots eingereicht werden. Aus Gründen der Einheitlichkeit
 Die Bilder werden immer auf der gleichen Ordnerebene in einem ```.images```-Verzeichnis gespeichert. Sie werden dann auf diese Weise verlinkt:
 
 ```markdown
-![Test image](https://github.com/mainIine/foe-helper-docs/raw/master/de/anleitung/.images/app48.png)
+![Test image](./.images/app48.png)
 ```
 Gerendert
 
-![Test image](https://github.com/mainIine/foe-helper-docs/raw/master/de/anleitung/.images/app48.png)
+![Test image](./.images/app48.png)
 
 ---
 
