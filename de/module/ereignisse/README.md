@@ -14,8 +14,8 @@ Auf dem Icon in der FoE-Helfer Symbolleiste zeigt eine überlagerte Zahl an, wie
 
 ## FAQ
 
-**Q: Kann man die exakte Position eines Ereignisses anzeigen?**
+**Q: Kann man die exakte Position eines Ereignisses anzeigen?**<br>
 A: Nein, leider nicht.  Die Position ist zufällig und ändert sich über die Zeit.
 
-**Q: Kann man künftig erscheinende Ereignisse mit auflisten?**
+**Q: Kann man künftig erscheinende Ereignisse mit auflisten?**<br>
 A: Nein, dieses Feature musste entfernt werden.
