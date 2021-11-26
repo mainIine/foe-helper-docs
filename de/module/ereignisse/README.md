@@ -1,4 +1,6 @@
-# ![Icon](./.images/icon01.png) Ereignisse 
+# Ereignisse
+
+![Icon](./.images/icon01.png)
 
 Dieses Modul zeigt an, welche Ereignisse es in deiner Stadt gibt, die du sammeln kannst.
 
