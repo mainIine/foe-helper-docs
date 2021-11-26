@@ -35,7 +35,7 @@ Vous pouvez au moyen de la roue dentée dans la barre de titre définir quels bo
 
 # Utilisation
 
-Les nombres dans le tableau des places de mécénat peuvent avoir des couleurs différentes, ce qui indique s'est sécurisé de poser ou pas.
+Les nombres dans le tableau des places de mécénat peuvent avoir des couleurs différentes, ce qui indique si c'est sécurisé de poser ou pas.
 
 ### Vert = Place de mécénat sécurisée
 
