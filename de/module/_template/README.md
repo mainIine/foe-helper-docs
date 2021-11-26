@@ -1,4 +1,6 @@
-# ![Icon](./.images/dummy-icon.png) (Name des Moduls)
+# (Name des Moduls)
+
+![Icon](./.images/dummy-icon.png) 
 
 Bavaria ipsum dolor sit amet Biaschlegl Schmankal fias wea ko, dea ko, Schbozal hi! Semmlkneedl Fingahaggln ognudelt Hendl Biagadn Sauwedda Broadwurschtbudn ham gwihss Namidog. Greaßt eich nachad hoggd hod hod i bin a woschechta Bayer oba gwiss Schdeckalfisch is des liab!
 
