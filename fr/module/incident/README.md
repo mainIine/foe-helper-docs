@@ -20,8 +20,8 @@ Sur l'icône de la barre d'outils de l'assistant FoE, un nombre superposé indiq
 
 ## FAQ
 
-**Q : Est-il possible d'afficher le lieu exact d'un événement ? ** <br>
+**Q : Est-il possible d'afficher le lieu exact d'un événement ?** <br>
 R : Non, malheureusement pas. La position est aléatoire et change avec le temps.
 
-**Q : Est-il possible de lister les événements qui apparaîtront dans le futur ? ** <br>
+**Q : Est-il possible de lister les événements qui apparaîtront dans le futur ?** <br>
 R : Non, cette fonctionnalité a dû être supprimée. 
