@@ -6,7 +6,7 @@ Ce module affiche les incidents disponibles dans ta ville que tu peux récolter.
 
 ## Structure
 
-![Structure](./.images/screenshot.png)
+![Structure](./.images/Screenshot.png)
 
 Dans le tableau sont affichés quels sont les incidents présents, où l'on peut les trouver et pendant combien de temps.
 
