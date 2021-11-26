@@ -15,7 +15,7 @@ La calculatrice GM externe est structurée comme suit de haut en bas :
 * Guilde du propriétaire
 * Niveau du Grand Monumenent et jusqu'à quel niveau il peut être monté
 * **Points de Forge disponible :** Affichage du nombre de points de forge disponible dans ton inventaire
-* **Bonus d'arche :** Le vrai bonus de votre arche (ici 92%)
+* **Bonus d'arche :** Le vrai bonus de votre arche (ici 94.7%)
 * Bouton pour changer le pourcentage de pose
 * **Investit à :** ici vous pouvez vous-même définir n'importe quel pourcentage
 * Tableau :
