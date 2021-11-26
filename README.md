@@ -1,9 +1,9 @@
 ---
-description: Willkommen zur offiziellen Dokumentation vom FoE Helfer
+description: Welcome to the official documentation of the FoE Helper extension
 ---
 
-# Home
+# Forge of Empire Helper - Documentation
 
 ## Need help getting started?
 
-{% page-ref page="english/guide/" %}
+{% page-ref page="en/guide/github.md" %}
