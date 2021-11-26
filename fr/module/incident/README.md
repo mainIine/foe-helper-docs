@@ -2,26 +2,26 @@
 
 ![Icône](./.images/icon01.png) 
 
-Ce module affiche les incidents disponibles dans ta cité que tu peux récolter.
+Ce module affiche les incidents disponibles dans ta ville que tu peux récolter.
+
 ## Structure
 
-![Structure](./.images/dummy-screenshot.png)
+![Structure](./.images/screenshot.png)
+
+Dans le tableau sont affichés quels sont les incidents présents, où l'on peut les trouver et pendant combien de temps.
 
 
+## Badge sur l'icône
 
-## Configuration
+![Badge sur l'icône](./.images/icon02.png)
 
-![Configuration](./.images/dummy-screenshot.png)
-
-
-## Utilisation
-
+Sur l'icône de la barre d'outils de l'assistant FoE, un nombre superposé indique le nombre d'incident actuellement présents dans votre ville. Si aucun numéro n'est affiché, il n'y a actuellement aucun incident dans votre ville qui peut être récolté. 
 
 
 ## FAQ
 
-**Q: Biakriagal anbandeln da, hog di hi unbandig Resi measi Radi naa nia, ebba hawadere midananda?**<br>
-R: I mechad dee Schwoanshaxn dahoam guad, aba. Schüds nei Gaudi fensdaln, auf der Oim, da gibt’s koa Sünd Klampfn!.
+** Q : Est-il possible d'afficher le lieu exact d'un événement ? ** <br>
+R : Non, malheureusement pas. La position est aléatoire et change avec le temps.
 
-**Q: Fias da Kini gwihss mehra des is schee Biazelt Edlweiss glei.?**<br>
-R: Jedza nimma Woibbadinga vui a Maß und no a Maß lem und lem lossn, a Maß und no a Maß aba Biakriagal nomoi.
+** Q : Est-il possible de lister les événements qui apparaîtront dans le futur ? ** <br>
+R : Non, cette fonctionnalité a dû être supprimée. 
