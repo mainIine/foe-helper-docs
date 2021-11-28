@@ -25,7 +25,7 @@ La calculatrice GM externe est structurée comme suit de haut en bas :
   * Le nombre de plans obtenus grâce au bonus d'arche
   * Le nombre de médailles obtenues grâce au bonus d'arche
   * **Jusqu'au niveau suivant :** Le nombre de PF nécessaire pour finir le Grand Monument
-  * Quête récurrente active :** Indique si une quête récurrente a été terminée
+  * **Quête récurrente active :** Indique si une quête récurrente a été terminée
 
 # Configuration
 
