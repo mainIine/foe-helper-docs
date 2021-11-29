@@ -4,7 +4,7 @@
 
 Si vous souhaitez aider les joueurs à se mettre à niveau ou même les aider contre leur gré, cet outil est indispensable. Il calcule toutes les valeurs pertinentes pour vous, et vous pouvez le définir comme vous le souhaitez. 
 
-# Structure
+## Structure
 
 ![Structure](./.images/Screenshot_001.png)
 
@@ -27,13 +27,13 @@ La calculatrice GM externe est structurée comme suit de haut en bas :
   * **Jusqu'au niveau suivant :** Le nombre de PF nécessaire pour finir le Grand Monument
   * **Quête récurrente active :** Indique si une quête récurrente a été terminée
 
-# Configuration
+## Configuration
 
 ![Configuration](./.images/Screenshot_003.png)
 
 Vous pouvez au moyen de la roue dentée dans la barre de titre définir quels boutons de pourcentage doivent être affichés.
 
-# Utilisation
+## Utilisation
 
 Les nombres dans le tableau des places de mécénat peuvent avoir des couleurs différentes, ce qui indique si c'est sécurisé de poser ou pas.
 
