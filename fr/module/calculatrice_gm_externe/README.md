@@ -4,7 +4,7 @@
 
 Si vous souhaitez aider les joueurs à se mettre à niveau ou même les aider contre leur gré, cet outil est indispensable. Il calcule toutes les valeurs pertinentes pour vous, et vous pouvez le définir comme vous le souhaitez. 
 
-## Structure
+# Structure
 
 ![Structure](./.images/Screenshot_001.png)
 
