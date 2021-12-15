@@ -36,5 +36,5 @@ Hat man einmal ein nicht vorgeschlagenes Gut ausgewählt und bezahlt, kommt eine
 
 ## FAQ
 
-**Q: Warum wird der Verhandlungsassistent nicht bei Verhandlungen in den Gildengefechten angeigt?**<br>
+**Q: Warum wird der Verhandlungsassistent nicht bei Verhandlungen in den Gildengefechten angezeigt?**<br>
 A: Der Verhandlungshelfer ermöglicht es nicht nur besser zu verhandeln, sondern auch schneller. Da dies das Balancing der Gildengefechte beeinflusst, wurde die Funktion an dieser Stelle abgeschaltet. An anderen Stellen (Expedition, Quests, Feudales Japan) bleibt sie erhalten. Für Details, siehe https://discuss.foe-helper.com/d/355-anderungen-am-foe-helfer-changes-to-the-foe-helper
