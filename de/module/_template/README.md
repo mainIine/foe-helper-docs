@@ -2,27 +2,27 @@
 
 ![Icon](./.images/dummy-icon.png) 
 
-Bavaria ipsum dolor sit amet Biaschlegl Schmankal fias wea ko, dea ko, Schbozal hi! Semmlkneedl Fingahaggln ognudelt Hendl Biagadn Sauwedda Broadwurschtbudn ham gwihss Namidog. Greaßt eich nachad hoggd hod hod i bin a woschechta Bayer oba gwiss Schdeckalfisch is des liab!
+(Beschreibe kurz das Modul und seinen Zweck.)
 
 ## Aufbau
 
 ![Aufbau](./.images/dummy-screenshot.png)
 
-Is kumm geh Brotzeit Leonhardifahrt gwihss Hendl Charivari kummd hogg di hera ned da Kini. Reiwadatschi Hendl Goaßmaß Maibam owe sauba da Greichats. Auf gehds beim Schichtl Diandldrahn gfreit mi, do legst di nieda. Fensdaln ned is Enzian, nois.
+(Beschreibe die Bestandteile des Dialogs, d.h. die Bedeutung aller angezeigten Zahlen oder auswählbarer Schaltflächen oder Kontrollkästchen.)
 
 ## Konfiguration
 
 ![Konfiguration](./.images/dummy-screenshot.png)
 
-Wea nia ausgähd, kummt nia hoam g’hupft wia gsprunga hinter’m Berg san a no Leit kumm geh du dadst ma scho daugn wiavui, Klampfn a Guglhupf Radler!
+(Wenn das Modul ein Einstellungsmenü bietet, beschreibe die verfügbaren Optionen.)
 
 ## Verwendung
 
-Measi anbandeln a, owe Maibam scheans nois trihöleridi dijidiholleri dringma aweng. Resch Freibia Resi Greichats hea Xaver Breihaus, ghupft wia gsprunga ham. Jo mei is des schee ja, wo samma denn Lewakaas, wia Reiwadatschi obacht is des liab Biazelt mi Biazelt Charivari: Spernzaln sauba Schdeckalfisch sauba Servas Mamalad Ledahosn pfiad de, Heimatland. A geh hod gscheit aasgem heid, des unbandig. Abfieseln mei da Kini Gschicht jo mei is des schee, samma Ramasuri Hendl. Spezi wos noch da Giasinga Heiwog Ledahosn auszutzeln mehra Habedehre.
-
-Nimma eam heid gfoids ma sagrisch guad a is vui pfenningguat Gams oa, singan iabaroi. Habedehre pfiad de Griasnoggalsubbm, Watschnbaam Steckerleis Hetschapfah da schüds nei oa. Mehra hod Kaiwe a ganze Hoiwe Almrausch ognudelt kummd barfuaßat Bladl. Und da noch da Giasinga Heiwog vui so Ledahosn, Blosmusi Habedehre ned. Do von mi, Schdeckalfisch. Gschicht Freibia Ledahosn nix, i moan scho aa mechad helfgod hod auf gehds beim Schichtl Kneedl do.
+(Beschreibe, wie das Modul verwendet oder interpretiert wird. Stelle bei Bedarf zusätzliche Screenshots bereit.)
 
 ## FAQ
+
+(Füge diesen Abschnitt ein, wenn typische Fragen gestellt werden. Stelle sicher, dass die Frage fett gedruckt ist und die Antwort nicht. Stelle außerdem sicher, dass am Ende der Frage ein HTML-Zeilenumbruch (&lt;br&gt;) hinzugefügt wird, damit die Fragen später richtig dargestellt werden.) 
 
 **Q: Biakriagal anbandeln da, hog di hi unbandig Resi measi Radi naa nia, ebba hawadere midananda?**<br>
 A: I mechad dee Schwoanshaxn dahoam guad, aba. Schüds nei Gaudi fensdaln, auf der Oim, da gibt’s koa Sünd Klampfn!.
