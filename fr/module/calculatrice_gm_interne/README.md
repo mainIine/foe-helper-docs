@@ -79,11 +79,21 @@ La calculatrice GM interne est structurée comme suit de haut en bas :
  * Le tableau se compose des colonnes suivantes :
    * **Niveau** - Niveau de à
    * **Place 1** à **Place 5** - Les PF qui doivent être payés par les mécènes. Les pourcentages que vous avez entrés dans la boîte de dialogue principale comptent. 
-   * **Contrib. perso.** - La part personnelle qu'on doit payer.
-   * **Double récolte** - Le nombre de PF qu'on va recevoir à la fin du niveau du GM.
+   * **Contrib. perso.** - La part personnelle qu'on doit payer. (cette colonne n'est visible que pour les GM à PF)
+   * **Double récolte** - Le nombre de PF qu'on va recevoir à la fin du niveau du GM.(cette colonne n'est visible que pour les GM à PF)
    * **À poser** - **Contrib. perso.** moins **Double récolte**.
    * **Copier les valeurs** - Comme pour [niveau facile](#niveau_facile) les textes générés de la ligne en cours sont placés dans le presse-papiers afin qu'ils puissent être collés dans un chat / système de message. La configuration (coche) du niveau facile est prise en compte. 
    
  ## Paiement
  
- 
+ Dès que vous commencez à déposer vos propres points Forge dans votre GM, c'est reconnu par la calculatrice GM interne. Si vous avez payé les premiers PF, ils apparaissent sous ** Fait **, ici dans l'exemple "1831". Vous faites cela jusqu'à ce qu'un 0 apparaisse dans la première ligne ** Contrib. perso ** sous la colonne PF.
+ A ce moment, la Place 1 et 2 sont sécurisées et peuvent être occupées.
+Dès lors, la place 1 et la place 2 sont sûres et peuvent être occupées. 
+
+![paiement](./.images/screenshot06.png)
+
+Lorsque la première  propre contribution, la 1ère place et la 2ème place ont été payées, vous payez la prochaine contribution propre. Dans cet exemple 175 FP. Toujours en séquence de haut en bas. Voici comment votre GM reste sécurisé et ne peut pas être pillé de l'extérieur : 
+
+![paiment](./.images/screenshot01.png)
+
+
