@@ -42,7 +42,7 @@ La calculatrice GM interne est structurée comme suit de haut en bas :
  
  ## Fonction de copie
  
- ### <a name="Niveau facile"></a>Niveau facile
+ ### <a name="Niveau_facile"></a>Niveau facile
  
  ![Niveau facile](./.images/screenshot04.png)
  
@@ -64,7 +64,7 @@ La calculatrice GM interne est structurée comme suit de haut en bas :
    * **Auto.** - N'annonce que les places qui sont sécurisées.
    * **Auto + non vérouillé** - Annonce toutes les places y compris celles qui ne sont pas sécurisées.
    * **Aperçu** - Affiche un aperçu du texte qui sera généré
-  * **Copier les valeurs** - Copie le texte généré dans le presse-papier afin qu'il puisse être copié ensuite dans un chat / service de message. 
+  * **Copier les valeurs** - Copie le texte généré dans le presse-papier afin qu'il puisse être copié ensuite dans un chat / service de message.
   * **Ne pas oublier** - Permet d'assembler le texte généré de plusieurs GM dans le presse-papier et de les copier en une fois dans le chat / système de message.
   
   ### Niveaux
@@ -77,4 +77,13 @@ La calculatrice GM interne est structurée comme suit de haut en bas :
  * **Niveau Max** - Niveau maximal qui doit être affiché dans la liste
  * **Total à poser** - Nombre de PF à poser par le propriétaire pour atteindre le **Niveau Max**
  * Le tableau se compose des colonnes suivantes :
-   * **
+   * **Niveau** - Niveau de à
+   * **Place 1** à **Place 5** - Les PF qui doivent être payés par les mécènes. Les pourcentages que vous avez entrés dans la boîte de dialogue principale comptent. 
+   * **Contrib. perso.** - La part personnelle qu'on doit payer.
+   * **Double récolte** - Le nombre de PF qu'on va recevoir à la fin du niveau du GM.
+   * **À poser** - **Contrib. perso.** moins **Double récolte**.
+   * **Copier les valeurs** - Comme pour [niveau facile](#niveau_facile) les textes générés de la ligne en cours sont placés dans le presse-papiers afin qu'ils puissent être collés dans un chat / système de message. La configuration (coche) du niveau facile est prise en compte. 
+   
+ ## Paiement
+ 
+ 
