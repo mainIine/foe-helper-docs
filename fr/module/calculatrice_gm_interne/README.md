@@ -19,8 +19,8 @@ La calculatrice GM interne est structurée comme suit de haut en bas :
 * **Contrib. perso :** Combien de PF vous devez payer au total
 * **Total PFs requis :** La somme du mécènat et de votre propre contribution
 * **Restant :** La somme que le propriétaire doite encore payer
-   * ** Sécurisé ** Avec cette coche, on ne tient pas compte des paiements déjà fait pour sécuriser les places (voir FAQ)
-   * **Confiance ** Avec cette coche, on part du principe que ceux qui ont payé un montant ne feront pas de sur-enchère (voir FAQ)
+   * **Sécurisé** Avec cette coche, on ne tient pas compte des paiements déjà fait pour sécuriser les places (voir FAQ)
+   * **Confiance** Avec cette coche, on part du principe que ceux qui ont payé un montant ne feront pas de sur-enchère (voir FAQ)
 * Tableau :
  * **Ordre** - Affiche dans quel ordre ce qui doit être payé.  Dans l'exmple, le propriétaire doit commencer par payer 7579 PF pour sécuriser la P1 et la P2.
  * Le nombre de PF qui doivent être payée
