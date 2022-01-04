@@ -18,9 +18,9 @@ La calculatrice GM interne est structurée comme suit de haut en bas :
 * **Contrib. externe :** Combien de PF les mécènes déposent au total
 * **Contrib. perso :** Combien de PF vous devez payer au total
 * **Total PFs requis :** La somme du mécènat et de votre propre contribution
-* ** Restant :** La somme que le propriétaire doite encore payer
+* **Restant :** La somme que le propriétaire doite encore payer
    * ** Sécurisé ** Avec cette coche, on ne tient pas compte des paiements déjà fait pour sécuriser les places (voir FAQ)
-   * ** Confiance ** Avec cette coche, on part du principe que ceux qui ont payé un montant ne feront pas de sur-enchère (voir FAQ)
+   * **Confiance ** Avec cette coche, on part du principe que ceux qui ont payé un montant ne feront pas de sur-enchère (voir FAQ)
 * Tableau :
  * **Ordre** - Affiche dans quel ordre ce qui doit être payé.  Dans l'exmple, le propriétaire doit commencer par payer 7579 PF pour sécuriser la P1 et la P2.
  * Le nombre de PF qui doivent être payée
@@ -42,7 +42,7 @@ La calculatrice GM interne est structurée comme suit de haut en bas :
  
  ## Fonction de copie
  
- ### <a nom="Niveau facile></a>Niveau facile
+ ### <a name="Niveau facile"></a>Niveau facile
  
  ![Niveau facile](./.images/screenshot04.png)
  
@@ -50,7 +50,7 @@ La calculatrice GM interne est structurée comme suit de haut en bas :
  
  * **Joueur** - Nom du joueur. Celui-ci peut-être modifié si vous voulez raccourcir votre nom.
  * **Bâtiment** - Nom du Grand Monument. Celui-ci peut-être aussi modifié pour le raccourcir.
- * ** Données incluses ** - vous spécifiez ici quelles informations doivent être fournies dans la ligne à copier : 
+ * **Données incluses** - vous spécifiez ici quelles informations doivent être fournies dans la ligne à copier : 
    * **Joueur** - Nom du joueur
    * **Grand Monument** - Nom du Grand Monument
    * **Niveau** - Niveau actuel et futur
