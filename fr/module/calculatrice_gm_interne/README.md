@@ -6,7 +6,7 @@ Cet outil vous aidera à monter votre Grand Monument avec un fil 1.9 (ou toute a
 
 ## Structure
 
-![Structure](./images/screenshot.png)
+![Structure](./.images/screenshot.png)
 
 
 La calculatrice GM interne est structurée comme suit de haut en bas :
