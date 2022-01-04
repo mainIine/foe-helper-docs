@@ -38,7 +38,7 @@ La calculatrice GM interne est structurée comme suit de haut en bas :
  ![Configuration](./.images/screenshot03.png)
  
  Dans ce menu, on peut configurer les boutons  qui sont affichés dans la partie principale de la fenêtre.
- **Enregister le format de copie par Grand Monument** - Cette option permet d'individualiser par Grand monument la copie des places.
+ * **Enregister le format de copie par Grand Monument** - Cette option permet d'individualiser par Grand monument la copie des places.
  
  ## Fonction de copie
  
