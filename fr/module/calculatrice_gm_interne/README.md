@@ -2,7 +2,7 @@
 
 ![Icône](./.images/icon.png) 
 
-Cet outil vous aidera à monter votre Grand Monument avec un fil 1.9 (ou toute autre valeur). Il calcule ce que vous devez investir de votre propre contribution pour sécuriser le parrainage, peut copier les valeurs à payer dans le presse-papiers afin qu'elles puissent ensuite être ajoutées à un chat et vérifie si les parrains ont payé correctement.
+Cet outil vous aidera à monter votre Grand Monument avec un fil 1.9 (ou toute autre valeur). Il calcule ce que vous devez investir de votre propre contribution pour sécuriser le parrainage, peut copier les valeurs à payer dans le presse-papiers afin qu'elles puissent ensuite être ajoutées à un chat / service de message et vérifie si les parrains ont payé correctement.
 
 ## Structure
 
@@ -19,8 +19,8 @@ La calculatrice GM interne est structurée comme suit de haut en bas :
 * **Contrib. perso :** Combien de PF vous devez payer au total
 * **Total PFs requis :** La somme du mécènat et de votre propre contribution
 * **Restant :** La somme que le propriétaire doite encore payer
-   * **Sécurisé** Avec cette coche, on ne tient pas compte des paiements déjà fait pour sécuriser les places (voir FAQ)
-   * **Confiance** Avec cette coche, on part du principe que ceux qui ont payé un montant ne feront pas de sur-enchère (voir FAQ)
+   * **Sécurisé** - Avec cette coche, on ne tient pas compte des paiements déjà fait pour sécuriser les places (voir FAQ)
+   * **Confiance** - Avec cette coche, on part du principe que ceux qui ont payé un montant ne feront pas de sur-enchère (voir FAQ)
 * Tableau :
  * **Ordre** - Affiche dans quel ordre ce qui doit être payé.  Dans l'exmple, le propriétaire doit commencer par payer 7579 PF pour sécuriser la P1 et la P2.
  * Le nombre de PF qui doivent être payée
@@ -54,9 +54,27 @@ La calculatrice GM interne est structurée comme suit de haut en bas :
    * **Joueur** - Nom du joueur
    * **Grand Monument** - Nom du Grand Monument
    * **Niveau** - Niveau actuel et futur
-   * ** Points forge** - Le nombre de PF que chaque mécène doit payer
+   * **Points forge** - Le nombre de PF que chaque mécène doit payer.
    * **Descendant** - Si les places doivent être donnée dans l'ordre descendant (P5 -> P1) ou dans l'autre sens.
    * **Faire passer** - Inscrit " faire passer" pour indiquer de finir le niveau.
-   * **Contribution personnelle** - Le nombre de PF que le propriétaire doit lui-même poser
- * **Places**
-   
+   * **Contribution personnelle** - Le nombre de PF que le propriétaire doit lui-même poser.
+ * **Places** - indique quelles places de mécénat doivent être annoncées :
+   * **Place 1** à **Place 5** - Vous pouvez cocher cette case si certains postes de mécénat doivent être explicitement annoncés, indépendamment des calculs automatiques suivants. 
+   * **Tous** - Place la coche à côté des **Place 1** à **Place 5**.
+   * **Auto.** - N'annonce que les places qui sont sécurisées.
+   * **Auto + non vérouillé** - Annonce toutes les places y compris celles qui ne sont pas sécurisées.
+   * **Aperçu** - Affiche un aperçu du texte qui sera généré
+  * **Copier les valeurs** - Copie le texte généré dans le presse-papier afin qu'il puisse être copié ensuite dans un chat / service de message. 
+  * **Ne pas oublier** - Permet d'assembler le texte généré de plusieurs GM dans le presse-papier et de les copier en une fois dans le chat / système de message.
+  
+  ### Niveaux
+  
+  ![Niveaux](./.images/screenshot05.png)
+  
+  En cliquant sur **Niveaux** dans la fenêtre principale, cette fenêtre s'ouvre, où les PF requis pour le niveau suivant peuvent être affichés et copiés.
+  
+ * Nom du Grand Monument
+ * **Niveau Max** - Niveau maximal qui doit être affiché dans la liste
+ * **Total à poser** - Nombre de PF à poser par le propriétaire pour atteindre le **Niveau Max**
+ * Le tableau se compose des colonnes suivantes :
+   * **
