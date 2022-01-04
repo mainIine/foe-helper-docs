@@ -90,7 +90,7 @@ La calculatrice GM interne est structurée comme suit de haut en bas :
  A ce moment, la Place 1 et 2 sont sécurisées et peuvent être occupées.
 Dès lors, la place 1 et la place 2 sont sûres et peuvent être occupées. 
 
-![paiement](./.images/screenshot06.png)
+![paiement](./.images/screenshot.png)
 
 Lorsque la première  propre contribution, la 1ère place et la 2ème place ont été payées, vous payez la prochaine contribution propre. Dans cet exemple 175 FP. Toujours en séquence de haut en bas. Voici comment votre GM reste sécurisé et ne peut pas être pillé de l'extérieur : 
 
