@@ -92,8 +92,11 @@ Dès lors, la place 1 et la place 2 sont sûres et peuvent être occupées.
 
 ![paiement](./.images/screenshot.png)
 
-Lorsque la première  propre contribution, la 1ère place et la 2ème place ont été payées, vous payez la prochaine contribution propre. Dans cet exemple 175 FP. Toujours en séquence de haut en bas. Voici comment votre GM reste sécurisé et ne peut pas être pillé de l'extérieur : 
+Lorsque la première  propre contribution, la 1ère place et la 2ème place ont été payées, vous payez la prochaine contribution propre. Dans cet exemple 175 FP. Toujours en séquence de haut en bas. Voici comment votre GM reste sécurisé et ne peut pas être pillé de l'extérieur. 
 
 ![paiment](./.images/screenshot01.png)
 
+** Attention ! ** Si un mécène a trop payé ou que c'est un GM dans la zone « auto-rush », entre les niveaux 30 et 60, où aucune contribution personnelle n'est nécessaire pour sécuriser les premières places, les places peuvent être à risque. Un étranger pourrait sniper cette place. C'est-à-dire déposer moins que la part requise et être toujours indépassable. Dans ce cas, un texte d'avertissement rouge « danger (xxFP) » apparaît. La valeur entre parenthèses montre combien un étranger tirerait profit d'un "snipping", dans l'exemple suivant 9 FP. Dans ce cas, vous devriez payer vous-même dans ces PF 
+
+![paiment](./.images/screenshot07.png)
 
