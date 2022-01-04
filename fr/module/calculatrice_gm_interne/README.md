@@ -27,7 +27,7 @@ La calculatrice GM interne est structurée comme suit de haut en bas :
  * **Fait** - Combien de PF ont déjà été posé
  * Le nombre de plans reçus par le mécène en fonction du bonus arche
  * Le nombre de médailles reçues par le mécène en fonction du bonus arche
- * **Ext.** - Permet de simuler un payment externe et de voir son influence sur les places (voir FAQ)
+ * **Ext.** - Permet de simuler un payment externe et de voir son influence sur les places ([voir FAQ](#securisé))
  * **Arche** - Bonus arche (%) de chaque place. Celui-ci peut être changé individuellement
  * **Quête récurrente active :** Indique si une quête récurrente a été terminée
  * **Jusqu'au niveau suivant :** Le nombre de PF nécessaire pour finir le Grand Monument
@@ -100,3 +100,6 @@ Lorsque la première  propre contribution, la 1ère place et la 2ème place ont 
 
 ![paiment](./.images/screenshot07.png)
 
+## FAQ
+
+<a name="securisé"></a>securisé
