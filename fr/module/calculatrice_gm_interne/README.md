@@ -19,15 +19,15 @@ La calculatrice GM interne est structurée comme suit de haut en bas :
 * **Contrib. perso :** Combien de PF vous devez payer au total
 * **Total PFs requis :** La somme du mécènat et de votre propre contribution
 * **Restant :** La somme que le propriétaire doite encore payer
-   * **Sécurisé** - Avec cette coche, on ne tient pas compte des paiements déjà fait pour sécuriser les places (voir FAQ)
-   * **Confiance** - Avec cette coche, on part du principe que ceux qui ont payé un montant ne feront pas de sur-enchère (voir FAQ)
+   * **Sécurisé** - Avec cette coche, on ne tient pas compte des paiements déjà fait pour sécuriser les places ([voir FAQ](#securisé))
+   * **Confiance** - Avec cette coche, on part du principe que ceux qui ont payé un montant ne feront pas de sur-enchère ([voir FAQ](#confiance))
 * Tableau :
  * **Ordre** - Affiche dans quel ordre ce qui doit être payé.  Dans l'exmple, le propriétaire doit commencer par payer 7579 PF pour sécuriser la P1 et la P2.
  * Le nombre de PF qui doivent être payée
  * **Fait** - Combien de PF ont déjà été posé
  * Le nombre de plans reçus par le mécène en fonction du bonus arche
  * Le nombre de médailles reçues par le mécène en fonction du bonus arche
- * **Ext.** - Permet de simuler un payment externe et de voir son influence sur les places ([voir FAQ](#securisé))
+ * **Ext.** - Permet de simuler un payment externe et de voir son influence sur les places ([voir FAQ](#ext))
  * **Arche** - Bonus arche (%) de chaque place. Celui-ci peut être changé individuellement
  * **Quête récurrente active :** Indique si une quête récurrente a été terminée
  * **Jusqu'au niveau suivant :** Le nombre de PF nécessaire pour finir le Grand Monument
@@ -103,3 +103,30 @@ Lorsque la première  propre contribution, la 1ère place et la 2ème place ont 
 ## FAQ
 
 <a name="securisé"></a>securisé
+
+Avec la coche **sécurisé**, les places sont d'abors sécurisées avant d'être données au mécénat. Si des montants sont déjà posé, ils ont les places dont le montant posé permet de les avoir sans sécurisation supplémentaire.
+
+Dans cet exemple, il faut encore posé 362 PF pour sécuriser la Place 1 et la Place 2.
+
+![coche sécurisé](./.images/screenshot11.png)
+
+<a name="confiance"></a>confiance
+
+Avec la coche **confiance**, on part du principe que les montants posés resteront les mêmes. Car posé par des personnes de confiance. Dans ce cas, les excédents posés, servent à réduire le coût de la sécurisation de la Place 1 et Place 2.
+
+Dans cet exemple, il faut seulement 237 PF (au lieu de 362 en dessus) pour sécuriser Place 1 et Place 2. A noter, qu'on pose à la fin le reste des PF. Cela peut quand même rendre le GM snippable comme dans cet exemple. Il reste 150 PF à poser et la Place 3 n'est qu'à 125.
+
+![coche confiance](./.images/screenshot13.png)
+
+A titre d'exemple, voici encore la même image avec les deux coches **seécurisé** et ** confiance** et ainsi que sans coche du tout.
+
+![coche confiance](./.images/screenshot10.png)  ![coche confiance](./.images/screenshot12.png)
+
+
+<a name="Ext"></a>Ext.
+
+Si quelqu'un vous doit des PF, vous pouvez introduire le montant total qu'il va vous verser et voir à combien vous devez securiser la place afin de ne pas mettre en danger votre GM.
+
+Dans l'exemple, on va vous payer 1000 PF pour la Place 3 ce qui fait que la P3 ne doit plus qu'être sécurisée à 343 PF au lieu de 779.
+
+![Montant Ext.](./.images/screenshot02.png)   ![Sans Ext.](./.images/screenshot.png)
