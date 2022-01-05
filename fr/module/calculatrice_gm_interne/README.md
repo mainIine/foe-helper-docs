@@ -104,7 +104,7 @@ Lorsque la première  propre contribution, la 1ère place et la 2ème place ont 
 
 <a name="securisé"></a>**Securisé**
 
-Avec la coche **sécurisé**, les places sont d'abors sécurisées avant d'être données au mécénat. Si des montants sont déjà posé, ils occupent les places dont le montant posé permet de les avoir sans sécurisation supplémentaire.
+Avec la coche **sécurisé**, les places sont d'abord sécurisées avant d'être données au mécénat. Si des montants sont déjà posé, ils occupent les places dont le montant posé permet de les avoir sans sécurisation supplémentaire.
 
 Dans cet exemple, il faut encore posé 362 PF pour sécuriser la Place 1 et la Place 2.
 
