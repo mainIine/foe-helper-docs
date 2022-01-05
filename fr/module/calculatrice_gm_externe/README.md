@@ -11,7 +11,7 @@ Si vous souhaitez aider les joueurs à se mettre à niveau ou même les aider co
 La calculatrice GM externe est structurée comme suit de haut en bas :
 
 * Nom du Grand Monument
-* Propriétaire inclus un lien vers https://foe.scoredb.io/page du joueur
+* Propriétaire inclus un lien vers [https://foe.scoredb.io/page du joueur](https://foe.scoredb.io/Worlds)
 * Guilde du propriétaire
 * Niveau du Grand Monumenent et jusqu'à quel niveau il peut être monté
 * **Points de Forge disponible :** Affichage du nombre de points de forge disponible dans ton inventaire

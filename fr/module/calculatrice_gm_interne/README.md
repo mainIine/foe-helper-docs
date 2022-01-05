@@ -12,7 +12,7 @@ Cet outil vous aidera à monter votre Grand Monument avec un fil 1.9 (ou toute a
 La calculatrice GM interne est structurée comme suit de haut en bas :
 
 * Nom du Grand Monument
-* Propriétaire inclus un lien vers https://foe.scoredb.io/page du joueur
+* Propriétaire inclus un lien vers [https://foe.scoredb.io/page du joueur](https://foe.scoredb.io/)
 * Niveau actuel et niveau suivant du Grand Monument. Avec les flèches à côté on peut changer les niveaux afin de calculer les valeurs des niveaux suivants.
 * Boutons pour changer le niveau de promotion
 * **Contrib. externe :** Combien de PF les mécènes déposent au total
