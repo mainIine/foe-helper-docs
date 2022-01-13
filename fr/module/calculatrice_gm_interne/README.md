@@ -12,7 +12,7 @@ Cet outil vous aidera à monter votre Grand Monument avec un fil 1.9 (ou toute a
 La calculatrice GM interne est structurée comme suit de haut en bas :
 
 * Nom du Grand Monument
-* Propriétaire inclus un lien vers [https://foe.scoredb.io/page du joueur](https://foe.scoredb.io/)
+* Propriétaire inclus un lien vers [https://foe.scoredb.io/page du joueur](https://foe.scoredb.io/Worlds)
 * Niveau actuel et niveau suivant du Grand Monument. Avec les flèches à côté on peut changer les niveaux afin de calculer les valeurs des niveaux suivants.
 * Boutons pour changer le niveau de promotion
 * **Contrib. externe :** Combien de PF les mécènes déposent au total
@@ -104,9 +104,9 @@ Lorsque la première  propre contribution, la 1ère place et la 2ème place ont 
 
 <a name="securisé"></a>**Securisé**
 
-Avec la coche **sécurisé**, les places sont d'abors sécurisées avant d'être données au mécénat. Si des montants sont déjà posé, ils occupent les places dont le montant posé permet de les avoir sans sécurisation supplémentaire.
+Avec la coche **sécurisé**, les places sont d'abord sécurisées avant d'être données au mécénat. Si des montants sont déjà posé, ils occupent les places dont le montant posé permet de les avoir sans sécurisation supplémentaire.
 
-Dans cet exemple, il faut encore posé 362 PF pour sécuriser la Place 1 et la Place 2.
+Dans cet exemple, il faut encore poser 362 PF pour sécuriser la Place 1 et la Place 2.
 
 ![coche sécurisé](./.images/screenshot11.png)
 
