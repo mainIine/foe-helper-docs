@@ -36,6 +36,9 @@
   * [Technologien](de/module/technologien/README.md)
   * [Verhandlungsassistent](de/module/verhandlung/README.md)
 
+* [Webseite](de/webseite/README.md)
+  * [Stadtplaner](de/webseite/stadtplaner/README.md)
+
 * [Mithelfen](de/anleitung/README.md)
   * [Github](de/anleitung/github.md)
   * [Markdown](de/anleitung/markdown.md)
