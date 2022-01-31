@@ -35,12 +35,12 @@ Mit einem Klick auf "Stadt leeren" verschiebst Du alle Gebäude auf der Map nach
 
 Du kannst aber auch mit STRG + linker Maustaste einzelne Gebäude markieren...
 
-![einzelene Gebäude markieren](./.images/mark-single-buildings.png)
+![Einzelne Gebäude markieren](./.images/mark-single-buildings.png)
 
 
 ... und mit der Taste "Entf" in die Sidebar verschieben lassen.
 
-![einzelene Gebäude verschoben](./.images/moved-single-buildings.png)
+![Einzelne Gebäude verschoben](./.images/moved-single-buildings.png)
 
 Mit Shift + linker Maustaste kannst Du außerhalb der Map beginnend ein Viereck über die Gebäude ziehen die Du anschließend ebenfalls mit der Taste "Entf" zur Sidebar schicken möchtest:
 
