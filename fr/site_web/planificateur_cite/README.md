@@ -1,3 +1,7 @@
+---
+description: Le planificateur de cité et ses fonctions
+---
+
 # Le planificateur de cité
 
 ## Que peut faire cet outil ?
