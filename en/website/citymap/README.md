@@ -50,7 +50,7 @@ With Shift + left mouse button you can draw a square, starting outside the map, 
 All buildings that touch the orange square are taken into account. The building does not have to lie completely within it.
 </div>
 
-![marked buildings](./.images/selected-with-rectangle.png)
+![Marked buildings](./.images/selected-with-rectangle.png)
 
 ![Marked buildings removed](./.images/moved-with-rectangle.png)
 
@@ -59,7 +59,7 @@ With these aids, you don't have to push every single building to the left. Which
 
 ---
 
-Zum Speichern gibt es zwei Optionen. The first time you save, you will be asked for a name.<br>
+There are two options for saving. The first time you save, you will be asked for a name.<br>
 If you have saved successfully, your city will be saved automatically in the background every 30 seconds.
 
 !["Save by name" modal](./.images/cityname-modal.png)
@@ -79,7 +79,7 @@ You do this with the buttons "PDF Download" or "PNG Download".
 
 If you want someone else to plan your city for you, you can create a "Share Link" in the overview.:
 
-![Freigabelink erstellen](./.images/create-share-link.png)
+![Create share link](./.images/create-share-link.png)
 
 ---
 
