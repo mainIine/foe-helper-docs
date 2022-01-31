@@ -1,1 +1,1 @@
-# Site Web [Assistant FOE](foe-helfer.com)
+# Site Web [Assistant FOE](https://foe-helper.com/)
