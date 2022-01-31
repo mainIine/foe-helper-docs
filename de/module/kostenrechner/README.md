@@ -1,4 +1,6 @@
-# ![Icon](./.images/icon01.png) Kostenrechner
+# Kostenrechner
+
+![Icon](./.images/icon01.png) 
 
 Solltest du Spielern beim leveln, oder gar beim unfreiwilligen leveln helfen wollen, ist dieses Tool unverzichtbar. Es rechnet für dich alle relevanten Werte aus, und du kannst ihn nach Belieben einstellen.
 
