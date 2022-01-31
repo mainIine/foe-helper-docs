@@ -78,6 +78,9 @@
   * [Technology (Tech) Tree](en/modules/tech-tree/README.md)
   * [Town Overview](en/modules/town/README.md)
 
+* [Website](en/website/README.md)
+	* [CityMap](en/website/citymap/README.md)
+
 * [Helping out](en/guide/README.md)
   * [Github](en/guide/github.md)
   * [Markdown](en/guide/markdown.md)
