@@ -4,9 +4,10 @@ description: Stadtplaner und seine Funktionen
 
 # Stadtplaner
 
-## Was kann dieses Tool
+## Was kann dieses Tool?
 Um verschiedene Varianten einer Stadt zu planen oder aber um die Stadt von einem Gilden - Kollegen oder Freund planen zu lassen ist dieses Tool genau das richtige.
 Dazu kannst Du einen Share-Link weiter geben, der es dem Bearbeiter ermöglicht Deine Stadt zu planen.
+
 
 ## Übersicht
 
@@ -39,7 +40,7 @@ Du kannst aber auch mit STRG + linker Maustaste einzelne Gebäude markieren...
 
 ... und mit der Taste "Entf" in die Sidebar verschieben lassen.
 
-![einzelene Gebäude markieren](./.images/moved-single-buildings.png)
+![einzelene Gebäude verschoben](./.images/moved-single-buildings.png)
 
 Mit Shift + linker Maustaste kannst Du außerhalb der Map beginnend ein Viereck über die Gebäude ziehen die Du anschließend ebenfalls mit der Taste "Entf" zur Sidebar schicken möchtest:
 
@@ -54,16 +55,16 @@ Es werden alle Gebäude beachtet, die das orangen Viereck berühren. Das Gebäud
 ![markierte Gebäude entfernt](./.images/moved-with-rectangle.png)
 
 
-Mit diesen Hilfen musst Du nicht jedes einzelne Gebäude nach links schieben.
+Mit diesen Hilfen musst Du nicht jedes einzelne Gebäude nach links schieben. Was natürlich auch geht.
 
 ---
 
 Zum Speichern gibt es zwei Optionen. Beim ersten Speichern wirst Du nach einem Namen gefragt.<br>
 Hast Du das erfolgreich gespeichert wird ab sofort im Hintergrund Deine Stadt alle 30s automatisch gespeichert.
 
-![markierte Gebäude entfernt](./.images/cityname-modal.png)
+!["Speichern mit Name" Modal](./.images/cityname-modal.png)
 
-![markierte Gebäude entfernt](./.images/modal-city-saved.png)
+![Gespeichert!](./.images/modal-city-saved.png)
 
 Öffnest Du eine bereits vorhandene Stadt, wird diese sofort alle 30s nach dem Öffnen im Hintergrund gesichert. So geht kein Fortschritt verloren.
 
@@ -71,3 +72,20 @@ Hast Du das erfolgreich gespeichert wird ab sofort im Hintergrund Deine Stadt al
 
 Falls Dir weitere Monitore fehlen kannst DU Deine Stadt entweder als Grafik oder als transparente PNG-Grafik abspeichern.<br>
 Das machst Du mit den Buttons "PDF Download" oder "PNG Download". 
+
+
+## Stadt freigeben
+
+Möchtest Du das jemand anderes für Dich Deine Stadt plant, kannst Du in der Übersicht einen "Share Link" erzeugen lassen:
+
+![Share Link erstellen](./.images/create-share-link.png)
+
+---
+
+Mit einem Klick auf kopieren wird dir dieser in die Zwischenablage deines Gerätes kopiert:
+
+![Share Link erstellen](./.images/copy-share-link.png)
+
+<div data-gb-custom-block data-tag="hint" data-style='warning'>
+Löscht Du den Share link, kann die Stadt nicht wieder unter diesem aufgerufen werden. Du musst einen neuen erzeugen und diesen wieder weiter geben.
+</div>
