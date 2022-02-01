@@ -58,9 +58,9 @@ Avec ces aides, vous n'avez pas à pousser chaque bâtiment vers la gauche. Ce q
 Il existe deux options pour enregistrer. La première fois que vous enregistrez, il vous sera demandé un nom.<br>
 Si vous l'avez enregistré avec succès, votre ville sera automatiquement enregistrée toutes les 30 secondes en arrière-plan. 
 
-![Enregistrer avec le nom](./.images/enregister.png)
+![Enregistrer avec le nom](./.images/enregistrer.png)
 
-![Enregistré !](./.images/enregistrer.png)
+![Enregistré !](./.images/sauvegarde.png)
 
 Si vous ouvrez une ville existante, elle sera enregistrée en arrière-plan toutes les 30 secondes après l'ouverture. De cette façon, aucun progrès n'est perdu. 
 
