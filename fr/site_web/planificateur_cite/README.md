@@ -21,7 +21,7 @@ Dans l'aperçu sont affichés vos villes. Votre ville principale, mais aussi vos
 ## Editer sa ville
  
 En cliquant sur "Nouvelle cité", vous verrez quelles données sont disponibles. Vous devez avoir envoyé ceci à ce serveur à partir de l'extension Assistant FoE.<br>
-Ce sera principalement votre ville elle-même et/ou le dernier avant-poste que vous avez soumis.
+Ce sera principalement votre ville elle-même et/ou la dernière colonie que vous avez soumis.
 
 Lors du premier appel, tous les bâtiments sont toujours sur la carte. Votre ville est construite comme ça. 
 
