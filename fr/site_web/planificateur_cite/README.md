@@ -37,7 +37,7 @@ Vous pouvez aussi avec CTRL + clic gauche de la souris marquer des bâtiments in
 
 .... et avec la touche "Del" / "Suppr" vous pouvez envoyer ces bâtiments dans la barre latérale.
 
-![Déplacer les bâtiments marqués individuellement](./images/batiment_enleve.png)
+![Déplacer les bâtiments marqués individuellement](./.images/batiment_enleve.png)
 
 Avec la touche Shift / Maj + le bouton de gauche de la souris, vous pouvez aussi dessiner un rectangle en commençant en dehors de la carte en tirant par-dessus les bâtiments. Et ensuite à nouveau avec la touche "Del" / "Suppr" les envoyer dans la barre latérale.
 
