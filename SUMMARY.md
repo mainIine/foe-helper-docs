@@ -119,6 +119,10 @@
   * [Paramètres](fr/module/parametres/README.md)
   * [Résultat de l'EG](fr/module/statistique_EG/README.md)
   * [Statistiques](fr/module/stat/README.md)
+  
+* [Site Web](fr/site_web/README.md)
+  * [Planificateur de cité](fr/site_web/planificateur_cite/README.md)
+
 
 * [Aide](fr/guide/README.md)
   * [Github](fr/guide/github.md)
