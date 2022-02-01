@@ -85,7 +85,7 @@ If you want someone else to plan your city for you, you can create a "Share Link
 
 Click on copy to copy it to the clipboard of your device.:
 
-![Share Link erstellen](./.images/copy-share-link.png)
+![Copy share link](./.images/copy-share-link.png)
 
 <div data-gb-custom-block data-tag="hint" data-style='warning'>
 If you delete the share link, the city cannot be called up again under this link. You have to create a new one and share it again.
