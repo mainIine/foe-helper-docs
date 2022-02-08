@@ -72,7 +72,7 @@
   * [Negotiation Helper](en/module/negotiation/README.md)
   * [Notes](en/module/notes/README.md)
   * [Production Overview](en/module/production/README.md)
-  * [Scouting Info](de/module/scouting/README.md)
+  * [Scouting Info](en/module/scouting/README.md)
   * [Sets, Upgrades & Kits](en/module/kits/README.md)
   * [Settings](en/module/settings/README.md)
   * [Settlements Overview](en/module/settlements/README.md)
