@@ -21,7 +21,7 @@ Dans l'aperçu sont affichés vos villes. Votre ville principale, mais aussi vos
 ## Editer sa ville
  
 En cliquant sur "Nouvelle cité", vous verrez quelles données sont disponibles. Vous devez avoir envoyé ceci à ce serveur à partir de l'extension Assistant FoE.<br>
-Ce sera principalement votre ville elle-même et/ou le dernier avant-poste que vous avez soumis.
+Ce sera principalement votre ville elle-même et/ou la dernière colonie que vous avez soumis.
 
 Lors du premier appel, tous les bâtiments sont toujours sur la carte. Votre ville est construite comme ça. 
 
@@ -37,7 +37,7 @@ Vous pouvez aussi avec CTRL + clic gauche de la souris marquer des bâtiments in
 
 .... et avec la touche "Del" / "Suppr" vous pouvez envoyer ces bâtiments dans la barre latérale.
 
-![Déplacer les bâtiments marqués individuellement](./images/batiment_enleve.png)
+![Déplacer les bâtiments marqués individuellement](./.images/batiment_enleve.png)
 
 Avec la touche Shift / Maj + le bouton de gauche de la souris, vous pouvez aussi dessiner un rectangle en commençant en dehors de la carte en tirant par-dessus les bâtiments. Et ensuite à nouveau avec la touche "Del" / "Suppr" les envoyer dans la barre latérale.
 
@@ -58,9 +58,9 @@ Avec ces aides, vous n'avez pas à pousser chaque bâtiment vers la gauche. Ce q
 Il existe deux options pour enregistrer. La première fois que vous enregistrez, il vous sera demandé un nom.<br>
 Si vous l'avez enregistré avec succès, votre ville sera automatiquement enregistrée toutes les 30 secondes en arrière-plan. 
 
-![Enregistrer avec le nom](./.images/enregister.png)
+![Enregistrer avec le nom](./.images/enregistrer.png)
 
-![Enregistré !](./.images/enregistrer.png)
+![Enregistré !](./.images/sauvegarde.png)
 
 Si vous ouvrez une ville existante, elle sera enregistrée en arrière-plan toutes les 30 secondes après l'ouverture. De cette façon, aucun progrès n'est perdu. 
 
