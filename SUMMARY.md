@@ -113,6 +113,7 @@
   * [Efficience des bâtiments](fr/module/efficience/README.md)
   * [Filtre du marché](fr/module/marche/README.md)
   * [Incidents](fr/module/incident/README.md) 
+  * [Infos de l'éclaireur](fr/module/eclaireur/README.md)
   * [Infos Système](fr/module/info_technique/README.md)
   * [Investissement GM](fr/module/investissement_gm/README.md)
   * [Investissement PF](fr/module/investissement_PF/README.md)
