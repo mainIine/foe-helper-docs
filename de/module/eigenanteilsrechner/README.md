@@ -60,9 +60,9 @@ Wenn man auf die Pfeiltaste links von der Titelleiste klickt, öffnet sich der D
   * **Eigenanteil** - Anzahl der FPs, die du selber einzahlen musst
 * **Plätze** - gibt an, welche Mäzenplätze ausgeschrieben werden sollen:
   * **Platz 1** bis **Platz 5** - hier kann man Haken setzen, wenn gewisse Mäzenplätze explizit ausgeschrieben werden sollen, unabhängig von folgenden automatischen Kalkulationen.
-  * **Alle** - setzt alle Haken neben **Platz 1** bis **Platz 5**
-  * **Auto** - setzt die Haken nur neben den Mäzenplätzen, die abgesichert sind.
-  * **Auto + Nicht sichere** - <span style="color:red; background-color:yellow">(hier brauche ich Hilfe.  Was ist der Unterschied to "Alle"?)</span>
+  * **Alle** - setzt alle Haken neben **Platz 1** bis **Platz 5** (auch wenn diese Plätze schon belegt oder nicht abgesichert sind)
+  * **Auto** - setzt die Haken nur neben den Mäzenplätzen, die abgesichert und unbelegt sind
+  * **Auto + Nicht sichere** - setzt die Haken nur neben den Mäzenplätzen, die noch nicht belegt sind (auch wenn diese Plätze nicht abgesichert sind)
 * **Vorschau** - hier sieht man eine Vorschau des generierten Textes
 * **Werte kopieren** - kopiert den generierten Text in die Zwischenablage, damit sie anschließend in ein Chat eingefügt werden kann.
 * **Merken** - hiermit kannst du die generierten Texte verschiedener LGs in der Zwischenablage sammeln, um sie dann auf einmal in ein Chat einzufügen.
