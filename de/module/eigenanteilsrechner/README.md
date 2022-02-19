@@ -38,7 +38,7 @@ Der Eigenanteilsrechner ist wie folgt von oben nach unten strukturiert:
 
 Hier können die Buttons konfiguriert werden, die oben rechts im Hauptdialog angezeigt werden.
 
-**Kopieren - Format pro legendärem Bauwerk speichern** - <span style="color:red; background-color:yellow">(hier brauche ich Hilfe)</span>
+**Kopieren - Format pro legendärem Bauwerk speichern** - Wenn aktiviert, dann werden die allgemeinen Informationen die zum Kopieren zusammengestellt werden für jedes Bauwerk individuell gespeichert (siehe "Enthaltene Daten" im Abschnitt zur Kopierfunktion). Diese Option ist nicht voreingestellt.
 
 ## Kopierfunktion
 
