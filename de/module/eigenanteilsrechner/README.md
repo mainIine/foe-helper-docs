@@ -18,8 +18,8 @@ Der Eigenanteilsrechner ist wie folgt von oben nach unten strukturiert:
 * **Eigenanteil:** wie viel FPs du insgesamt einzahlen musst
 * **LG Gesamt-FP:** die Summe des Mäzen- und Eigenanteils
 * **Bestehende Einzahlungen**
-  * **Absichern** - <span style="color:red; background-color:yellow">(hier brauche ich Hilfe)</span>
-  * **Vertrauen** - <span style="color:red; background-color:yellow">(hier brauche ich Hilfe)</span>
+  * **Absichern** - Falls schon Einzahlungen von anderen Spielern vorhanden sind, werden diese Spieler sobald möglich auf dem zur Einzahlung passenden Platz abgesichert. Dies ist die Voreinstellung.
+  * **Vertrauen** - Falls schon Einzahlungen von anderen Spielern vorhanden sind, wird darauf vertraut dass diese Spieler weder einander noch neu einsteigende Investoren überholen (d.h. die vorhandenen und kommenden Einzahlungen werden ausschließlich gegen neu Investierende abgesichert). Diese Option ist in der Voreinstellung nicht aktiv und sollte mit Bedacht verwendet werden.
 * Tabelle:
   * **Reihenfolge** - gibt an, wer in welcher Reihenfolge einzahlen muss.  Im o.g. Beispiel muss der LG-Besitzer mit einer Eigenleistung von 2301 FP anfangen, um die Mäzenplätze 1 und 2 abzusichern.
   * Die Anzahl der FP, die eingezahlt werden müssen
