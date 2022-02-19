@@ -18,8 +18,8 @@ Der Eigenanteilsrechner ist wie folgt von oben nach unten strukturiert:
 * **Eigenanteil:** wie viel FPs du insgesamt einzahlen musst
 * **LG Gesamt-FP:** die Summe des Mäzen- und Eigenanteils
 * **Bestehende Einzahlungen**
-  * **Absichern** - <span style="color:red; background-color:yellow">(hier brauche ich Hilfe)</span>
-  * **Vertrauen** - <span style="color:red; background-color:yellow">(hier brauche ich Hilfe)</span>
+  * **Absichern** - Falls schon Einzahlungen von anderen Spielern vorhanden sind, werden diese Spieler sobald möglich auf dem zur Einzahlung passenden Platz abgesichert. Dies ist die Voreinstellung.
+  * **Vertrauen** - Falls schon Einzahlungen von anderen Spielern vorhanden sind, wird darauf vertraut dass diese Spieler weder einander noch neu einsteigende Investoren überholen (d.h. die vorhandenen und kommenden Einzahlungen werden ausschließlich gegen neu Investierende abgesichert). Diese Option ist in der Voreinstellung nicht aktiv und sollte mit Bedacht verwendet werden.
 * Tabelle:
   * **Reihenfolge** - gibt an, wer in welcher Reihenfolge einzahlen muss.  Im o.g. Beispiel muss der LG-Besitzer mit einer Eigenleistung von 2301 FP anfangen, um die Mäzenplätze 1 und 2 abzusichern.
   * Die Anzahl der FP, die eingezahlt werden müssen
@@ -38,7 +38,7 @@ Der Eigenanteilsrechner ist wie folgt von oben nach unten strukturiert:
 
 Hier können die Buttons konfiguriert werden, die oben rechts im Hauptdialog angezeigt werden.
 
-**Kopieren - Format pro legendärem Bauwerk speichern** - <span style="color:red; background-color:yellow">(hier brauche ich Hilfe)</span>
+**Kopieren - Format pro legendärem Bauwerk speichern** - Wenn aktiviert, dann werden die allgemeinen Informationen die zum Kopieren zusammengestellt werden für jedes Bauwerk individuell gespeichert (siehe "Enthaltene Daten" im Abschnitt zur Kopierfunktion). Diese Option ist nicht voreingestellt.
 
 ## Kopierfunktion
 
@@ -60,9 +60,9 @@ Wenn man auf die Pfeiltaste links von der Titelleiste klickt, öffnet sich der D
   * **Eigenanteil** - Anzahl der FPs, die du selber einzahlen musst
 * **Plätze** - gibt an, welche Mäzenplätze ausgeschrieben werden sollen:
   * **Platz 1** bis **Platz 5** - hier kann man Haken setzen, wenn gewisse Mäzenplätze explizit ausgeschrieben werden sollen, unabhängig von folgenden automatischen Kalkulationen.
-  * **Alle** - setzt alle Haken neben **Platz 1** bis **Platz 5**
-  * **Auto** - setzt die Haken nur neben den Mäzenplätzen, die abgesichert sind.
-  * **Auto + Nicht sichere** - <span style="color:red; background-color:yellow">(hier brauche ich Hilfe.  Was ist der Unterschied to "Alle"?)</span>
+  * **Alle** - setzt alle Haken neben **Platz 1** bis **Platz 5** (auch wenn diese Plätze schon belegt oder nicht abgesichert sind)
+  * **Auto** - setzt die Haken nur neben den Mäzenplätzen, die abgesichert und unbelegt sind
+  * **Auto + Nicht sichere** - setzt die Haken nur neben den Mäzenplätzen, die noch nicht belegt sind (auch wenn diese Plätze nicht abgesichert sind)
 * **Vorschau** - hier sieht man eine Vorschau des generierten Textes
 * **Werte kopieren** - kopiert den generierten Text in die Zwischenablage, damit sie anschließend in ein Chat eingefügt werden kann.
 * **Merken** - hiermit kannst du die generierten Texte verschiedener LGs in der Zwischenablage sammeln, um sie dann auf einmal in ein Chat einzufügen.
