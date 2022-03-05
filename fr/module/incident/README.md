@@ -2,13 +2,15 @@
 
 ![Icône](./.images/icon01.png) 
 
-Ce module affiche les incidents disponibles dans ta ville que tu peux récolter.
+Ce module affiche les incidents disponibles dans ta ville que tu peux récolter. Il affiche également les reliques disponibles ou encore cachée en Expédition de guilde.
 
 ## Structure
 
 ![Structure](./.images/Screenshot.png)
 
 Dans le tableau sont affichés quels sont les incidents présents, où l'on peut les trouver et pendant combien de temps.
+
+![avec une relique](./.images/Screenshot2.png)
 
 
 ## Badge sur l'icône
