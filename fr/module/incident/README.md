@@ -12,6 +12,7 @@ Dans le tableau sont affichés quels sont les incidents présents, où l'on peut
 
 ![avec une relique](./.images/Screenshot2.png)
 
+Le type de relique (commune - argent, inhabituelle - or, rare - jade) est indiqué. 
 
 ## Badge sur l'icône
 
