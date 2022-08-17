@@ -47,7 +47,7 @@ Les modifications sont toujours par rapport à la dernière actualisation sur le
 
 #### Les points
 
-![changement de points](./.images/point+.png) 
+![changement de points](./.images/point.png) 
 L'augmentation des points du joueur (depuis la dernière actualisation) est affiché en vert après sont total de points. La diminution de points est affichée en rouge.
 
 #### Départ / arrivée de joueur
@@ -73,7 +73,7 @@ En recliquant sur le chevron, on replie les information pour ce membre.
 
 #### Inactivité
 
-![Absence](./images/absence.png)
+![Absence](./.images/absence.png)
 
 Comme dans FoE, l'inactivité d'un membre est signalée par un bouton de couleur. Jaune pour une absence en cours jusqu'à 3 jours, rouge ensuite. Le chiffre affiché entre parenthèse à coté du bouton de couleur, représente le nombre total de jour d'absence.
 
