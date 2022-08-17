@@ -66,7 +66,7 @@ L'affichage des dates peut être changé dans la [configuration](#generalite).
 
 Le crayon à droite de négociation ou de Niveau, permet d'effacer l'une ou l'autre semaine de résultat. Un message d'avertissement sera affiché avant de vous donner l'accès à la suppression.
 
-![Suppression de résultat](./.images/supression_resultat.png)
+![Suppression de résultat](./.images/supression_resultat.png)<br>
 Un clic sur la croix rouge à droite enlève la ligne de la banque de données. Il n'y pas plus de message de confirmation !
 
 En recliquant sur le chevron, on replie les information pour ce membre.
