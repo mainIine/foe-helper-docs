@@ -73,9 +73,12 @@ En recliquant sur le chevron, on replie les information pour ce membre.
 
 #### Inactivité
 
-![Inactivité](./.images/inactivite.png)
-Comme dans FoE, l'inactivité d'un membre est signalée par un bouton de couleur. Jaune jusqu'à 3 jours, rouge ensuite. le chiffre affiché entre parenthèse à coté du bouton de couleur, représente le nombre total de jour d'absence.
+![Absence](./images/absence.png)
 
+Comme dans FoE, l'inactivité d'un membre est signalée par un bouton de couleur. Jaune pour une absence en cours jusqu'à 3 jours, rouge ensuite. Le chiffre affiché entre parenthèse à coté du bouton de couleur, représente le nombre total de jour d'absence.
+
+
+![Inactivité](./.images/inactivite.png)
 En dépliant les informations de participation à l'EG / CBG, si le membre a des absences, elles seront affichées aussi à cet endroit.
 
 ### Ères
