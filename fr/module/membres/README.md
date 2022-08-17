@@ -25,7 +25,7 @@ Le bouton Exporter (CSV ou JSON) exporte les données en fonction de l'onglet ac
 
 Le nom du fichier exporté comporte le nom de l'onglet (en anglais)_la date du jour-l'heure de l'export.
 
-!(./.images/screenshot002.png) Pour que la fenêtre s'ouvre automatiquement lorsqu'on ouvre Votre Guilde dans le menu Général (FoE), l'option doit être sélectionnée.
+![](./.images/screenshot002.png) Pour que la fenêtre s'ouvre automatiquement lorsqu'on ouvre Votre Guilde dans le menu Général (FoE), l'option doit être sélectionnée.
 
 
 
@@ -38,6 +38,7 @@ Le nom du fichier exporté comporte le nom de l'onglet (en anglais)_la date du j
 	* on a visité les membres de la guilde en cliquant sur leur ville
 	* on a visité l'onglet Trésorie de la Guilde dans le menu Général (FoE)
 	* on a visité l'onglet Expédition de Guilde 
+	* on a ouvert le champd de bataille
 
 Les modifications sont toujours par rapport à la dernière actualisation sur le même PC.
 
