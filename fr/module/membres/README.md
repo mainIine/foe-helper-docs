@@ -56,7 +56,7 @@ L'augmentation des points du joueur (depuis la dernière actualisation) est affi
 
 ![Ajout / Départ](./.images/ajout_suppression_membre.png)
 
-Les membres partis sont affichés avec leur indications tracées et ils n'ont plus de numéro de place dans la guilde. La durée d'affichage peut être réglée dans la [configuration](#generalite).
+Les membres partis sont affichés avec leur indications tracées et ils n'ont plus de numéro de place dans la guilde. La durée d'affichage peut être réglée dans la [configuration](#Configuration).
 <br>Les nouveaux membres sont affiché avec un fond jaune (jusqu'à la prochaine actualisation).
 
 #### Information sur la participation en EG / CBG
