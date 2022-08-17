@@ -15,7 +15,7 @@ L'aperçu des membres de guildes est structurés comme suit de haut en bas :
 * La zone d'affichage en fonction de l'onglet choisi
 * La date / heure de la dernière mise à jour des données ![](./.images/affichage_heure.png)
 
-## Configuration
+## <a name="Configuration"></a>Configuration
 
 ![Configuration](./.images/parametre.png)
 
@@ -25,7 +25,7 @@ Le bouton Exporter (CSV ou JSON) exporte les données en fonction de l'onglet ac
 
 Le nom du fichier exporté comporte le nom de l'onglet (en anglais)_la date du jour-l'heure de l'export.
 
-Pour que la fenêtre s'ouvre automatiquement lorsqu'on ouvre Votre Guilde dans le menu Général (FoE)
+Pour que la fenêtre s'ouvre automatiquement lorsqu'on ouvre Votre Guilde dans le menu Général (FoE)<br>
 ![](./.images/screenshot002.png)<br>l'option "ouvrir l'aperçu après mise à jour" doit être sélectionnée.
 
 
@@ -64,7 +64,7 @@ Les membres partis sont affichés avec leur indications tracées et ils n'ont pl
 ![Participation à l'EG / CBG](./.images/participationEG_CBG.png)
 
 En cliquant sur le petit chevron à la fin d'une ligne d'un membre, on déplie l'affichage des ses résultats en EG / CBG pour toute la durée des données conservées sur le PC.
-L'affichage des dates peut être changé dans la [configuration](#generalite).
+L'affichage des dates peut être changé dans la [configuration](#Configuration).
 
 Le crayon à droite de négociation ou de Niveau, permet d'effacer l'une ou l'autre semaine de résultat. Un message d'avertissement sera affiché avant de vous donner l'accès à la suppression.
 
