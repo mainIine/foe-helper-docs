@@ -10,10 +10,10 @@ l'aperçu des membres de la guilde vous donne toutes les informations sur les GM
 
 L'aperçu des membres de guildes est structurés comme suit de haut en bas :
 
-* Barre de titre avec le menu Paramètres à droite (./.images/Icon_param.png)
+* Barre de titre avec le menu Paramètres à droite ![](./.images/Icon_param.png)
 * Onglets des différentes fenêtres d'information
 * La zone d'affichage en fonction de l'onglet choisi
-* La date / heure de la dernière mise à jour des données (./.images/affichage_heure.png)
+* La date / heure de la dernière mise à jour des données ![](./.images/affichage_heure.png)
 
 ## Configuration
 
@@ -25,7 +25,8 @@ Le bouton Exporter (CSV ou JSON) exporte les données en fonction de l'onglet ac
 
 Le nom du fichier exporté comporte le nom de l'onglet (en anglais)_la date du jour-l'heure de l'export.
 
-![](./.images/screenshot002.png) Pour que la fenêtre s'ouvre automatiquement lorsqu'on ouvre Votre Guilde dans le menu Général (FoE), l'option doit être sélectionnée.
+Pour que la fenêtre s'ouvre automatiquement lorsqu'on ouvre Votre Guilde dans le menu Général (FoE)
+![](./.images/screenshot002.png)<br>l'option "ouvrir l'aperçu après mise à jour" doit être sélectionnée.
 
 
 
