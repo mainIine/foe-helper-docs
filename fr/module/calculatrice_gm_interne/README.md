@@ -102,7 +102,7 @@ Lorsque la première  propre contribution, la 1ère place et la 2ème place ont 
 
 ## FAQ
 
-<a name="securisé"></a>**Securisé**
+### <a name="securisé"></a>**Securisé**
 
 Avec la coche **sécurisé**, les places sont d'abord sécurisées avant d'être données au mécénat. Si des montants sont déjà posé, ils occupent les places dont le montant posé permet de les avoir sans sécurisation supplémentaire.
 
@@ -110,7 +110,7 @@ Dans cet exemple, il faut encore poser 362 PF pour sécuriser la Place 1 et la P
 
 ![coche sécurisé](./.images/screenshot11.png)
 
-<a name="confiance"></a>**Confiance**
+### <a name="confiance"></a>**Confiance**
 
 Avec la coche **confiance**, on part du principe que les montants posés resteront les mêmes. Car posé par des personnes de confiance. Dans ce cas, les excédents posés, servent à réduire le coût de la sécurisation de la Place 1 et Place 2.
 
@@ -123,7 +123,7 @@ A titre d'exemple, voici encore la même image avec les deux coches **seécuris�
 ![coche confiance](./.images/screenshot10.png)  ![coche confiance](./.images/screenshot12.png)
 
 
-<a name="Ext"></a>**Ext.**
+### <a name="Ext"></a>**Ext.**
 
 Si quelqu'un vous doit des PF, vous pouvez introduire le montant total qu'il va vous verser et voir à combien vous devez securiser la place afin de ne pas mettre en danger votre GM.
 
