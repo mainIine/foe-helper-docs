@@ -112,7 +112,7 @@ Via le chevron à droite de la ligne, on va afficher [le détail des GM sélecti
 
 ![](./.images/bouton_changer_vue.png) permet d'afficher la [liste de tous les GM](#liste_GM_ere).
 
-![](./.images/champ_recherche) le champ [recherche](#rechercher_gm) permet de rechercher un GM ou un membre.
+![](./.images/champ_recherche.png) le champ [recherche](#rechercher_gm) permet de rechercher un GM ou un membre.
 
 #### <a name="detail_GM_ere"></a>Détail des GM sélectionnés
 
