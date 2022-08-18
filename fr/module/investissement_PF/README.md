@@ -25,7 +25,7 @@ L'option "Ouvrir la fenêtre automatiquement" va ouvir cette fenêtre à chaque 
 
 ## Zone d'affichage des PF investis
 
-![Info des investissements](./.images/zone_affichage.png)
+![Info des investissements](./.images/zone_affichage.PNG)
 
 cette barre affiche :
 	* Les PF investis
