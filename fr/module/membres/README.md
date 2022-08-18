@@ -11,7 +11,7 @@ l'aperçu des membres de la guilde vous donne toutes les informations sur les GM
 L'aperçu des membres de guildes est structurés comme suit de haut en bas :
 
 * Barre de titre avec le menu Paramètres à droite ![](./.images/Icon_param.png)
-* Un champ recherche(#rechercher_gm) (affichage désactivable dans les paramètres) 
+* Un champ [recherche](#rechercher_gm) (affichage désactivable dans les paramètres) 
 * Onglets des différentes fenêtres d'information
 * La zone d'affichage en fonction de l'onglet choisi
 * La date / heure de la dernière mise à jour des données ![](./.images/affichage_heure.png)
@@ -135,6 +135,7 @@ en cliquant sur le bouton **Changer la vue**, on affiche la liste de tous les GM
 ![Liste des GM](./.images/GM_002.png)
 
 sont affichés aussi les détails :
+
 	* (Niveau) : niveau actuel du GM
 	* (Niveau débloqué) : jusqu'à quel niveau le GM est débloqué
 	* (PF investit) : combien de PF sont déjà posé sur le GM
