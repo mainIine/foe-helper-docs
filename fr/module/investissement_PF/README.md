@@ -28,6 +28,7 @@ L'option "Ouvrir la fenêtre automatiquement" va ouvir cette fenêtre à chaque 
 ![Info des investissements](./.images/zone_affichage.PNG)
 
 cette barre affiche :
+
 	* Les PF investis
 	* Le gain actuel. si "sécurisé" est inscrit, c'est le gain sans tenir compte des gains des places non sécurisées
 	* Le total de vos PF avec votre stock, vos investissements et vos gains
@@ -40,6 +41,7 @@ cette barre affiche :
 ![Zone d'affichage](./.images/structure.png)
 
 Chaque investissment est répertorié, avec si choisi dans la configuration :
+
 	* Date d'investissement
 	* Date de l'augmentation
 	* Progression des PF sur le GM. Les augmentations depuis la dernière ouverture sont indiquées en jaune
