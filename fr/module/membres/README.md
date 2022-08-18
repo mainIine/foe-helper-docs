@@ -163,12 +163,20 @@ Le champ ne tient pas compte de la casse et cherche les occurence aussi au milie
 Cette affichage montre le nombre de chaque bâtiments de guilde et le nombre de ressource qu'ils rapportent (si récolté..)
 Et affiché aussi la puissance de guilde récoltée chaque jour.
 
-![](./.images/bouton_changer_vue.png) permet d'afficher la [la vue détaillée des bâtiements de guilde](#liste_GM_guilde).
+![](./.images/bouton_changer_vue.png) permet d'afficher la [la vue détaillée des bâtiments de guilde](#liste_GM_guilde).
 
 #### <a name="liste_GM_guilde"></a>Liste détaillée des GM de guilde
 
 ![Liste détaillées des bâtiments de guilde](./.images/GM_guilde_002.png)
 
-Affiche chaque bâtiment de guilde avec son possesseur. Pour un GM est affiché l'ère du membre, pour un autre bâtiment, l'ère dans laquelle a été construit le bâtiment. S'affiche aussi les ressources et la puissance de guilde rapportées par le bâtiment s'il est récolté.
+Affiche chaque bâtiment de guilde avec son possesseur. Pour un GM est affiché l'ère du membre et le niveau du GM. Pour un autre bâtiment, l'ère dans laquelle a été construit le bâtiment. S'affiche aussi les ressources et la puissance de guilde rapportées par le bâtiment s'il est récolté.
+
+![Puissance de guilde](./.images/GM_guilde_004.png) 
+
 
 ### Ressources en Trésorie
+
+![Trésorie de la guilde](./.images/Tresorie.png)
+
+Cette affichage les ressources récoltées par jour par tous les bâtiements de guilde. Indique aussi le nombre de membre dans cette ère et le stock de la trésorie de guilde.
+Les informations de la production journalière sont un maximum théorique et dépendant que tous les membres récoltent.
