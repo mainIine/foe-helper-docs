@@ -10,7 +10,7 @@ L'aperçu des membres de la guilde vous donne toutes les informations sur les GM
 
 L'aperçu des membres de guildes est structurés comme suit de haut en bas :
 
-* Barre de titre avec le menu Paramètres à droite ![](./.images/Icon_param.png)
+* Barre de titre avec le menu Configuration à droite ![](./.images/Icon_param.png)
 * Un champ [recherche](#rechercher_gm) (affichage désactivable dans les paramètres) 
 * Onglets des différentes fenêtres d'information
 * La zone d'affichage en fonction de l'onglet choisi

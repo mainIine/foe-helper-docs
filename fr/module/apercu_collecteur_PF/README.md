@@ -29,4 +29,4 @@ Les montants seront affichés en total sur la période par genre de provenance.
 ![Vue détaillé de la récolte](./.images/screenshot_002.png)
 
 En cliquant sur le chevron à droite, vous pouvez voir le détail de chaque récolte pour un genre de provenance.
-Ici sur l'image, on voit comment se répartissent les 378 PF de gains de l'Himeji entre le 15 et 18 août.
+Ici sur l'image, on voit comment se répartissent les 330 PF de gains de l'Himeji entre le 15 et 18 août.
