@@ -61,6 +61,6 @@ en recliquant, on referme la vue détaillée.
 
 ### <a name="cache"></a>Affichage sélectif des GM
 
-en cliquant sur ![](./.images/visible.png) d'un GM, on peut le cacher dans la liste. Pour autant que l'option de la [configuration](#Configuration) soit sélectionné.
+en cliquant sur ![](./.images/visible.png) d'un GM, on peut le cacher dans la liste. Pour autant que l'option de la [configuration](#Configuration) soit sélectionné. Cacher les GM, permet d'afficher que la liste des GM actifs et n'afficher que les GM qui sont montés activement.
 
 Tous les GM affichant ce symbole ![](./.images/invisible.png) ne sont pas pas pris en compte pour le calcul des gains.
