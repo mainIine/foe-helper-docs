@@ -155,4 +155,20 @@ La recherche de 'Dam' affiche un membre dont le nom commemnce par Dam, comme les
 Le champ ne tient pas compte de la casse et cherche les occurence aussi au milieu du texte.
 
 ### Bâtiments de guilde
+
+#### Liste des Bâtiments de guilde
+
+![Liste des Bâtiments de guilde](./.images/GM_guilde_001.png)
+
+Cette affichage montre le nombre de chaque bâtiments de guilde et le nombre de ressource qu'ils rapportent (si récolté..)
+Et affiché aussi la puissance de guilde récoltée chaque jour.
+
+![](./.images/bouton_changer_vue.png) permet d'afficher la [la vue détaillée des bâtiements de guilde](#liste_GM_guilde).
+
+#### <a name="liste_GM_guilde"></a>Liste détaillée des GM de guilde
+
+![Liste détaillées des bâtiments de guilde](./.images/GM_guilde_002.png)
+
+Affiche chaque bâtiment de guilde avec son possesseur. Pour un GM est affiché l'ère du membre, pour un autre bâtiment, l'ère dans laquelle a été construit le bâtiment. S'affiche aussi les ressources et la puissance de guilde rapportées par le bâtiment s'il est récolté.
+
 ### Ressources en Trésorie
