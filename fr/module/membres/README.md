@@ -110,9 +110,9 @@ Cette page affiche :
 
 Via le chevron à droite de la ligne, on va afficher [le détail des GM sélectionnés](#detail_GM_ere).
 
-[](./.images/bouton_changer_vue.png) permet d'afficher la [liste de tous les GM](#liste_GM_ere).
+![](./.images/bouton_changer_vue.png) permet d'afficher la [liste de tous les GM](#liste_GM_ere).
 
-[](./.images/champ_recherche) le champ [recherche](#rechercher_gm) permet de rechercher un GM ou un membre.
+![](./.images/champ_recherche) le champ [recherche](#rechercher_gm) permet de rechercher un GM ou un membre.
 
 #### <a name="detail_GM_ere"></a>Détail des GM sélectionnés
 
@@ -141,7 +141,7 @@ sont affichés aussi les détails :
 	* (PF investit) : combien de PF sont déjà posé sur le GM
 	* (PF pour passer le niveau) : combien il manque de PF pour finir le niveau
 
-en recliquant sur le bouton [](./.images/bouton_changer_vue.png) vous revenez à l'affichage [précédent](#apercu_GM_ere).
+en recliquant sur le bouton ![](./.images/bouton_changer_vue.png) vous revenez à l'affichage [précédent](#apercu_GM_ere).
 
 #### <a name="rechercher_gm"></a>Champ recherche
 
