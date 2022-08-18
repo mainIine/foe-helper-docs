@@ -2,7 +2,7 @@
 
 ![Icône](./.images/icon001.png)
 
-l'aperçu des membres de la guilde vous donne toutes les informations sur les GM des membres, les GM de guilde, le stock de resssource et combien vous pouvez en récolter par jour et les ères de vos membres.
+L'aperçu des membres de la guilde vous donne toutes les informations sur les GM des membres, les GM de guilde, le stock de resssource et combien vous pouvez en récolter par jour et les ères de vos membres.
 
 ## Structure
 
