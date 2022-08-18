@@ -114,7 +114,7 @@ Via le chevron à droite de la ligne, on va afficher [le détail des GM sélecti
 
 [](./.images/champ_recherche) le champ [recherche](#rechercher_gm) permet de rechercher un GM ou un membre.
 
-####<a name="detail_GM_ere"></a>Détail des GM sélectionnés
+#### <a name="detail_GM_ere"></a>Détail des GM sélectionnés
 
 ![Vue détaillée des GM](./.images/GM_004.png)
 
@@ -128,14 +128,13 @@ en bas de la fenêtre est affiché, si c'est le cas, tous les membres qui **n'on
 
 En recliquant sur le chevron, on replie la vue détaillée.
 
-####<a name="liste_GM_ere"></a>Liste de tous les GM
+#### <a name="liste_GM_ere"></a>Liste de tous les GM
 
 en cliquant sur le bouton **Changer la vue**, on affiche la liste de tous les GM de la guilde.
 
 ![Liste des GM](./.images/GM_002.png)
 
 sont affichés aussi les détails :
-
 	* (Niveau) : niveau actuel du GM
 	* (Niveau débloqué) : jusqu'à quel niveau le GM est débloqué
 	* (PF investit) : combien de PF sont déjà posé sur le GM
@@ -143,11 +142,16 @@ sont affichés aussi les détails :
 
 en recliquant sur le bouton [](./.images/bouton_changer_vue.png) vous revenez à l'affichage [précédent](#apercu_GM_ere).
 
-####<a name="rechercher_gm"></a>Champ recherche
+#### <a name="rechercher_gm"></a>Champ recherche
 
-le champ **recherche** permet de rechercher soit un GM soit un membre
+le champ **recherche** permet de rechercher soit un GM soit un membre soit les deux. c'est en fonction de l'onglet choisi.
 
 ![Résultat d'une recherche](./.images/GM_003.png)
+
+Ici on a recherché 'Dam' dans l'onglet GM avec la vue de tous les GM. Au fur et à mesure que le champ Recherche est modifié, la recherche s'actualise.
+La recherche de 'Dam' affiche un membre dont le nom commemnce par Dam, comme les GM qui ont Dam dans le nom.
+
+Le champ ne tient pas compte de la casse et cherche les occurence aussi au milieu du texte.
 
 ### Bâtiments de guilde
 ### Ressources en Trésorie
