@@ -11,6 +11,7 @@ l'aperçu des membres de la guilde vous donne toutes les informations sur les GM
 L'aperçu des membres de guildes est structurés comme suit de haut en bas :
 
 * Barre de titre avec le menu Paramètres à droite ![](./.images/Icon_param.png)
+* Un champ recherche(#rechercher_gm) (affichage désactivable dans les paramètres) 
 * Onglets des différentes fenêtres d'information
 * La zone d'affichage en fonction de l'onglet choisi
 * La date / heure de la dernière mise à jour des données ![](./.images/affichage_heure.png)
@@ -32,7 +33,7 @@ Pour que la fenêtre s'ouvre automatiquement lorsqu'on ouvre Votre Guilde dans l
 
 ## Les Onglets
 
-### <a name="generalite"></a>**Généralité**
+### <a name="generalite"></a>Généralité
 
 * Dans tous les onglets, on peut trier selon la colonne désirée en faisant un clic-droit dessus. Un 2e clic sur le même en-tête permet de faire un tri inversé.
 * Les Données sont actualisées si :
@@ -84,6 +85,69 @@ Comme dans FoE, l'inactivité d'un membre est signalée par un bouton de couleur
 En dépliant les informations de participation à l'EG / CBG, si le membre a des absences, elles seront affichées aussi à cet endroit.
 
 ### Ères
+
+![Aperçu des ères des membres](./.images/ere_001.png)
+
+Cette page affiche le nombre de membres par ère. Ainsi que le total de ressources et le nombre de points des membres de la guilde pour cette ère. En cliquant sur le chevron à la fin de la ligne, vous  ouvrez le détail de l'ère.
+
+![Détail de l'ère](./.images/ere_002.png)
+
+Le détail affiche le nom des membres dans la guilde avec leur points. Ainsi que le stock détaillé des ressources dans la trésorie de guilde.
+
+En recliquant sur le chevron, on replie les information pour cette ère.
+
 ### Grands Monuments
+
+#### <a name="apercu_GM_ere"></a>Aperçu des Grands Monuments
+
+![Aperçu des GM des membres](./.images/GM_001.png)
+
+Cette page affiche :
+
+	* (disponible) : le nombre de ce GM dans la guilde
+	* (Niveau min) : le plus bas niveau de ce GM
+	* (Niveau max) : le plus haut niveau de ce GM
+
+Via le chevron à droite de la ligne, on va afficher [le détail des GM sélectionnés](#detail_GM_ere).
+
+[](./.images/bouton_changer_vue.png) permet d'afficher la [liste de tous les GM](#liste_GM_ere).
+
+[](./.images/champ_recherche) le champ [recherche](#rechercher_gm) permet de rechercher un GM ou un membre.
+
+####<a name="detail_GM_ere"></a>Détail des GM sélectionnés
+
+![Vue détaillée des GM](./.images/GM_004.png)
+
+En cliquant sur le chevron, on affiche cette vue qui donne le nom des membres qui ont ce GM, avec les détails :
+	* (Niveau) : niveau actuel du GM
+	* (Niveau débloqué) : jusqu'à quel niveau le GM est débloqué
+	* (PF investit) : combien de PF sont déjà posé sur le GM
+	* (PF pour passer le niveau) : combien il manque de PF pour finir le niveau
+
+en bas de la fenêtre est affiché, si c'est le cas, tous les membres qui **n'ont pas** ce GM.
+
+En recliquant sur le chevron, on replie la vue détaillée.
+
+####<a name="liste_GM_ere"></a>Liste de tous les GM
+
+en cliquant sur le bouton **Changer la vue**, on affiche la liste de tous les GM de la guilde.
+
+![Liste des GM](./.images/GM_002.png)
+
+sont affichés aussi les détails :
+
+	* (Niveau) : niveau actuel du GM
+	* (Niveau débloqué) : jusqu'à quel niveau le GM est débloqué
+	* (PF investit) : combien de PF sont déjà posé sur le GM
+	* (PF pour passer le niveau) : combien il manque de PF pour finir le niveau
+
+en recliquant sur le bouton [](./.images/bouton_changer_vue.png) vous revenez à l'affichage [précédent](#apercu_GM_ere).
+
+####<a name="rechercher_gm"></a>Champ recherche
+
+le champ **recherche** permet de rechercher soit un GM soit un membre
+
+![Résultat d'une recherche](./.images/GM_003.png)
+
 ### Bâtiments de guilde
 ### Ressources en Trésorie
