@@ -19,7 +19,7 @@ L'assistant Galaxie bleue est structuré ainsi :
 
 Quand la coche est mise, l'assistant Galaxie bleue s'ouvre automatiquement dès que la galaxie bleue est récoltée.
 
-L'assistant peut être désactivé dans les [paramètres de l'application](../parametres/README.md).
+L'assistant peut être désactivé dans les [paramètres de l'application](../parametres/README.md#galaxie).
 
 ## Utilisation
 
