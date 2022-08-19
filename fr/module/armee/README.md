@@ -4,6 +4,10 @@
 
 L'aperçu des armées affiche l'état actuel de vos armées.
 
+{% hint style="warning" %}
+Pour ouvrir ce module, vous devez auparavant ouvir la fenêtre de gestion des armées du jeu ![](./.images/gestion_armee.png)
+{% endhint %}
+
 ## Structure
 
 ![Structure](./.images/structure.png)
@@ -26,10 +30,6 @@ La configuration vous permet de changer la grandeur des images des troupes affic
 ![Prochaine livraison d'unité](./.images/affichage.png)
 
 Est indiqué quand Alcatraz livrera ses prochaines unités. Durée d'attente, heure de livraison et nombre d'unité
-
-{% hint style="warning" %}
-Pour ouvrir ce module, vous devez auparavant ouvir la fenêtre de gestion des armées du jeu ![](./.images/gestion_armee.png)
-{% endhint %}
 
 ## Zone d'onglet avec l'état des différentes troupes
 
