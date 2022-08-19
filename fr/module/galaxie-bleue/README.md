@@ -27,7 +27,7 @@ Lorsque vous récoltez la galaxie bleue, l'assistant s'ouvre automatiquement et 
 
 ![Liste des bâtiments à récolter](./.images/screenshot_001.png)
 
-Les bâtiments prêts à récolter sont affiché en vert et sinon dans combien de minutes / heure la récolte est prête à faire.
+Les bâtiments prêts à récolter sont affiché en vert et sinon dans combien de minutes / heure la récolte est prête à faire.<br>Pour actualiser les heures de récoltes, vous devez fermer la fenêtre et la ré-ouvrir via l'îcone de la barre de menu ![](./.images/icon_001.png].
 
 En cliquant sur l'oeil à droite, vous allez ouvrir l'aperçu de la ville qui vous indiquera où se situe votre bâtiment dans la ville. L'emplacement du bâtiment sera clignotant.
 
