@@ -1,4 +1,4 @@
-# Aperçu des Armée
+# Aperçu des unités militaires
 
 ![Îcone](./.images/icon_001.png)
 
