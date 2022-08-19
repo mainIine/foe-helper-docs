@@ -46,13 +46,13 @@ La santé des unités est affichée. La barre rouge indique de manière visuel l
 
 La santé des unités est affichée. La barre rouge indique de manière visuel la part blessée de l'unité. Et affiché églement le % d'attaque et de % défense en tenant compte des bonus actifs
 
-* ### Armée de l'arène JcJ ![](./images/Icone_JcJ.png)
+* ### Armée de l'arène JcJ ![](./.images/Icone_JcJ.png)
 
 ![Etat de l'Armée de défense JcJ](./.images/no_unite.png)
 
 Si une ou des unités ne sont pas définie dans la gestion de l'armée, alors l'emplacement est marqué "non rempli" en rouge.
 
-* ### Pool d'unités ![](./images/Icone_tool.png)
+* ### Pool d'unités ![](./.images/Icone_tool.png)
 
 ![Liste des unités en réserve](./.images/tool.png)
 
