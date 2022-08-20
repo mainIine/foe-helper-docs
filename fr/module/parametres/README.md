@@ -83,8 +83,7 @@ Active / désactive l'assistant permettant d'exporter les modifications de la tr
 
 Quand cet assistant est actif, une fenêtre s'ouvre vous permettant d'exporter le journal des contributions de ressources.
 
-![Journal des contributions](./.images/tresorie_guilde.png)
-
+![Journal des contributions](./.images/tresorie_guilde.png)<br>
 via la page principale de votre guilde.
 
 #### Fonctionnement de l'assistant Export
