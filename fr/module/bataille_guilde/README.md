@@ -29,13 +29,13 @@ Permet d'afficher ou pas certains éléments dans les onglets
 Cet onglet affiche le nom des provinces, le propriétaire actuel l'heure de libération, la durée effective et surtout<br>la possibilité de programmer une [alarme](#alarme_cbg) via le bouton ![](./.images/bouton_alarme.png) 
 
 
-Un message vient attester l'enregistrement.
+Un message vient attester l'enregistrement.<br>
 ![Message](./.images/alarme_enregistre.png)
 
-L'alarme peut être supprimée ensuite en cliquant sur le bouton "Effacer l'alarme"
+L'alarme peut être supprimée ensuite en cliquant sur le bouton "Effacer l'alarme"<br>
 ![Effacer l'alarme](./.images/alarme_active.png)
 
-Un message confirme l'effacement
+Un message confirme l'effacement.<br>
 ![Alarme effacée](./.images/alarme_efface.png)
 
 ## Onglet Progression
