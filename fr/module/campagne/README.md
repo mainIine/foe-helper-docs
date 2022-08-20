@@ -1,6 +1,6 @@
 # Carte de campagne
 
-![Îcone](./.images/icon_00.png)
+![Îcone](./.images/icon_001.png)
 
 Ce module vous affiche les gains et les coûts en ressources pour acquérir une province de la carte de campagne.
 
