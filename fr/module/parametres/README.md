@@ -1,6 +1,6 @@
 # Gestion des Paramètres 
 
-![Îcone](./images/icon_001.png)
+![Îcone](./images/Icon_001.png)
 
 Ce module permet de gérer les paramètres généraux de l'application
 
@@ -22,7 +22,7 @@ Le module est partagé en 4 onglets qui gérent différents aspects du module
 
 ### A Propos 
 
-![A Propos](./images/Structure.png)
+![A Propos](./.images/Structure.png)
 
 Divers informations sur l'assistant.
 
@@ -32,7 +32,7 @@ vous pouvez participer à la traduction via le site [weblate](http://i18n.foe-he
 
 ### Version
 
-![Version](./images/propos_1.png)
+![Version](./.images/propos_1.png)
 
 vous y trouverez des informations imporantes sur :
 
