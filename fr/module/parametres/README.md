@@ -1,6 +1,6 @@
 # Gestion des Paramètres 
 
-![Îcone](./images/Icon_001.png)
+![Îcone](./.images/Icon_001.png)
 
 Ce module permet de gérer les paramètres généraux de l'application
 
