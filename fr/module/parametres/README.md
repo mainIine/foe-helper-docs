@@ -94,7 +94,7 @@ via la page principale de votre guilde.
 l'assistant a un menu Configuration qui est une redondance de la fonction activation / désactivation de ce menu.
 ![Configuration Export Trésorie](./.images/param_export_treso.png)
 
-vous devez parcourir toutes les pages du journal pour lire les informations. Sauter à la dernière, ne suffit pas.
+vous devez parcourir toutes les pages du journal pour lire les informations. Sauter à la dernière, ne suffit pas.<br>
 ![Lire le journal](./.images/lire_journal.png)
 
 {% hint style="danger" %}
@@ -107,7 +107,7 @@ L'export en CSV se fait via le bouton "Export".
 
 ### Filtre du marché
 
-![Filtre du marché](./images/fenetre_4.png)
+![Filtre du marché](./.images/fenetre_4.png)
 
 Active / désactive l'ouverture du [filtre du marché](../marche/README.md) 
 
