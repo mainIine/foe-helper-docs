@@ -36,7 +36,7 @@ L'alarme peut être supprimée ensuite en cliquant sur le bouton "Effacer l'alar
 ![Effacer l'alarme](./.images/alarme_active.png)
 
 Un message confirme l'effacement
-![Alarme effacée](./.images/alarme_effacee.png)
+![Alarme effacée](./.images/alarme_efface.png)
 
 ## Onglet Progression
 
