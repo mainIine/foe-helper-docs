@@ -64,7 +64,7 @@ en cliquant droite et en tenant le clic, vous pouvez faire bouger le zoom sur la
 Le nombre d'emplacement sur les secteurs est indiqués par des points noirs en dessus du nom
 L'heure de libération est affichée sous le nom
 
-### Affichage de la porgression
+### Affichage de la progression
 
 ![Progression](./.images/Detail_1.PNG)
 
