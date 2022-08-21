@@ -233,12 +233,12 @@ permet d'afficher le menu FOE-Assistant à différents endroits
 
 * Bas de l'écran
 * Droite de l'écran
-* En fenêtre
+* <a name ="boite"></a>En fenêtre
 
 
-	![bas](./.images/interface_2_1.png)
-	![droite](./.images/interface_2_2.png)
-	![Fenetré](./.images/interface_2_3.png)
+![bas](./.images/interface_2_1.png)
+![droite](./.images/interface_2_2.png)
+![Fenetré](./.images/interface_2_3.png)
 
 Une fois votre position de menu choisie, le jeu est rechargé automatiquement
 
