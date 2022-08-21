@@ -12,7 +12,8 @@ c'est ainsi que vous pouvez transmettre un lien de partage permettant à quelqu'
 
 Le planificateur de cité est atteignable via le site web, via le menu, en haut, "Outils" :
 
-![lien vers le planificateur de cité](./.images/Lien_planificateur.png)
+![Le planificateur de cité](./.images/Lien_planificateur.png)<br>
+[lien vers le site web](https://foe-helper.com/citymap/overview)
 
 Dans l'aperçu sont affichés vos villes. Votre ville principale, mais aussi vos colonies si vous les avez téléchargées et sauvegardées ici :
 
