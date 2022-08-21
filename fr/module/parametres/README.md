@@ -135,7 +135,7 @@ Active / désactive l'ouverture de l'[aide Galaxie bleue](../galaxie-bleue/READM
 
 ### Activité PO / MO
 
-![Assistant PO / MO]![./.images/fenetre_9.png)
+![Assistant PO / MO](./.images/fenetre_9.png)
 
 Active / désactive l'enregistrement des [événements PO / MO](../motivation/README.md).
 
