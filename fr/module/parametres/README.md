@@ -200,7 +200,7 @@ Active / désactive l'affichage du badge qui affiche le nombre de quêtes réccu
 
 ![Lien des joueurs](./.images/fenetre_15.png)
 
-Permet d'afficher un lien vers le site web [foe.scoredb.io](https://foe.scoredb.io) a chaque fois qu'un nom de joueur est affiché dans tous les modules ![](./.images/lien.png)
+Permet d'afficher un lien vers le site web [foe.scoredb.io](https://foe.scoredb.io)/monde/guilde/nom du joueur a chaque fois qu'un nom de joueur est affiché dans tous les modules ![](./.images/lien.png)
 
 ### Cacher l'assistant pendant les batailles
 
