@@ -5,7 +5,6 @@
 Ce module permet de gérer les paramètres généraux de l'application
 
 
-
 ## <a name="Structure"></a>Structure
 
 ![Structure](./.images/Structure.png)
@@ -56,7 +55,7 @@ Vous affiche les différentes aides disponible pour l'emploi de ce module
 
 ![Gestion des données de guilde](./.images/envois.png)
 
-Opt-in pour l'envoi des données pour le [planificateur de ville](.././site_web/planificateur_cite/README.md) sur le [site web](https://foe-helper.com/citymap/overview)
+Opt-in pour l'envoi des données pour le [planificateur de ville](../././site_web/planificateur_cite/README.md) sur le [site web](https://foe-helper.com/citymap/overview)
 
 ## <a name="fenetre"></a>Onglet Fenêtres
 
@@ -211,7 +210,7 @@ Active / désactive l'affichage pendant les batailles. Ne fonctionne que si l'as
 
 ### Assistant Aztèque
 
-![Assistant Aztèque](./.images/fenetre.17.png)
+![Assistant Aztèque](./.images/fenetre_17.png)
 
 Active / désactive l'affichage de l'assistant lors du début d'un [mini-jeu Aztèque](../azteque/README.md)
 
@@ -232,9 +231,10 @@ Une fois votre langue d'interface choisie, le jeu est rechargé automatiquement
 
 permet d'afficher le menu FOE-Assistant à différents endroits
 
-	* Bas de l'écran
-	* Droite de l'écran
-	* En fenêtre
+* Bas de l'écran
+* Droite de l'écran
+* En fenêtre
+
 
 	![bas](./.images/interface_2_1.png)
 	![droite](./.images/interface_2_2.png)
