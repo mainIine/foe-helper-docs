@@ -56,7 +56,7 @@ Vous affiche les différentes aides disponible pour l'emploi de ce module
 
 ![Gestion des données de guilde](./.images/envois.png)
 
-Opt-in pour envoyer les données de la ville au [planificateur de ville](.././site_web/planificateur_cite/README.md) sur le [site web](https://foe-helper.com/citymap/overview)
+Opt-in pour envoyer les données de la ville au [planificateur de ville](../././site_web/planificateur_cite/README.md) sur le [site web](https://foe-helper.com/citymap/overview)
 
 ## <a name="fenetre"></a>Onglet Fenêtres
 
