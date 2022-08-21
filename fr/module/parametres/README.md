@@ -180,7 +180,7 @@ La fenêtre peut être déplacée en cliquant/tenant sur zone marquée "titre"
 
 ![Bloqueur de négociation](./.images/fenetre_12.png)
 
-Active / désactive le bloqueur de négociation sur la carte de campagne
+Active / désactive le bloqueur de négociation sur la carte de campagne<br>
 ![bloquer de négociation](./.images/bloquer_nego.png)
 
 ### Info de l'éclaireur
