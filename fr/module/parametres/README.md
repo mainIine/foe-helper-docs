@@ -181,7 +181,7 @@ La fenêtre peut être déplacée en cliquant/tenant sur zone marquée "titre"
 ![Bloqueur de négociation](./.images/fenetre_12.png)
 
 Active / désactive le bloqueur de négociation sur la carte de campagne
-![bloquer de négociation](./.images/bloqueur_nego.png)
+![bloquer de négociation](./.images/bloquer_nego.png)
 
 ### Info de l'éclaireur
 
@@ -200,7 +200,7 @@ Active / désactive l'affichage du badge qui affiche le nombre de quêtes réccu
 
 ![Lien des joueurs](./.images/fenetre_15.png)
 
-Permet d'afficher un lien vers le site web [foe.scoredb.io](https://foe.scoredb.io)/monde/guilde/nom du joueur a chaque fois qu'un nom de joueur est affiché dans tous les modules ![](./.images/lien.png)
+Permet d'afficher un lien ![](./.images/lien.png) vers le site web [foe.scoredb.io](https://foe.scoredb.io)/monde/guilde/nom du joueur a chaque fois qu'un nom de joueur est affiché dans tous les modules.
 
 ### Cacher l'assistant pendant les batailles
 
