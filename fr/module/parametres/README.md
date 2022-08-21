@@ -129,7 +129,7 @@ Lors des combats automatiques, une fenêtre vient vous avertir qu'il ne reste qu
 
 ### <a name="galaxie"></a>Galaxie bleue
 
-![Assistant Galaxie Bleue]!(./.images/fentre_8.png)
+![Assistant Galaxie Bleue](./.images/fentre_8.png)
 
 Active / désactive l'ouverture de l'[aide Galaxie bleue](../galaxie-bleue/README.md) lors de la récolte de la galaxie bleue
 
@@ -256,6 +256,7 @@ Pour désactiver l'affichage, il suffit de faire un clic sur l'icone voulue (ent
 
 ![Icone désactivée](./.images/interface_3.png)
 Les îcones désactivées sont affichées avec un bord rouge dans l'interface de gestion du menu.
+Les îcones avec un <a name="icone_active"></a>liséré vert sont actives.
 
 ### Largeur / longeur du Menu
 
