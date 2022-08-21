@@ -13,7 +13,7 @@ Ce module permet de gérer les paramètres généraux de l'application
 Le module est partagé en 4 onglets qui gérent différents aspects du module
 
 * A propos - Information générale sur le module
-* Envois - Paramètre pour enregister les données de la guilde
+* Envois - Opt-in pour l'envoi des données pour le planificateur de ville
 * Fenêtres - Permet d'activer ou désactiver certaines fenêtres
 * Inteface - Gère l'aspect du module
 
@@ -56,7 +56,7 @@ Vous affiche les différentes aides disponible pour l'emploi de ce module
 
 ![Gestion des données de guilde](./.images/envois.png)
 
-!! en clairification sur l'utilité
+Opt-in pour l'envoi des données pour le [planificateur de ville](../site_web/planificateur_cite/README.md) sur le [site web](https://foe-helper.com/citymap/overview)
 
 ## <a name="fenetre"></a>Onglet Fenêtres
 
@@ -114,7 +114,7 @@ Active / désactive l'ouverture du [filtre du marché](../marche/README.md)
 
 ![Utilisation de la calculatrice GM interne](./.images/fenetre_5.png)
 
-Si cette option est activée, vous pouvez utiliser la calculatrice GM interne aussi pour les GM des autres joueurs.
+Si cette option est activée, vous pouvez utiliser la [calculatrice GM interne](../calculatrice_gm_interne/README.md) aussi pour les GM des autres joueurs.
 
 ### Calculatrice pour le prix d'événement
 
@@ -128,5 +128,208 @@ Active / désactive l'ouverture de la fenêtre pour le meilleur rendement lors d
 
 Lors des combats automatiques, une fenêtre vient vous avertir qu'il ne reste que des voyous après la 1ère vague
 
+### <a name="galaxie"></a>Galaxie bleue
 
+![Assistant Galaxie Bleue]!(./.images/fentre_8.png)
+
+Active / désactive l'ouverture de l'[aide Galaxie bleue](../galaxie-bleue/README.md) lors de la récolte de la galaxie bleue
+
+### Activité PO / MO
+
+![Assistant PO / MO]![./.images/fenetre_9.png)
+
+Active / désactive l'enregistrement des [événements PO / MO](../motivation/README.md).
+
+{% hint style="info" %}
+Si la coche n'est pas mise, alors l'îcone de l'assistant PO / MO ](./.images/icone_po_mo.png) dans le menu disparaît même si l'[îcone est active](#icone_active) dans le menu de l'assistant
+{% endhint %}
+
+### Info Technique
+
+![Info Technique](./.images/fentetre_10.png)
+
+Active / désactive l'affichage des [événements PO / MO](../info_technique/README.md) au chargement du jeu
+
+### Fermer toutes les fenêtres
+
+![Dialogue Fermer toutes les fenêtres](./.images/fenetre_11.png)
+
+Quand cette option est choisie, une fenêtre<br>
+![Fenêtre Affiche / Ferme tout](./.images/ferme_tout_1.png)
+s'affiche sur votre écran
+
+#### Fonctionnement du dialogue Fermer toutes les fenêtres
+
+![Fenêtre complète](./.images/ferme_tout_2.png)
+
+En mettant la souris sur la fenêtre, s'affiche la partie basse de l'image avec une option de configuration.
+
+![Configuration](./.images/param_ferme_tout.png)
+
+Description de la configuration :
+
+	* Bouton Fermer tout (Croix X sur fond rouge) -> ferme toutes les fenêtres
+	* Bouton Cacher tout (Oeil sur fond vert) -> cache la barre de menu 
+	* Changer la taille des boutons
+	* Changer l'alignement des boutons (horizontal ou vertical)
+	* Exclure de la fermeture (permet de garder ces fenêtres ouvertes malgrès Fermet tout)
+	* Fermeture automatique en cas de bataille
+
+La fenêtre peut être déplacée en cliquant/tenant sur zone marquée "titre"
+
+### Bloqueur de négociation
+
+![Bloqueur de négociation](./.images/fenetre_12.png)
+
+Active / désactive le bloqueur de négociation sur la carte de campagne
+![bloquer de négociation](./.images/bloqueur_nego.png)
+
+### Info de l'éclaireur
+
+![Info de l'éclaireur](./.images/fenetre_13.png)
+
+Affiche automatiquement la fenêtre d'[info de l'éclaireur](../eclaireur/README.md)<br> 
+
+### Badge des 2000 quêtes
+
+![Badge des 2000 quêtes](./.images/fenetre_14.png)
+
+Active / désactive l'affichage du badge qui affiche le nombre de quêtes réccurentes effectuées<br>
+![Badge des 2000 quêtes](./.images/badge.png)
+
+### Lien des joueurs
+
+![Lien des joueurs](./.images/fenetre_15.png)
+
+Permet d'afficher un lien vers le site web [foe.scoredb.io](https://foe.scoredb.io) a chaque fois qu'un nom de joueur est affiché dans tous les modules ![](./.images/lien.png)
+
+### Cacher l'assistant pendant les batailles
+
+![Cacher l'assistant](./.images/fenetre_16.png)
+
+Active / désactive l'affichage pendant les batailles. Ne fonctionne que si l'assistant est sous [forme de boite](#boite)
+
+### Assistant Aztèque
+
+![Assistant Aztèque](./.images/fenetre.17.png)
+
+Active / désactive l'affichage de l'assistant lors du début d'un [mini-jeu Aztèque](../azteque/README.md)
+
+## Interface
+
+Cet onglet permet de gérer l'aspect visuel du module
+
+
+### Langue
+
+![Gestion de la langue](./.images/interface_1.png)
+
+Une fois votre langue d'interface choisie, le jeu est rechargé automatiquement
+
+### Position du menu
+
+![Position du menu](./.images/interface_2.png)
+
+permet d'afficher le menu FOE-Assistant à différents endroits
+
+	* Bas de l'écran
+	* Droite de l'écran
+	* En fenêtre
+
+	![bas](./.images/interface_2_1.png)
+	![droite](./.images/interface_2_2.png)
+	![Fenetré](./.images/interface_2_3.png)
+
+Une fois votre position de menu choisie, le jeu est rechargé automatiquement
+
+{% hint style="warning" %}
+En fonction de votre résolution / taille d'écran (fenêtre de jeu), le menu se mettra en mode Fenêtre automatiquement
+{% endhint %}
+	
+### Contenu du menu
+
+Permet de gérer quelles îcones sont affichés dans la barre de menu
+
+![Menu](./.images/interface_3_1.png)
+
+Pour désactiver l'affichage, il suffit de faire un clic sur l'icone voulue (entourée d'un liseré vert). Elle s'enlève automatiquement et directement du menu.
+
+![Icone désactivée](./.images/interface_3.png)
+Les îcones désactivées sont affichées avec un bord rouge dans l'interface de gestion du menu.
+
+### Largeur / longeur du Menu
+
+![Nombre d'îcone affichée dans le menu](./.images/interface_4.png)
+
+Par exemple avec le chiffre 3, comme dans l'image ci-dessus, le menu s'affiche ainsi<br>
+![Menu 3](./.images/interface_4_1.png)
+
+
+{% hint style="warning" %}
+En fonction de votre résolution / taille d'écran (fenêtre de jeu) ou **zoom**, le menu peut afficher un autre nombre d'îcone.
+{% endhint %}
+
+### Position des fenêtres
+
+![Effacer la position des fenêtres](./.images/interface_5.png)
+
+L'assistant enregistre automatiquement la position de vos fenêtres et les rouvres au même endroit. Si votre résolution, taille d'écran change entre-temps, il se peut que la fenêtre s'ouvre en dehors de la zone visible.
+
+Le bouton "Supprimer" va réafficher par défaut toutes les fenêtres sur le centre de l'écran.
+
+### Importer / exporter les données
+
+![Import / export](./.images/interface_6.png)
+
+Cet onglet vous permet d'exporter vos paramètres de jeu et toutes les données de votre PC sur un autre PC ou dans un autre navigateur.
+
+#### Utilisation
+
+le bouton "ouvrir l'outil d'import / export" ouvre cette fenêtre
+
+![outil d'import / export](./.images/interface_6_1.png)
+
+L'onglet Exporter permet d'exporter les données sous la forme d'un fichier Zip qui se trouvera pas défaut sur votre PC dans "Téléchargement"
+![fichier zip](./.images/interface_6_2.png)
+
+L'onglet Importer vous permet d'importer un fichier Zip afin de charger sur votre PC. 
+
+![Importer](./.images/interface_6_3.png)
+
+### Activer les sons
+
+![Gestion des sons](./.images/interface_7.png)
+
+Active les sons dans tous les modules. A noter, que sur certains modules, le son pourra être désactivé via le menu du module ![](./.images/haut-parleur.png)
+
+### Notifications
+
+![Notifications](./.images/interface_8.png)
+
+Active / désactive toutes les notifications de l'assistant
+
+### Emplacement des notifications
+
+![Emplacement des notifications](./.images/interface_9.png)
+
+Vous pouvez choisir à quel endroit de la fenêtre apparaissent les notifications du jeu
+![Lieu possible](./.images/place_notif.png)
+
+### Notifications multiples
+
+![Nombre de notifications](./.images/interface_10.png)
+
+avec 3 :
+
+![](./.images/interface_10_1.png)
+
+### Charger la version Beta
+
+![version Beta](./.images/interface_11.png)
+
+Vous permet de charger la version Beta de l'assistant en cliquant sur le lien jaune surligné. Le chargement démarre automatiquement.
+
+{% hint style="warning" %}
+La version Beta ne doit pas être employée sur le même navigateur que la version Beta
+{% endhint %}
 

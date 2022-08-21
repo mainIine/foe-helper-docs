@@ -104,6 +104,7 @@
   * [Aperçu de la ville](fr/module/ville/README.md)
   * [Aperçu des membres de la guilde](fr/module/membres/README.md)
   * [Aperçu des unités militaires](fr/module/armee/README.md)
+  * [Assistant min-jeu Aztèque](fr/module/azteque/README.md)
   * [Arbre des technologies](fr/module/arbre_techno/README.md)
   * [Calculatrice GM Externe](fr/module/calculatrice_gm_externe/README.md)
   * [Calculatrice GM Interne](fr/module/calculatrice_gm_interne/README.md)
