@@ -145,9 +145,9 @@ Si la coche n'est pas mise, alors l'îcone de l'assistant PO / MO ](./.images/ic
 
 ### Info Technique
 
-![Info Technique](./.images/fentetre_10.png)
+![Info Technique](./.images/fenetre_10.png)
 
-Active / désactive l'affichage des [événements PO / MO](../info_technique/README.md) au chargement du jeu
+Active / désactive l'affichage des [Infos techniques](../info_technique/README.md) au chargement du jeu
 
 ### Fermer toutes les fenêtres
 
