@@ -40,7 +40,7 @@ les cases à cocher permettent d'ignorer les technologies optionnelles des ères
 
 ## Zone d'affichage des ressources nécessaires
 
-![Besoin en ressources](./.images/
+![Besoin en ressources](./.images/besoin_ressource.png)
 
 Affiche les ressources pour débloquer les technologies de votre ère. Si vous avancer dans les ères, c'est le total des ressources nécessaire qui est affiché et pas seulement le besoin en ressource de l'ère affichée.
 c'est l'avantage de ce module sur l'affichage proposé par FoE.
