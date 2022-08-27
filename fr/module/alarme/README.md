@@ -47,4 +47,4 @@ le bouton "aperçu" affiche un aperçu de votre alarme.
 
 ### Bouton Créer une alarme pour tous les secteurs
 
-Etablis automatiquement une alarme pour tous les secteurs possibles
+Etabli automatiquement une alarme pour tous les secteurs possibles
