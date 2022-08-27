@@ -47,7 +47,7 @@ vous y trouverez des informations imporantes sur :
 Vous affiche les différentes aides disponible pour l'emploi de ce module
 
 * Site web [Foe-Helper.com](https://foe-helper.com/)
-* Forum du site web [forum]https://discuss.foe-helper.com/)
+* Forum du site web [forum](https://discuss.foe-helper.com/)
 * Discord [Chanel](https://discord.com/invite/z97KZq4)
 * Github [Github](https://github.com/mainIine/foe-helfer-extension/issues)
 
