@@ -5,7 +5,7 @@
 Le module Alarme vous permet de créer et gérer des alarmes pour attirer ensuite votre attention.
 
 
-## Structure
+## <a name = "alarme_cbg"></a>Structure
 
 ![Structure](./.images/structure.png)
 
@@ -35,7 +35,7 @@ Vous pouvez éditer votre alarme au moyen du crayon, voir un aperçu de l'alarme
 
 L'ouverture de la fenêtre vous permet de créer une alarme en mode libre avec votre titre, une description pour aider, puis dans combien de temps elle doit fonctionner.
 
-Dans le menu "réglages initiaux" est une liste déroulante qui permet d'établir une alarme automatiquement pour l'antiquaire, un secteur en CBG
+Le menu "réglages initiaux" affiche une liste déroulante qui permet d'établir une alarme automatiquement pour l'antiquaire, un secteur en CBG
 
 ![Liste](./.images/liste.png)
 
