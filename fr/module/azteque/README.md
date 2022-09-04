@@ -16,19 +16,19 @@ Les points d'interrogation de couleur affichent la probabilité d'avoir une réc
 
 **Plus c'est vert, plus grande est la chance d'avoir un succès**
 
-![inconnu](./.images/inconnu.png) 
+![inconnu](./.images/inconnu.PNG) 
 Probabilité inconnue de trouver une récompense
 
-![0%](./.images/not_good.png)
+![0%](./.images/not_good.PNG)
 Probabilité Zéro de trouver une récompense
 
-![33%](./.images/less_possible.png)
+![33%](./.images/less_possible.PNG)
 Probabilité jusqu'à 33% de trouver une récompense
 
-![50%](./.images/possible.png)
+![50%](./.images/possible.PNG)
 Probabilité jusqu'à 50% de trouver une récompense
 
-![trouvé](./.images/good.png)
+![trouvé](./.images/good.PNG)
 vous avez une récompense !
 
 
