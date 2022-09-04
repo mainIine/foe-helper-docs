@@ -143,7 +143,7 @@ Active / désactive l'enregistrement des [événements PO / MO](../motivation/RE
 Si la coche n'est pas mise, alors l'îcone de l'assistant PO / MO ](./.images/icone_po_mo.png) dans le menu disparaît même si l'[îcone est active](#icone_active) dans le menu de l'assistant
 {% endhint %}
 
-### Info Technique
+### <a name="inf_tech"></a>Info Technique
 
 ![Info Technique](./.images/fenetre_10.png)
 
