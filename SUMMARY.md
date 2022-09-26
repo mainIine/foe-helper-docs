@@ -111,6 +111,7 @@
   * [Carte de campagne](fr/module/campagne/README.md)
   * [Champ de bataille de guilde](fr/module/bataille_guilde/README.md)
   * [Colonie culturelle](fr/module/colonie/README.md)
+  * [Comparer les amis](fr/module/comparer-ami/README.md)
   * [Efficience des bâtiments](fr/module/efficience/README.md)
   * [Filtre du marché](fr/module/marche/README.md)
   * [Incidents](fr/module/incident/README.md) 
