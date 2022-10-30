@@ -16,7 +16,7 @@ Das sind die bekanntesten: [Google Chrome](https://www.google.com/chrome/), Micr
 
 Weiterhin wird der Firefox als nicht chromium-Variante ebenfalls unterstützt.
 
-Für Chrome und Firefox gibt es jeweils einen Store Eintrag. Für Opera und ggf andere chromium-based Browsers gibt es einen kleinen Workaround.
+Für Chrome, Microsoft und Firefox gibt es jeweils einen Store Eintrag. Für Opera und ggf andere chromium-based Browsers gibt es einen kleinen Workaround.
 
 ## Chrome Installation
 
@@ -25,7 +25,7 @@ Den Chrome-Webstore aufrufen: [Chrome Store](https://chrome.google.com/webstore/
 Die Extension wird automatisch deinem Browser nach deiner Bestätigung hinzugefügt.
 
 <div data-gb-custom-block data-tag="hint" data-style='info'>
-Hast Du das Spiel bereits einem Deiner Tabs geöffnet musst Du das Fenster neu laden.
+Hast Du das Spiel bereits einem Deiner Tabs geöffnet musst Du das Fenster neu laden!
 </div>
 
 Nach dem Öffnen des Spiels erscheint unten rechts eine zusätzliche Leiste.
