@@ -6,7 +6,7 @@ Le module Champ de bataille de guilde vous informe sur les secteurs à prendre, 
 
 ## Structure
 
-![Structure](./.images/strcture_001.png)
+![Structure](./.images/structure_001.png)
 
 L'aide pour le champ de bataille est structuré ainsi :
 
