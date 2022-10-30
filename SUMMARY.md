@@ -4,9 +4,7 @@
 
 ## Deutsch
 
-* [Installation ](de/installation/README.md)
-  * [Plug-in installieren](de/installation/installieren.md)
-  * [Plug-in konfigurieren](de/installation/konfigurieren.md)
+* [Installation](de/installation/installation.md)
 
 * [Module](/de/module/README.md)
   * [Alarm](de/module/alarm/README.md)
@@ -47,9 +45,7 @@
 
 ## English
 
-* [Installation ](en/installation/README.md)
-  * [Installing the plug-in](en/installation/installing.md)
-  * [Configuring the plug-in](en/installation/configuring.md)
+* [Installation](en/installation/installing.md)
 
 * [Modules](/en/module/README.md)
   * [Alerts](en/module/alerts/README.md)
@@ -90,9 +86,7 @@
   
 ## Français
 
-* [Installation](fr/installation/README.md)
-  * [Installer le plug-in](fr/installation/installer.md)
-  * [Configurer le plug-in](fr/installation/configurer.md)
+* [Installation](fr/installation/installer.md)
 
 * [Modules](fr/module/README.md)
   * [Aide Galaxie Bleue](fr/module/galaxie-bleue/README.md)
