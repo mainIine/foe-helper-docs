@@ -20,7 +20,7 @@ Un ![](./.images/yes.png) signale que vous êtes actif dans le même fil de conv
 
 Pour comparer une nouvelle conversation, vous devez ouvir dans le menu de la conversation, la liste des destinataires.
 ![Menu de la conversation](./.images/Comparer.png)<br>
-Cliquer sur les 3 tirets et choississez le menu "Destinataires"
+Cliquer sur les 3 tirets et choississez le menu "Destinataires"<br>
 ![Menu Destinataires](./.images/Comparer_1.png)
 
 Dans la fenêtre principale, une nouvelle conversation s'affiche avec la participation ou non de vos amis.
