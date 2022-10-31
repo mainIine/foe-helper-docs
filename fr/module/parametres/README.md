@@ -245,7 +245,7 @@ permet d'afficher le menu FOE-Assistant à différents endroits
 
 
 ![bas](./.images/interface_2_1.png)
-![à droite](./.images/interface_2.2.png)
+![à droite](./.images/interface_2_2.png)
 ![Fenetré](./.images/interface_2_3.png)
 
 Une fois votre position de menu choisie, le jeu est rechargé automatiquement
