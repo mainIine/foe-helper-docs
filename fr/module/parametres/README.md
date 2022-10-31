@@ -180,7 +180,7 @@ La fenêtre peut être déplacée en cliquant/tenant sur zone marquée "titre"
 
 ![Bloqueur de double don](./.images/fenetre_18.png)
 
-Active / désactive une fenêtre vous empêchant une double-pose sur un GM. Le temps d'affichage de la fenêtre est en seconde. Aucun chiffre = désactivé.
+Active / désactive une fenêtre vous empêchant une double-pose sur un GM. Le temps d'affichage de la fenêtre est en seconde. Aucun chiffre ou zéro = désactivé.
 
 ![Message de bloquage](./.images/bloqueur_double_don.png)
 
