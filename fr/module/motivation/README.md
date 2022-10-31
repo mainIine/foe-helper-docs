@@ -9,7 +9,7 @@ Ce module permet de voir qui vous motive mais aussi qui vous attaque, vous pille
 
 ## Structure
 
-![Structure](./.images/structure.png)
+![Structure](./.images/Structure.png)
 
 L'assistant Po / Mo est structuré ainsi :
 
