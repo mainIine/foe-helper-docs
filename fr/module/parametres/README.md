@@ -149,7 +149,7 @@ Si la coche n'est pas mise, alors l'îcone de l'assistant PO / MO ](./.images/ic
 
 Active / désactive l'affichage des [Infos techniques](../info_technique/README.md) au chargement du jeu
 
-### Fermer toutes les fenêtres
+### Fermer toutes les dialogues
 
 ![Dialogue Fermer toutes les fenêtres](./.images/fenetre_11.png)
 
@@ -175,6 +175,14 @@ Description de la configuration :
 	* Fermeture automatique en cas de bataille
 
 La fenêtre peut être déplacée en cliquant/tenant sur zone marquée "titre"
+
+### Bloqueur de double don
+
+![Bloqueur de double don](./.images/fenetre_18.png)
+
+Active / désactive une fenêtre vous empêchant une double-pose sur un GM. Le temps d'affichage de la fenêtre est en seconde. Aucun chiffre ou zéro = désactivé.
+
+![Message de bloquage](./.images/bloqueur_double_don.png)
 
 ### Bloqueur de négociation
 
@@ -237,7 +245,7 @@ permet d'afficher le menu FOE-Assistant à différents endroits
 
 
 ![bas](./.images/interface_2_1.png)
-![droite](./.images/interface_2_2.png)
+![à droite](./.images/interface_2_2.png)
 ![Fenetré](./.images/interface_2_3.png)
 
 Une fois votre position de menu choisie, le jeu est rechargé automatiquement
