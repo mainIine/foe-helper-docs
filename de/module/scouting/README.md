@@ -1,3 +1,7 @@
+---
+description: Wie funktioniert der Späherstatus?
+---
+
 # Späherstatus
 
 Dieses Modul zeigt dir beim Betreten der Karte den aktuellen Status deines Spähers - egal auf welcher Karte du und der Späher gerade sind. Die Bewirtschaftung deiner Erkundungsstätten (Ab ZA Mars) wird dich nicht mehr von der Erkundung ablenken.
