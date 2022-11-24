@@ -130,3 +130,7 @@
   * [Github](fr/guide/github.md)
   * [Markdown](fr/guide/markdown.md)
   * [Ecrire un doc](fr/guide/documentation.md)
+
+## Italian
+
+* [Installazione](it/installazione/installazione.md)
