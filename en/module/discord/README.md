@@ -1,7 +1,3 @@
---- 
-description: Discord webhooks quickly set up
---- 
-
 # Discord Webhooks
 
 ![Aufbau](./.images/modul-icon.png)
