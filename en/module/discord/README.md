@@ -44,7 +44,7 @@ A new line is simply inserted with the Enter key (line break).
 
 At the moment there is only the event "Guildfights" (first attack) in combination with a sector. This is a BETA test, so to speak.
 
-To get a continuous text with the province name, you can use <mark style="font-family: SFMono-Regular,Menlo,Monaco,Consolas, "Liberation Mono", "Courier New",monospace;color: #e83e8c;">#gg_province_name#</mark>. It will be replaced when sent.
+To get a continuous text with the province name, you can use <mark style="color: #e83e8c;">#gg_province_name#</mark>. It will be replaced when sent.
 
 ## Use of an event
 
