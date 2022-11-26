@@ -134,3 +134,8 @@
 ## Italian
 
 * [Installazione](it/installazione/installazione.md)
+
+* [Aiuto](it/guida/README.md)
+  * [Github](it/guida/github.md)
+  * [Markdown](it/guida/markdown.md)
+  * [Scrittura della documentazione](it/guida/documentazione.md)

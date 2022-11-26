@@ -44,7 +44,7 @@ Eine neue Zeile wird einfach mit der Enter-Taste (Zeilenumbruch) eingefügt.
 
 Derzeit gibt es nur das Event "Guildfights" (erster Angriff) in Kombination mit einem Sektor. Das ist sozusagen ein BETA-Test.
 
-Um einen Fließtext mit dem Provinznamen zu erhalten, kannst Du <mark style="font-family: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;color: #e83e8c;">#gg_province_name#</mark> benutzen. Es wird beim Versenden ersetzt.
+Um einen Fließtext mit dem Provinznamen zu erhalten, kannst Du <mark style="color: #e83e8c;">#gg_province_name#</mark> benutzen. Es wird beim Versenden ersetzt.
 
 ## Benutzung eines Events
 
