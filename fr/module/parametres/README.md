@@ -140,7 +140,7 @@ Active / désactive l'ouverture de l'[aide Galaxie bleue](../galaxie-bleue/READM
 Active / désactive l'enregistrement des [événements PO / MO](../motivation/README.md).
 
 {% hint style="info" %}
-Si la coche n'est pas mise, alors l'îcone de l'assistant PO / MO ](./.images/icone_po_mo.png) dans le menu disparaît même si l'[îcone est active](#icone_active) dans le menu de l'assistant
+Si la coche n'est pas mise, alors l'îcone de l'assistant PO / MO ![](./.images/icone_po_mo.png) dans le menu disparaît même si l'[îcone est active](#icone_active) dans le menu de l'assistant
 {% endhint %}
 
 ### <a name="inf_tech"></a>Info Technique
