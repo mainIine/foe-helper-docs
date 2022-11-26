@@ -30,7 +30,7 @@ Se hai già aperto il gioco in una delle tue schede devi ricaricare la finestra!
 
 Dopo aver aperto il gioco, apparirà una barra aggiuntiva nell'angolo in basso a destra.
 
-##Microsoft Edge
+## Microsoft Edge
 
 Simile a Chrome, qui l'estensione può essere semplicemente selezionata dal [Microsoft Store](https://microsoftedge.microsoft.com/addons/detail/foe-helfer/cpmacpalonncbafboibpcjcpadloannb) scaricandola e installandola.
 
@@ -42,7 +42,8 @@ Con un piccolo strumento puoi facilmente installare qualsiasi estensione di Chro
 
 1. Apri nel tuo browser Opera (PC) [Opera Store](https://addons.opera.com/de/extensions/details/install-chrome-extensions/) e installalo.
 2. Riavviare Opera.
-3. Apri il Chrome Webstore in Opera ed esegui i seguenti passaggi come descritto in "Installazione per Chrome". ![FoE Helfer dall'installazione del Chrome Store](./.images/installazioneOpera.png)
+3. Apri il Chrome Webstore in Opera ed esegui i seguenti passaggi come descritto in "Installazione per Chrome". 
+![FoE Helfer dall'installazione del Chrome Store](./.images/installazioneOpera.png)
 4. Confermare la modalità di compatibilità 
 5. Nel passaggio successivo vi verrà proposto di installare l'estensione. Fare clic su "Installa", confermare le autorizzazioni per l'applicazione.
 6. Riavviare il browser e godersi il gioco con l'assistente.
