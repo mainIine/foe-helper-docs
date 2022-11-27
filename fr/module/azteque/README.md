@@ -28,6 +28,9 @@ Probabilité jusqu'à 33% de trouver une récompense
 ![50%](./.images/possible.PNG)
 Probabilité jusqu'à 50% de trouver une récompense
 
+![75%](./.images/perhaps.png)
+Probabilité jusqu'à 75% de trouver une récompense
+
 ![trouvé](./.images/good.PNG)
 vous avez une récompense !
 

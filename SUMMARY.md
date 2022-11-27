@@ -88,7 +88,7 @@
   
 ## Français
 
-* [Installation](fr/installation/installer.md)
+* [Installation](fr/installation/installation.md)
 
 * [Modules](fr/module/README.md)
   * [Aide Galaxie Bleue](fr/module/galaxie-bleue/README.md)
@@ -108,6 +108,7 @@
   * [Champ de bataille de guilde](fr/module/bataille_guilde/README.md)
   * [Colonie culturelle](fr/module/colonie/README.md)
   * [Comparer les amis](fr/module/comparer-ami/README.md)
+  * [Discord Webhooks](fr/module/discord/README.md)
   * [Efficience des bâtiments](fr/module/efficience/README.md)
   * [Filtre du marché](fr/module/marche/README.md)
   * [Incidents](fr/module/incident/README.md) 
