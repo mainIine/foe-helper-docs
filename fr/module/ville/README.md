@@ -35,7 +35,7 @@ Le champ Recherche permet de recherche un bâtiment. Sa surface clignote pour vo
 
 ### Copier les données du plan de la cité
 
-![](./.images/bouton copie donnée cité.png)
+![a](./.images/bouton copie donnée cité.png)
 
 Enregistre dans le presse-papier, sous forme de fichier JSON
 
@@ -43,7 +43,7 @@ Enregistre dans le presse-papier, sous forme de fichier JSON
 
 ![](./.images/bouton_envois_web.png)
 
-Permet d'envoyer les données de votre ville vers le [site web](https://foe-helper.com/citymap/overview)
+Permet d'envoyer les données de votre ville vers le [site web foe-helper.com](https://foe-helper.com/citymap/overview)
 
 Une fenêtre de confirmation s'ouvre 
 
