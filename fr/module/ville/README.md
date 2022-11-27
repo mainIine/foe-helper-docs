@@ -35,7 +35,7 @@ Le champ Recherche permet de recherche un bâtiment. Sa surface clignote pour vo
 
 ### Copier les données du plan de la cité
 
-![](./.images/bouton copie donnée cité.png)
+![](./.images/bouton_copie_ville.png)
 
 Enregistre dans le presse-papier, sous forme de fichier JSON
 
