@@ -1,6 +1,6 @@
 # Assistant Aperçu de la cité
 
-![Icône](./.images/icon.png) 
+![Icône](./.images/icone.png) 
 
 L'assistant Aperçu de la cité vous affiche le plan de votre ville et permet aussi de l'exporter les données vers le site web https://foe-helper.com/
 
@@ -49,4 +49,4 @@ Une fenêtre de confirmation s'ouvre
 
 ![Confirmation](./.images/envois_plan_web.png)
 
-L'utilisation du planificateur sur le site web est décrit [ici](../site_web/planificateur_cite/README.md)
+L'utilisation du planificateur sur le site web est décrit [ici](../../site_web/planificateur_cite/README.md)
