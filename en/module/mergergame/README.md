@@ -6,9 +6,9 @@ description: How does the Merger Game info work?
 
 This module shows you information about the merger game board when you open up the minigame of the anniversary event.
 
-## Aufbau
+## Info Box
 
-![Aufbau](./.images/mergergameinfo.png)
+![Info Box](./.images/mergergameinfo.png)
 
 the following info s displayed:
 
@@ -30,14 +30,14 @@ the following info s displayed:
 
 Furthermore, a blocker is shown on top of the reset button as long as there are complete keys on the board to prevent accidental resets.	
 
-## Einstellungen
+## Settings
 
-In den Einstellungen der Erweiterung (Boxen - Eventassistenten) kann das Modul (de)aktiviert werden.
+This module may be (de)activated in the general settings (Boxes - Event Assistants).
 
-![Einstellungen](./.images/mergergamesettings.png)
+![Settings](./.images/mergergamesettings.png)
 
-* Fortschritt je Schlüssel: Soviel Fortschritt ist ein Schlüssel etwa wert (vom Kistenkauf - Standard:1,3)
-* Zielfortschritt: soweit willst du kommen in den Hauptpreisen (Standard: 3750 für goldenes Kit)
-* vorhandene Währung: soviel Energie steht zur Verfügung (Standard: 11000 - 10500 von Quests und geschätzte 500 von Ereignissen)
-    * gekaufte Währung sollte entsprechend aufaddiert werden
-* wenn der Reset-Blocker (nicht) verschwinden soll, kann das hier eingestellt werden
+* progress per key: this is the approximate value of a key (from buying chests - default: 1,3)
+* target progress: this is how far you want to get in this event (default: 3750 for the golden kit)
+* available energy: this much event currency is available in total (default: 11000 - 10500 from quests and ~500 from incidents)
+    * bought currency should be added here
+* if the reset blocker shall (not) vanish upon minimizing the module, this can be set here
