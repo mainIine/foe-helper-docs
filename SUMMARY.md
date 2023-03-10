@@ -26,7 +26,7 @@
   * [Kostenrechner](de/module/kostenrechner/README.md)
   * [LG Investitionen](de/module/lg-investitionen/README.md)
   * [Markt Filter](de/module/markt/README.md)
-  * [Merger Game](de/module/mergergame/README.md)
+  * [Merger Game](de/module/merger-game/README.md)
   * [Moppelassistent](de/module/moppel/README.md)
   * [Notizen](de/module/notizen/README.md)
   * [Produktions Übersicht](de/module/produktion/README.md)
