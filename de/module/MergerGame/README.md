@@ -23,8 +23,12 @@ Es werden die folgenden Informationen angezeigt:
 		* Die Effizienz ist grün 15% oberhalb des Zielwerts
 		* Die Effizienz ist also gelb, wenn gerade gut genug, um Ziel zu erreichen
 	* wenn auf die Effizienz gezeigt wird, wird in einem Tooltip ausgegeben, wieviel Fortschritt mit dieser Effizienz erreicht werden kann
+* eine Tabelle, in der die Anzahl der auf dem Brett liegenden Schlüssel und Schlüsselteile gelistete weden - nach Farbe und Stufe sortiert
+    * die kleiner Anzahl von "Oberem" und "Unterem" Schlüsselteil ist fett gedruckt - dies bestimmt die maximale Anzahl an Schlüsseln, die möglich ist zu erreichen in dieser Farbe
+    * wenn die maximale Anzahl an Schlüsseln erreicht ist, wird die Anzahl der Schlüssel fett gedruckt
+    * wenn es 2 oder mehr Schlüssel Stufe 3 gibt, werden diese in Rot dargestellt, um daran zu erinnern, dass diese vor der Umwandlung miteinander kombiniert werden können (1 Stufe 4 Schlüssel gibt 3 Schlüssel, während 2 Stufe 3 Schlüssel nur 2 Schlüssel geben)
 
-Weiterhin wird ein Blocker eingeblendet solange noch Schlüssel auf dem Brett sind, um einen versehentichen Reset zu vermeiden.	
+Weiterhin wird ein Blocker eingeblendet solange noch Schlüssel auf dem Brett sind, um einen versehentlichen Reset zu vermeiden.	
 
 ## Einstellungen
 
@@ -32,7 +36,7 @@ In den Einstellungen der Erweiterung (Boxen - Eventassistenten) kann das Modul (
 
 ![Einstellungen](./.images/mergergamesettings.png)
 
-* Fortschritt je Schlüssel: Soviel Fortschritt ist ein Schlüssel etwa wert (Kistenkauf - Standard:1,3)
+* Fortschritt je Schlüssel: Soviel Fortschritt ist ein Schlüssel etwa wert (vom Kistenkauf - Standard:1,3)
 * Zielfortschritt: soweit willst du kommen in den Hauptpreisen (Standard: 3750 für goldenes Kit)
 * vorhandene Währung: soviel Energie steht zur Verfügung (Standard: 11000 - 10500 von Quests und geschätzte 500 von Ereignissen)
     * gekaufte Währung sollte entsprechend aufaddiert werden
