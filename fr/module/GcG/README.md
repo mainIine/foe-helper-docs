@@ -1,6 +1,6 @@
 # GcG - Guilde contre Guilde
 
-![Icône](./.images/Menu GcG.png) 
+![Icône](./.images/MenuGcG.png) 
 
 Ce module affiche les secteurs en GcG avec leur force et leur état.
 
