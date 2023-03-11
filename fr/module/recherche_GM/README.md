@@ -25,3 +25,6 @@ Au fur et à  mesure, de vos visites, la liste des joueurs qui ont le GM selon v
 Le taux des PF déjà posé est affiché avec une barre verte.
 
 ![Liste des GM trouvés](./.images/Liste_trouvee.png)
+
+
+Le bouton ![](./.images/reinitialiser.png) permet d'effacer la liste et de chercher un nouveau GM.
