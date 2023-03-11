@@ -55,9 +55,10 @@ Le bouton ![](./.images/Editer.png) sert à marquer des secteurs sur la carte.
 
 ![Avant le marquage](./.images/edition_1.png)
 
-![Après le marquage](./.images/edition_2.png) on indique que les 2 secteurs (fléché rouge) devront être libéré à 20h par exemple ou attaqué.
+![Après le marquage](./.images/edition_2.png) 
+on indique que les 2 secteurs (fléché rouge) devront être libéré à 20h par exemple ou attaqué.
 
-La carte peut être copie ou sauvegardée au moyen d'un clic droite et ensuite collé dans un serveur Discord par exemple.
+La carte peut être copiée ou sauvegardée au moyen d'un clic droite et ensuite collé dans un serveur Discord par exemple.
 
 ### Résistance
 
