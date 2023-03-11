@@ -29,4 +29,4 @@ Dans cet exemple, la tour innovation montée du niveau 42 à 50 serait rentabili
 
 En ouvrant le chevron à droite, vous voyez la rentabilité des niveaux suivants 
 
-![Rentabilité dès niveau 51 Inno!(./.images/niveau_suivant.png)
+![Rentabilité dès niveau 51 Inno](./.images/niveau_suivant.png)
