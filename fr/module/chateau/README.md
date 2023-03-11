@@ -18,7 +18,7 @@ Le module Système de chateau vous indique votre progression dans l'acquisition 
 
 Le menu Configuration vous permet de spécifier la durée de conservation des log du système de chateau et d'afficher les noms de groupe dans la fenêtre principale.
 
-![Configuration](./.images/param.png)
+![Configuration](./.images/Icon_param.png)
 
 ## Utilisation
 
