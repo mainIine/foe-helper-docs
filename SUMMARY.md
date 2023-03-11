@@ -120,6 +120,7 @@
   * [Notes](fr/module/notes/README.md)
   * [Pack et Améliorations](fr/module/pack/README.md)
   * [Paramètres](fr/module/parametres/README.md)
+  * [Recherche GM](fr/module/recherche_GM/README.md)
   * [Résultat de l'EG](fr/module/statistique_EG/README.md)
   * [Statistiques](fr/module/stat/README.md)
   * [Système de chateau](fr/module/chateau/README.md)	
