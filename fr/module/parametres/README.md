@@ -117,9 +117,9 @@ Si cette option est activée, vous pouvez utiliser la [calculatrice GM interne](
 
 ### Calculatrice pour le prix d'événement
 
-![Calculatrice pour prix d'évènement](./.images/fenetre_6.png)
+![Assistant d'événement](./.images/fenetre_6.png)
 
-Active / désactive l'ouverture de la fenêtre pour le meilleur rendement lors des évènements pour le prix du jour
+Affiche différents assistants d'événements quans la fenêtre d'un événement supporté est ouverte.
 
 ### Aide au combat
 
@@ -167,12 +167,12 @@ En mettant la souris sur la fenêtre, s'affiche la partie basse de l'image avec 
 
 Description de la configuration :
 
-	* Bouton Fermer tout (Croix X sur fond rouge) -> ferme toutes les fenêtres
-	* Bouton Cacher tout (Oeil sur fond vert) -> cache la barre de menu 
-	* Changer la taille des boutons
-	* Changer l'alignement des boutons (horizontal ou vertical)
-	* Exclure de la fermeture (permet de garder ces fenêtres ouvertes malgrès Fermet tout)
-	* Fermeture automatique en cas de bataille
+* Bouton Fermer tout (Croix X sur fond rouge) -> ferme toutes les fenêtres
+* Bouton Cacher tout (Oeil sur fond vert) -> cache la barre de menu 
+* Changer la taille des boutons
+* Changer l'alignement des boutons (horizontal ou vertical)
+* Exclure de la fermeture (permet de garder ces fenêtres ouvertes malgrès Fermet tout)
+* Fermeture automatique en cas de bataille
 
 La fenêtre peut être déplacée en cliquant/tenant sur zone marquée "titre"
 
