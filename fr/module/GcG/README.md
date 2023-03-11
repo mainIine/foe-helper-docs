@@ -35,7 +35,7 @@ en cliquant sur un secteur, le détail du secteur est affiché dans une fenêtre
 
 sur la droite, il a deux onglets :
 
-**Guilde** : Le classement des guildes avec le nombre de secteur, la puissance acquise et le cout par ressource pour le prochain secteur.
+**Guilde** : Le classement des guildes avec le nombre de secteur, la puissance acquise et le cout par ressource pour le prochain secteur.<BR>
 **Journal** : Affiche les actions effectuée sur le secteur et entre autre : qui a posé le siège, tapé sur le secteur et fini le secteur.
 
 La partie droite peut-être affichée ou cachée au moyen de ![](./.images/cache.png)
