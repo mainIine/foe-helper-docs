@@ -8,7 +8,7 @@ Le module Système de chateau vous indique votre progression dans l'acquisition 
 
 ![Structure](./.images/structure.png)
 
-* Menu Configuration  ![](/.images/Icon_param.png)
+* Menu Configuration  ![](./.images/Icon_param.png)
 * Affichage des points de chateau actuel / seuil a atteindre pour le prochain niveau et le niveau actuel.
 * Bouton pour afficher les log ![](./.images/bouton_log.png)
 * Zone d'affichage des points

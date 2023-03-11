@@ -29,11 +29,11 @@ L'option "Ouvrir la fenêtre automatiquement" va ouvir cette fenêtre à chaque 
 
 cette barre affiche :
 
-	* Les PF investis
-	* Le gain actuel. si "sécurisé" est inscrit, c'est le gain sans tenir compte des gains des places non sécurisées
-	* Le total de vos PF avec votre stock, vos investissements et vos gains
-	* Le nombre de médailles que vous allez gagnés
-	* Le nombre de GM qui sont [cachés](#cache)
+* Les PF investis
+* Le gain actuel. si "sécurisé" est inscrit, c'est le gain sans tenir compte des gains des places non sécurisées
+* Le total de vos PF avec votre stock, vos investissements et vos gains
+* Le nombre de médailles que vous allez gagnés
+* Le nombre de GM qui sont [cachés](#cache)
 
 
 ## Zone d'affichage des investissements
@@ -42,15 +42,15 @@ cette barre affiche :
 
 Chaque investissment est répertorié, avec si choisi dans la configuration :
 
-	* Date d'investissement
-	* Date de l'augmentation
-	* Progression des PF sur le GM. Les augmentations depuis la dernière ouverture sont indiquées en jaune
-	* Les PF restant à poser
-	* Notre place sur le GM
-	* Combien on a investi
-	* Notre Gain (si le chiffre est en vert) ou notre perte
-	* Le nombre de médailles gagnées sur le GM
-	* Le nombre de plans gagnés
+* Date d'investissement
+* Date de l'augmentation
+* Progression des PF sur le GM. Les augmentations depuis la dernière ouverture sont indiquées en jaune
+* Les PF restant à poser
+* Notre place sur le GM
+* Combien on a investi
+* Notre Gain (si le chiffre est en vert) ou notre perte
+* Le nombre de médailles gagnées sur le GM
+* Le nombre de plans gagnés
 
 
 ### Détail des augmentations
