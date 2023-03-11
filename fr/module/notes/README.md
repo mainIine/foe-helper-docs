@@ -1,6 +1,6 @@
 # Assistant Notes
 
-![Icône](./.images/icon.pgn)
+![Icône](./.images/icon.png)
 
 L'assistant Notes vous permet d'enregistrer des notes de manières très flexible.
 
@@ -69,5 +69,7 @@ Vous pouvez éditer le titre ou supprimer la page.
 Pour écrire dans une page, il suffit de cliquer sur la partie centrale de la page et un cadre bleu indique que la page est en mode édition.
 
 ![Page en mode édition](./.images/page_mode_edition.png)
+
+Vous pouvez coller du texte soit formaté soit en texte brut.
 
 Pour sortir du mode Edition de la page, il suffit de cliquer ailleurs sur la page que sur la surface délimitée par le cadre bleu.
