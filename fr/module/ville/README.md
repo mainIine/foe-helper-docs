@@ -2,7 +2,7 @@
 
 ![Icône](./.images/icone.png) 
 
-L'assistant Aperçu de la cité vous affiche le plan de votre ville et permet aussi de l'exporter les données vers le site web https://foe-helper.com/
+L'assistant Aperçu de la cité vous affiche le plan de votre ville et permet aussi de l'exporter les données vers [site web foe-helper.com](https://foe-helper.com)
 
 ## Structure
 
