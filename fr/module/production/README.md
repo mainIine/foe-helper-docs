@@ -47,8 +47,8 @@ La fenêtre est composée de plusieurs onglets, un par production / catégorie, 
 
 Dans chaque onglet est affiché le total de la récolte. Pour les pf, on indique en plus si vous avez tous les batiment qui sont motivés ou pas et donc si vous avez le plein de pf.
 Dans l'exemple ci-dessus, on voit qu'il manque 2 pf pour avoir le total.
-Dans la liste des batiments, on va pouvoir voir lequel :
-![Batiment pas motivé](./.images/pomo_pas_fait.png)
+Dans la liste des batiments, on va pouvoir voir lequel :<br>
+![Batiment pas motivé](./.images/pomo_pas_fait.png)<br>
 le "-" devant indique que ce sanctuaire du savoir n'a pas encore étét motivé / poli.
 
 
