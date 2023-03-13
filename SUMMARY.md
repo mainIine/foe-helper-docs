@@ -113,7 +113,7 @@
   * [Discord Webhooks](fr/module/discord/README.md)
   * [Efficience des bâtiments](fr/module/GcG/README.md)
   * [Filtre du marché](fr/module/marche/README.md)
-  * [GcG](fr/module/GcG/README.md)
+  * [GcG](fr/module/gcg/README.md)
   * [Incidents](fr/module/incident/README.md) 
   * [Infos de l'éclaireur](fr/module/eclaireur/README.md)
   * [Infos Système](fr/module/info_technique/README.md)
