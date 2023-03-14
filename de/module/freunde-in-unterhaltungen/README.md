@@ -1,7 +1,3 @@
---- 
-description: Freunde in Unterhaltungen 
---- 
-
 # Freunde in Unterhaltungen finden/vergleichen
 
 Um zu prüfen, mit welchen Freunden man im gleichen Thread ist um Platz zu schaffen, für neue Freunde.
