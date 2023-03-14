@@ -12,9 +12,9 @@ Dieses Modul zeigt dir beim Betreten der Karte den aktuellen Status deines Späh
 
 Der Späherstatus zeigt folgende Informationen an:
 
-* Wieviel die Erkundung einer bestimmten Provinz kostet und wie lange diese dauern wird (Zeile eins in obiger Tabelle)
-* Zu welcher Provinz der Späher gerade unterwegs ist und wie lange dies noch dauert (Zeile zwei in obiger Tabelle - aktualisiert nur beim öffnen des Moduls/der Karte)
-* Welche Provinzen aktuell erobert werden können (grün hinterlegt - z.B. Zeile drei in obiger Tabelle)
+* Wieviel die Erkundung einer bestimmten Provinz kostet und wie lange diese dauern wird (Zeile Eins in obiger Tabelle)
+* Zu welcher Provinz der Späher gerade unterwegs ist und wie lange dies noch dauert (Zeile Zwei in obiger Tabelle - aktualisiert nur beim Öffnen der Karte)
+* Welche Provinzen aktuell erobert werden können (grün hinterlegt - z.B. Zeile Drei in obiger Tabelle)
 
 ## Konfiguration
 
