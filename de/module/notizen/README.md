@@ -4,6 +4,10 @@
 
 Notiere dir alles, was Du brauchst, sortiert in Gruppen und noch mal in Seiten. So behältst Du immer den Überblick, auch geräteübergreifend.
 
+<div data-gb-custom-block data-tag="hint" data-style='success'>
+Alle Notizen werden via API auf dem foe-helper.com Server gespeichert und sind somit auf allen Geräten, außer auf dem Handy, gespeichert
+</div>
+
 ## Aufbau
 
 ![Aufbau](./.images/notizmodul-aufbau.png)
