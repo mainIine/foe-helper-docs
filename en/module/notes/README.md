@@ -4,6 +4,10 @@
 
 Write down everything you need, sorted in groups and again in pages. This way you can document your game play, even across devices.
 
+<div data-gb-custom-block data-tag="hint" data-style='success'>
+All notes are saved via API on the foe-helper.com server and are therefore saved on all devices except the cell phone
+</div>
+
 ## Aufbau
 
 ![Window](./.images/structure.png)
