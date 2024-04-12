@@ -135,6 +135,7 @@
 * [Site Web](fr/site_web/README.md)
   * [Planificateur de cité](fr/site_web/planificateur_cite/README.md)
 
+* [Jeton API](fr/guide/api-token.md)
 
 * [Aide](fr/guide/README.md)
   * [Github](fr/guide/github.md)
