@@ -12,10 +12,10 @@ Beachte dabei aber, dass jede Welt seinen eigenen Token benötigt. Also brauchst
 
 ## Hinterlegen des Tokens
 
-Den aus dem Profil kopierten Token kannst Du nun einfach in der Extension in der passenden Welt hinterlegen.
+Den aus dem Profil kopierten Token kannst Du jetzt einfach in der Extension in der passenden Welt hinterlegen.
 
 ![Api-Token](./.images/extension-token.png)
 
 <div data-gb-custom-block data-tag="hint" data-style='warning'>
-Achte auch hier wieder auf die auswahl der richten Welt!
+Achte auch hier wieder auf die Auswahl der richten Welt!
 </div>
