@@ -2,11 +2,23 @@
 
 ![Icône](./.images/icon.png)
 
-L'assistant Notes vous permet d'enregistrer des notes de manières très flexible.
+Notez tout ce dont vous avez besoin, trié en onglets et à nouveau en pages. De cette façon, vous pouvez documenter 
+votre jeu, même sur plusieurs appareils.
+
+<div data-gb-custom-block data-tag="hint" data-style='success'>
+Toutes les notes sont enregistrées via API sur le serveur foe-helper.com et sont donc enregistrées sur 
+tous les appareils sauf les téléphones mobiles
+</div>
 
 ## Structure
 
-![Structure](./.images/structure.png)
+![Structure](./.images/structure.png
+
+1. "Onglet" - commparable à une structure de catégorie
+2. "Page" - sous-catégorie des onglets
+3. "Paramètres" - ne fait sense que si des onglets et des pages sont disponibles
+4. Chaque pasge nécessite d'avoir un titre
+5. Contenu - clique et commence à écrire
 
 La fenêtre présente des onglets en horizontal et par onglet, des pages en vertical.
 
