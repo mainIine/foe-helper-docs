@@ -12,7 +12,7 @@ Please note, however, that each world requires its own token. So you need a sepa
 
 ## Enter the Token
 
-You can now simply store the token copied from the profile in the extension in the appropriate world.
+You can now simply store the token copied from the profile in the extension, since version 3.6.4.0, in the appropriate world.
 
 ![Api-Token Extension](./.images/extension-token.png)
 

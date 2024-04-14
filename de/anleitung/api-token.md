@@ -12,7 +12,7 @@ Beachte dabei aber, dass jede Welt seinen eigenen Token benötigt. Also brauchst
 
 ## Hinterlegen des Tokens
 
-Den aus dem Profil kopierten Token kannst Du jetzt einfach in der Extension in der passenden Welt hinterlegen.
+Den aus dem Profil kopierten Token kannst Du jetzt einfach in der Extension, ab Version 3.6.4.0, in der passenden Welt hinterlegen.
 
 ![Api-Token](./.images/extension-token.png)
 
