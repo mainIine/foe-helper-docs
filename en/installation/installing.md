@@ -32,9 +32,7 @@ After opening the game, an additional bar will appear in the bottom right corner
 
 ## Microsoft Edge
 
-Similar to Chrome, here the extension can simply be selected from the [Microsoft Store](https://microsoftedge.microsoft.com/addons/detail/foe-helfer/cpmacpalonncbafboibpcjcpadloannb) downloaded and installed.
-
-Installation from here on is the same as for Chrome.
+The extension can no longer be selected from the Microsoft Store. Instead install it from the [Chrome Store](https://chrome.google.com/webstore/detail/foe-helper/bkagcmloachflbbkfmfiggipaelfamdf).
 
 ## Opera Browser
 

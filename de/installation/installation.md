@@ -32,9 +32,7 @@ Nach dem Öffnen des Spiels erscheint unten rechts eine zusätzliche Leiste.
 
 ## Microsoft Edge
 
-Ähnlich wie beim Chrome kann hier die Extension einfach aus dem [Microsoft Store](https://microsoftedge.microsoft.com/addons/detail/foe-helfer/cpmacpalonncbafboibpcjcpadloannb) heruntergeladen und installiert werden.
-
-Installation ist ab hier das gleiche wie beim Chrome.
+Die Extension kann nicht mehr aus dem Microsoft Store installiert werden. Statt dessen erfolgt die Installation über den [Chrome Store](https://chrome.google.com/webstore/detail/foe-helper/bkagcmloachflbbkfmfiggipaelfamdf).
 
 ## Opera Browser
 
