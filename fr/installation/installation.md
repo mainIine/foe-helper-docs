@@ -33,9 +33,9 @@ Après avoir ouvert le jeu, une barre supplémentaire apparaît en bas à droite
 
 ## Microsoft Edge
 
-Semblable à Chrome, l'extension peut simplement être téléchargée et installée à partir du [Microsoft Store](https://microsoftedge.microsoft.com/addons/detail/foe-helfer/cpmacpalonncbafboibpcjcpadloannb).
 
-L'installation à partir d'ici est la même qu'avec Chrome.
+En raison de réglementations très strictes, nous ne pouvons plus proposer le FoE-Helper dans l'Edge Store. Les fichiers zip de l'assistant de négociation ne sont plus autorisés...
+vous pouvez l'installer depuis [le Chrome Store][Chrome Store](https://chrome.google.com/webstore/detail/foe-helper/bkagcmloachflbbkfmfiggipaelfamdf)
 
 ## Opera Browser
 
