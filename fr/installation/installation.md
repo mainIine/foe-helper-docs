@@ -27,7 +27,7 @@ Il existe une version dans la boutique d'extention pour Chrome, Microsoft et Fir
 
 ## Chrome Installation
 
-Accédez à la boutique en ligne Chrome : [Chrome Store](https://chrome.google.com/webstore/detail/foe-helper/bkagcmloachflbbkfmfiggipaelfamdf) et cliquez sur le bouton "Ajouter à Chrome" en haut à droite.
+Accédez à la boutique en ligne Chrome : [Chrome Store](https://chromewebstore.google.com/detail/foe-assistant/bkagcmloachflbbkfmfiggipaelfamdf) et cliquez sur le bouton "Ajouter à Chrome" en haut à droite.
 
 L'extension sera automatiquement ajoutée à votre navigateur après votre confirmation.
 
@@ -39,13 +39,16 @@ Après avoir ouvert le jeu, une barre supplémentaire apparaît en bas à droite
 
 ## Microsoft Edge
 
-Ce navigateur n'accepte plus nos extensions en raison d'exigences strictes.
+L'extension ne peut plus être installées depuis le Store Microsoft. A la place, vous pouvez l'installer via le [Store Chrome](https://chromewebstore.google.com/detail/foe-assistant/bkagcmloachflbbkfmfiggipaelfamdf).
 
-Comme nous utilisons des fichiers compressés (*.zip) pour l'assistant de négociation, cela est reconnu comme une erreur et notre extension n'est plus acceptée.
+
+## Firefox Browser
+
+l'extension peut directement être ajoutée depuis le store : [Extension firefox](https://addons.mozilla.org/en-US/firefox/addon/foe-helper/)
+![](.images/firefox.png)
+
 
 ## Opera Browser
-
-german
 
 Avec un petit outil, n'importe quelle extension Chrome peut être facilement installée dans un navigateur Opera. Cela peut également s'appliquer à tous les autres navigateurs basés sur Chromium. Cela diffère d'un cas à l'autre.
 
