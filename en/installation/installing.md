@@ -38,9 +38,7 @@ After opening the game, an additional bar will appear in the bottom right corner
 
 ## Microsoft Edge
 
-This browser will no longer accept our extensions due to strict requirements.
-
-As we use compressed files (*.zip) for the negotiation assistant, this is recognised as an error and our extension is no longer accepted.
+The extension can no longer be selected from the Microsoft Store. Instead install it from the [Chrome Store](https://chrome.google.com/webstore/detail/foe-helper/bkagcmloachflbbkfmfiggipaelfamdf).
 
 ## Opera Browser
 

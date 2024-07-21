@@ -38,9 +38,7 @@ Nach dem Öffnen des Spiels erscheint unten rechts eine zusätzliche Leiste.
 
 ## Microsoft Edge
 
-Dieser Browser wird wegen zu strengen Auflagen unsere Erweiterungen nicht mehr akzeptieren.
-
-Da wir gepackte Dateien (*.zip) für den Verhandlungsassistenten benutzen, wird das als Fehler erkannt und unsere Erweiterung nicht mehr akzeptiert.
+Die Extension kann nicht mehr aus dem Microsoft Store installiert werden. Statt dessen erfolgt die Installation über den [Chrome Store](https://chrome.google.com/webstore/detail/foe-helper/bkagcmloachflbbkfmfiggipaelfamdf).
 
 ## Opera Browser
 
