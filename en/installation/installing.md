@@ -8,6 +8,12 @@ FoE Helper is a browser extension that "overlays" the game and can analyze the d
 
 Since no data is manipulated, no actions are automated or other changes are made, this expansion is not officially approved by InnoGames, but it does not violate any game rules and is therefore tolerated.
 
+<div data-gb-custom-block data-tag="warning" data-style='info'>
+
+It is not possible to install the helper on a mobile device.
+
+</div>
+
 ## Installation of the FoE Helper
 
 FoE Helper is suitable for all Chromium based browsers.

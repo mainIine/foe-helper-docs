@@ -8,6 +8,12 @@ L'assistant FoE est une extension de navigateur qui « recouvre » le jeu et peu
 
 Étant donné qu'aucune donnée n'est manipulée, qu'aucune action n'est automatisée ou que d'autres modifications sont apportées, cette extension n'est pas officiellement approuvée par InnoGames, mais elle ne viole pas les règles du jeu et est donc tolérée.
 
+<div data-gb-custom-block data-tag="warning" data-style='info'>
+
+Il n'est pas possible d'installer l'assistant sur un appareil mobile.
+
+</div>
+
 ## Installation de FoE-Assistant
 
 L'assistant FoE convient à tous les navigateurs basés sur Chromium.
@@ -33,9 +39,9 @@ Après avoir ouvert le jeu, une barre supplémentaire apparaît en bas à droite
 
 ## Microsoft Edge
 
-Semblable à Chrome, l'extension peut simplement être téléchargée et installée à partir du [Microsoft Store](https://microsoftedge.microsoft.com/addons/detail/foe-helfer/cpmacpalonncbafboibpcjcpadloannb).
+Ce navigateur n'accepte plus nos extensions en raison d'exigences strictes.
 
-L'installation à partir d'ici est la même qu'avec Chrome.
+Comme nous utilisons des fichiers compressés (*.zip) pour l'assistant de négociation, cela est reconnu comme une erreur et notre extension n'est plus acceptée.
 
 ## Opera Browser
 

@@ -8,6 +8,12 @@ Der FoE Helfer ist eine Browsererweiterung, die sich "über" das Spiel legt und 
 
 Da keine Daten manipuliert, keine Aktionen automatisiert oder sonstige Veränderungen vorgenommen werden, ist diese Erweiterung zwar nicht offiziell von InnoGames zugelassen, verstößt aber auch nicht gegen Spielregeln und wird daher geduldet.
 
+<div data-gb-custom-block data-tag="warning" data-style='info'>
+
+Es ist nicht möglich den Helfer auf einem Mobilgerät zu installieren.
+
+</div>
+
 ## Installation des FoE Helfers
 
 Der FoE Helfer ist für alle Chromium basierenden Browser geeignet.
