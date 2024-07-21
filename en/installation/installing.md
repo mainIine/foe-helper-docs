@@ -38,9 +38,12 @@ After opening the game, an additional bar will appear in the bottom right corner
 
 ## Microsoft Edge
 
-This browser will no longer accept our extensions due to strict requirements.
+The extension can no longer be selected from the Microsoft Store. Instead install it from the [Chrome Store](https://chrome.google.com/webstore/detail/foe-helper/bkagcmloachflbbkfmfiggipaelfamdf).
 
-As we use compressed files (*.zip) for the negotiation assistant, this is recognised as an error and our extension is no longer accepted.
+## Firefox Browser
+
+The Firefox add-on can be downloaded directly from the store: [Firefox-Addon](https://addons.mozilla.org/en/firefox/addon/foe-helper/)
+![Firefox Add-On](.images/firefox-add-on.png)
 
 ## Opera Browser
 

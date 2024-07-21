@@ -38,9 +38,13 @@ Nach dem Öffnen des Spiels erscheint unten rechts eine zusätzliche Leiste.
 
 ## Microsoft Edge
 
-Dieser Browser wird wegen zu strengen Auflagen unsere Erweiterungen nicht mehr akzeptieren.
+Die Extension kann nicht mehr aus dem Microsoft Store installiert werden. Stattdessen erfolgt die Installation über den [Chrome Store](https://chrome.google.com/webstore/detail/foe-helper/bkagcmloachflbbkfmfiggipaelfamdf).
 
-Da wir gepackte Dateien (*.zip) für den Verhandlungsassistenten benutzen, wird das als Fehler erkannt und unsere Erweiterung nicht mehr akzeptiert.
+## Firefox Browser
+
+Das Firefox-Addon kann direkt aus dem Store heruntergeladen werden: [Firefox-Addon](https://addons.mozilla.org/de/firefox/addon/foe-helper/)
+![Firefox Add-On](.images/firefox-add-ons.png)
+
 
 ## Opera Browser
 
