@@ -45,6 +45,8 @@
   * [Github](de/anleitung/github.md)
   * [Markdown](de/anleitung/markdown.md)
   * [Dokumentation schreiben](de/anleitung/dokumentation.md)
+  
+* [Api Token](de/anleitung/api-token.md)
 
 ## English
 
@@ -88,6 +90,8 @@
   * [Github](en/guide/github.md)
   * [Markdown](en/guide/markdown.md)
   * [Writing documentation](en/guide/documentation.md)
+
+* [Api Token](en/guide/api-token.md)
   
 ## Français
 
@@ -131,6 +135,7 @@
 * [Site Web](fr/site_web/README.md)
   * [Planificateur de cité](fr/site_web/planificateur_cite/README.md)
 
+* [Jeton API](fr/guide/api-token.md)
 
 * [Aide](fr/guide/README.md)
   * [Github](fr/guide/github.md)
