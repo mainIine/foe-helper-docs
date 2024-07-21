@@ -8,7 +8,7 @@ L'assistant FoE est une extension de navigateur qui « recouvre » le jeu et peu
 
 Étant donné qu'aucune donnée n'est manipulée, qu'aucune action n'est automatisée ou que d'autres modifications sont apportées, cette extension n'est pas officiellement approuvée par InnoGames, mais elle ne viole pas les règles du jeu et est donc tolérée.
 
-<div data-gb-custom-block data-tag="warning" data-style='info'>
+<div data-gb-custom-block data-tag="hint" data-style='warning'>
 
 Il n'est pas possible d'installer l'assistant sur un appareil mobile.
 
