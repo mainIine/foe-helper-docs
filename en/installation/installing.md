@@ -40,6 +40,11 @@ After opening the game, an additional bar will appear in the bottom right corner
 
 The extension can no longer be selected from the Microsoft Store. Instead install it from the [Chrome Store](https://chrome.google.com/webstore/detail/foe-helper/bkagcmloachflbbkfmfiggipaelfamdf).
 
+## Firefox Browser
+
+The Firefox add-on can be downloaded directly from the store: [Firefox-Addon](https://addons.mozilla.org/en/firefox/addon/foe-helper/)
+![Firefox Add-On](.images/firefox-add-on.png)
+
 ## Opera Browser
 
 With a small tool you can easily install any Chrome extension into an Opera browser. This can also be true for all other Chromium based browsers. It varies from case to case.
