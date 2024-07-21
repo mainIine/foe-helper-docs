@@ -8,7 +8,7 @@ FoE Helper è un'estensione per il browser che "sovrappone" il gioco e può anal
 
 Poiché non vengono manipolati dati, né automatizzate azioni o apportate altre modifiche, questa estensione non è ufficialmente approvata da InnoGames, ma non viola alcuna regola del gioco ed è quindi tollerata.
 
-<div data-gb-custom-block data-tag="warning" data-style='info'>
+<div data-gb-custom-block data-tag="hint" data-style='warning'>
 
 Non è possibile installare l'helper su un dispositivo mobile.
 
