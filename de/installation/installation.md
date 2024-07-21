@@ -8,6 +8,12 @@ Der FoE Helfer ist eine Browsererweiterung, die sich "über" das Spiel legt und 
 
 Da keine Daten manipuliert, keine Aktionen automatisiert oder sonstige Veränderungen vorgenommen werden, ist diese Erweiterung zwar nicht offiziell von InnoGames zugelassen, verstößt aber auch nicht gegen Spielregeln und wird daher geduldet.
 
+<div data-gb-custom-block data-tag="warning" data-style='info'>
+
+Es ist nicht möglich den Helfer auf einem Mobilgerät zu installieren.
+
+</div>
+
 ## Installation des FoE Helfers
 
 Der FoE Helfer ist für alle Chromium basierenden Browser geeignet.
@@ -32,9 +38,9 @@ Nach dem Öffnen des Spiels erscheint unten rechts eine zusätzliche Leiste.
 
 ## Microsoft Edge
 
-Ähnlich wie beim Chrome kann hier die Extension einfach aus dem [Microsoft Store](https://microsoftedge.microsoft.com/addons/detail/foe-helfer/cpmacpalonncbafboibpcjcpadloannb) heruntergeladen und installiert werden.
+Dieser Browser wird wegen zu strengen Auflagen unsere Erweiterungen nicht mehr akzeptieren.
 
-Installation ist ab hier das gleiche wie beim Chrome.
+Da wir gepackte Dateien (*.zip) für den Verhandlungsassistenten benutzen, wird das als Fehler erkannt und unsere Erweiterung nicht mehr akzeptiert.
 
 ## Opera Browser
 

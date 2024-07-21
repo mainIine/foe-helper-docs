@@ -8,6 +8,12 @@ FoE Helper is a browser extension that "overlays" the game and can analyze the d
 
 Since no data is manipulated, no actions are automated or other changes are made, this expansion is not officially approved by InnoGames, but it does not violate any game rules and is therefore tolerated.
 
+<div data-gb-custom-block data-tag="warning" data-style='info'>
+
+It is not possible to install the helper on a mobile device.
+
+</div>
+
 ## Installation of the FoE Helper
 
 FoE Helper is suitable for all Chromium based browsers.
@@ -32,9 +38,9 @@ After opening the game, an additional bar will appear in the bottom right corner
 
 ## Microsoft Edge
 
-Similar to Chrome, here the extension can simply be selected from the [Microsoft Store](https://microsoftedge.microsoft.com/addons/detail/foe-helfer/cpmacpalonncbafboibpcjcpadloannb) downloaded and installed.
+This browser will no longer accept our extensions due to strict requirements.
 
-Installation from here on is the same as for Chrome.
+As we use compressed files (*.zip) for the negotiation assistant, this is recognised as an error and our extension is no longer accepted.
 
 ## Opera Browser
 
