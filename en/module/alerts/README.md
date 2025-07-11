@@ -45,4 +45,5 @@ The Create Alerts Menu is structured as follows, from top to bottom:
 
 The Presets option displays a drop-down list that allows you to automatically set an alarm for the Antique Dealer or a specific sector in GBG.
 By choosing a sector or Antique Dealer, the **Titles** and **date & time** field will be automatically populated.
+
 ![Presets Dropdown](https://github.com/user-attachments/assets/6c31eb23-5650-4e12-bea7-13d7b2f872d6)
