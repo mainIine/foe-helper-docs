@@ -5,7 +5,7 @@ description: This feature helps players coordinate GBG attacks.
 # Guild Battlegrounds
 ![Icon](https://github.com/user-attachments/assets/13371116-8d14-48e1-ba43-168985ddc2df)
 
-This feature tracks provinces and displays their unlocking times, allows alerts creation, and creates notes for copying to guild chats.
+This feature monitors provinces, shows their unlock times, lets you set alerts, and create notes for easy sharing in guild chats.
 
 ![Guild Battleground](https://github.com/user-attachments/assets/cd16445b-6553-4aec-ae55-ea1d15af559b)
 
@@ -42,11 +42,11 @@ The Sector progress tab is structured top-to-bottom as follows:
 
 ## Configuration
 
-Configuration menu enables changing the level of details in the Guild Battleground menu
+The configuration menu enables changing the level of detail in the Guild Battleground menu
 
 ![Configuration menu](https://github.com/user-attachments/assets/33ab1c78-d10e-4c55-a72a-1a2910063078)
 
-The Congiuration is structured top-to-bottom as follows:
+The Configuration is structured top-to-bottom as follows:
 - **Show Guilds** - If selected, names of Guilds owning sectors are displayed in the menu
 - **Show only adjacent sectors countdowns** - If selected, only adjacent sectors are displayed in the menu (selected by default)
 - **Show own sectors countdowns** - If selected, own sectors are displayed in the menu with countdowns until unlock
