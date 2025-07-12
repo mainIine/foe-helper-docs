@@ -1,31 +1,33 @@
-# (Name of the Module)
+---
+Compares multiple conversation threads to show which friends are included in each
+---
 
-![Icon](./.images/dummy-icon.png) 
+# Compare friends in conversations
 
-(Provide a brief description of the module and its purpose.)
+![Icon](https://github.com/user-attachments/assets/e4adb9b2-953e-4a66-bea6-d9c7eba35c79)
 
 ## Structure
 
-![Structure](./.images/dummy-screenshot.png)
+![Overview](https://github.com/user-attachments/assets/29f37e3a-040c-4496-a45b-d9dd98180368)
 
-(Describe the components of the dialog, i.e. the meaning of all the numbers shown or any buttons or checkboxes that can be selected.)
-
-## Configuration
-
-![Configuration](./.images/dummy-screenshot.png)
-
-(If the module offers a settings menu, describe the options available.)
+This module enables you to quickly compare multiple conversation threads and identify which friends are included in each, allowing you to easily see shared or missing participants across threads. It provides a side-by-side overview of selected threads, helping you track presence in threads.
 
 ## Usage
 
-(Describe how to use or interpret the module.  Provide additional screenshots where necessary.)
+To use this module:
+1. **Open module** - friend list will be displayed
+2. **Open the in-game message center**
+3. **Click on the "Social" tab**
+4. **Open thread in which you want to check the presence of friends**
+5. **Open settings** - button with three lines, in the upper left corner
+6. **Open Group Info/Recipients** - Status for that thread is visible in module
+{% hint style="info" %}
+Repeat steps 4-6 on different threads to include them in the comparison  
+{% endhint %}
+
+The comparison is particularly useful for tracking the presence of friends in GB leveling conversations on the "social" tab.
 
 ## FAQ
 
-(Include this section if there are any typical questions that are asked. Make sure the question is in bold and the answer not.  Also, make sure to include an HTML line break (&lt;br&gt;) at the end of the question so that the questions are rendered properly.)
-
-**Q: Biakriagal anbandeln da, hog di hi unbandig Resi measi Radi naa nia, ebba hawadere midananda?**<br>
-A: I mechad dee Schwoanshaxn dahoam guad, aba. Schüds nei Gaudi fensdaln, auf der Oim, da gibt’s koa Sünd Klampfn!.
-
-**Q: Fias da Kini gwihss mehra des is schee Biazelt Edlweiss glei.?**<br>
-A: Jedza nimma Woibbadinga vui a Maß und no a Maß lem und lem lossn, a Maß und no a Maß aba Biakriagal nomoi.
+**Q: Can I compare neighbors and guild mates?**<br>
+A: Currently, this module is supporting only the comparison of friends!.
