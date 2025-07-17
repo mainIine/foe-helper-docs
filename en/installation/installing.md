@@ -31,7 +31,7 @@ Go to the Chrome Web Store: [Chrome Store](https://chrome.google.com/webstore/de
 The extension will be automatically added to your browser after your confirmation.
 
 <div data-gb-custom-block data-tag="hint" data-style='info'>
-If you have already opened the game in one of your tabs you have to reload the window!
+If the game is already open in one of your tabs you have to reload it!
 </div>
 
 After opening the game, an additional bar will appear in the bottom right corner.
@@ -44,18 +44,6 @@ The extension can no longer be selected from the Microsoft Store. Instead instal
 
 The Firefox add-on can be downloaded directly from the store: [Firefox-Addon](https://addons.mozilla.org/en/firefox/addon/foe-helper/)
 ![Firefox Add-On](.images/firefox-add-on.png)
-
-## Opera Browser
-
-With a small tool you can easily install any Chrome extension into an Opera browser. This can also be true for all other Chromium based browsers. It varies from case to case.
-
-1. Open in your Opera Browser (PC) the [Opera Store](https://addons.opera.com/de/extensions/details/install-chrome-extensions/) and install it.
-2. Restart your Opera.
-3. Open the Chrome Webstore in your Opera and perform the following steps as described under "Chrome Installation". ![FoE Helfer aus dem Chrome-Store installieren](./.images/foe-helfer-in-operea-installieren.png)
-4. Confirm the compatibility mode: ![Kompatibilität bestätigen](./.images/kompatibilitaets-bestaetigung.png)
-5. In the next step you will be offered to install the extension. Click "Install": ![Istallation akzeptieren](./.images/extension-in-opera-installieren.png) Confirm the permissions for the app.
-6. Restart browser and enjoy the game with the helper.
-
 
 
 
