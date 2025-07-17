@@ -3,12 +3,12 @@ description: Continent Map Overview
 --- 
 # Continent Map Overview
 
-![Icon](./.images/icon.png)
+![Icon](./.images/Icon.png)
 
 This module displays the resources required to acquire sector provinces on the campaign map.
 
 {% hint style="warning" %}
-To open this module, the sector on the game's campaign map window must be opened first. ![](./.images/ingame_icon.png)
+To open this module, the sector on the game's campaign map window must be opened first.
 {% endhint %}
 
 ## Layout
