@@ -13,13 +13,13 @@ It calculates how many Forge Points (FPs) you need to invest to secure supporter
 
 The Self-Contribution Calculator interface is structured top-to-bottom as follows:
 
-- **Header menu**
+### Header menu
   - **Building name**
   - **Owner info** including a link to the player's page on [foe.scoredb.io](https://foe.scoredb.io/)
   - **Current level & target level** – Use the arrow to simulate future levels
   - **Buttons to toggle reward percentages**
 
-- **Table breakdown**:
+### Table breakdown:
   - **Sequence** – Who contributes when; e.g., owner starts with 28,862 FP to secure 1st and 2nd places
   - **FPs** – Required contribution
   - **Done** – Already contributed amount
@@ -28,7 +28,7 @@ The Self-Contribution Calculator interface is structured top-to-bottom as follow
   - **Ext** – Detects externally filled positions and arranges them
   - **Arc** – Arc bonus percentage per spot, editable per spot (eg. 1st and 2nd to be set as 2.0 contribution)
 
-- **Key values:**
+### Key values:
   - **Existing Contributions**
     - **Secure** – Contributions from others will be assigned to the matching position and secured automatically (default setting)
     - **Trust** – Assumes other contributors won’t overtake each other or new supporters (use cautiously)
@@ -37,7 +37,7 @@ The Self-Contribution Calculator interface is structured top-to-bottom as follow
   - **Total FPs Required** – Combined supporter + self-contribution needed fo selected level
   - **Owner to Add Remaining** – Remaining FPs you need to add to secure spots
 
-- **Other features:**
+### Other features:
   - **Active Recurring Quest (RQs)** indicator of active RQ, with amount needed for RQ to be completed
   - **Remaining FPs to level** – FPs still needed to level the GB
   - **Copy Values** - Allows you to copy contribution values to the clipboard for sharing in chat
