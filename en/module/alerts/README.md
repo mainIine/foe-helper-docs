@@ -1,6 +1,7 @@
 --- 
 description: The Alerts module lets you create and manage custom reminders 
 --- 
+
 ![Icon](https://github.com/user-attachments/assets/fb0ef894-2727-4f76-b688-be77f2130719)
 
 # Alerts
