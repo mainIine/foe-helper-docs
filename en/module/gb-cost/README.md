@@ -1,6 +1,7 @@
 --- 
 description: GB Cost Calculator 
---- 
+---
+
 # GB Cost Calculator
 
 ![Icon](https://github.com/user-attachments/assets/f914ee3f-69a7-4d8a-9e03-dad21405413a)
