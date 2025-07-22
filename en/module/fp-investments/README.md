@@ -23,7 +23,7 @@ The "FP Investments Summary" module provides an overview of Forge Points (FPs) i
 ### Table Columns Explanation
  - Player:	Name of the player whose building you’ve invested in. Clickable for viewing the player's page on https://foe.scoredb.io/.
  - Building:	Name and level of the Great Building you invested in (e.g., The Blue Galaxy (90)).
- - ![](./.images/open-eye.png): Click to toggle the visibility of the Great Building. By marking a specific GB as hidden, Summary stats will exclude that investment.
+ - ![](./.images/unvisible.png): Click to toggle the visibility of the Great Building. By marking a specific GB as hidden, Summary stats will exclude that investment.
  - Entry Time:	Date and time you invested in a specific Great Building.
  - Date of Increase:	Timestamp of the last progress increase, useful for tracking movement on invested building.
  - Progress:	GB's current Forge Points status (e.g., 8544 / 8573 = nearly complete). Yellow numbers (like +555) show recent increase.
@@ -47,7 +47,7 @@ In the bottom right corner of the menu, the list last refresh time stamp (eg. 16
 
 ## Configuration
 
-![Configuration](./.images/config-menu.png)
+![Configuration](./.images/config_menu.png)
 
 This Config menu is used for enhancing the data displayed for Forge Point investment tracking. It allows fine-tuning of what info is visible and how conservative the profit/loss calculations should be, improving user control and clarity during GB donation tracking.
 
