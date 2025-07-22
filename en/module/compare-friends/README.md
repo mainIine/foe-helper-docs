@@ -1,5 +1,5 @@
 ---
-Compares multiple conversation threads to show which friends are included in each
+description: Compares multiple conversation threads to show which friends are included in each
 ---
 
 # Compare friends in conversations
