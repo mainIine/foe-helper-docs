@@ -4,15 +4,15 @@ description: Monitoring your external investments
 
 # FP Investments 
 
-![Icon](./.images/dummy-icon.png) 
+![Icon](./.images/icon.png) 
 
 The "FP Investments Summary" module provides an overview of Forge Points (FPs) invested in other players' Great Buildings (GBs). It's a powerful tool for monitoring your external investments, profits, and sniping opportunities.
 
 ## Structure
 
-![Structure](./.images/dummy-screenshot.png)
+![Structure](./.images/Menu-layout.png)
 
-## Top Panel (Summary Stats)
+### Top Panel (Summary Stats)
 Label	Description
 Invested FPs: 105.553	Total Forge Points you've invested across all Great Buildings in this table.
 Current Profit: 1.587	Profit already secured from investments (calculated as extra rewards after accounting for FPs spent).
@@ -20,7 +20,7 @@ Stock + Invested + Profit = 223.583	Combined value of Forge Points you have in s
 Coins: 2.893.334	Total coin balance you currently have.
 Medals: 3	Number of medals, often used for GB unlocks or expansions.
 
-## Table Columns Explanation
+### Table Columns Explanation
 Column	Description
 Player	Name of the player whose building you’ve invested in. Clickable for messaging or viewing their city.
 Building	Name and level of the Great Building you invested in (e.g., The Blue Galaxy (90)).
