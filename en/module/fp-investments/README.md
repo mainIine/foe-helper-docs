@@ -8,7 +8,7 @@ description: Monitoring your external investments
 
 The "FP Investments Summary" module provides an overview of Forge Points (FPs) invested in other players' Great Buildings (GBs). It's a powerful tool for monitoring your external investments, profits, and total amount of Forge Points.
 
-## Structure
+## Menu Overview
 
 ![Structure](./.images/Menu-layout.png)
 

@@ -4,11 +4,11 @@ description: Compares multiple conversation threads to show which friends are in
 
 # Compare friends in conversations
 
-![Icon](https://github.com/user-attachments/assets/e4adb9b2-953e-4a66-bea6-d9c7eba35c79)
+![Icon](./.images/icon.png)
 
-## Structure
+## Menu Overview
 
-![Overview](https://github.com/user-attachments/assets/29f37e3a-040c-4496-a45b-d9dd98180368)
+![Overview](./.images/menu-layout.jpg)
 
 This module enables you to quickly compare multiple conversation threads and identify which friends are included in each, allowing you to easily see shared or missing participants across threads. It provides a side-by-side overview of selected threads, helping you track presence in threads.
 

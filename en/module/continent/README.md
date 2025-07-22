@@ -12,7 +12,7 @@ This module displays the resources received and required to acquire sector provi
 To open this module, the sector on the game's campaign map window must be opened first.
 {% endhint %}
 
-## Layout
+## Menu Overview
 
 ![Menu Layout](./.images/Menu-layout.png)
 

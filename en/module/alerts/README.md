@@ -2,17 +2,17 @@
 description: The Alerts module lets you create and manage custom reminders 
 --- 
 
-![Icon](https://github.com/user-attachments/assets/fb0ef894-2727-4f76-b688-be77f2130719)
+![Icon](./.images/icon.png)
 
 # Alerts
 
 You can set alerts manually or auto-generate them for all Guild Battleground sectors or the Antiques Dealer.
 
-## Layout
+## Menu Overview
 
 The first screen displays an overview of already set alerts and buttons to add new alerts.
 
-![Alerts Menu](https://github.com/user-attachments/assets/13daaad4-6ca9-402c-a26a-be51b31a5cd0)
+![Alerts Menu](./.images/menu-layout.png)
 
 The alerts overview is structured as follows, from top to bottom:
 - **The alerts display area**
@@ -29,7 +29,7 @@ The alerts overview is structured as follows, from top to bottom:
 
 You can create a custom alarm by opening the window, entering a title and helpful description, and setting the time delay before it triggers.
 
-![Create Alert Menu](https://github.com/user-attachments/assets/3bab36c3-9984-4a1c-8d4b-82b3c140c3dc)
+![Create Alert Menu](./.images/new-alarm-menu.png)
 
 The Create Alerts Menu is structured as follows, from top to bottom:
 - **Title** – A custom name for the alarm (displayed in Alerts Overview)
@@ -47,4 +47,4 @@ The Create Alerts Menu is structured as follows, from top to bottom:
 The Presets option displays a drop-down list that allows you to automatically set an alarm for the Antique Dealer or a specific sector in GBG.
 By choosing a sector or Antique Dealer, the **Titles** and **date & time** field will be automatically populated.
 
-![Presets Dropdown](https://github.com/user-attachments/assets/6c31eb23-5650-4e12-bea7-13d7b2f872d6)
+![Presets Dropdown](./.images/selecting-presets.png)

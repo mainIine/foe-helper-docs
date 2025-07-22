@@ -4,14 +4,14 @@ description: GB Cost Calculator
 
 # GB Cost Calculator
 
-![Icon](https://github.com/user-attachments/assets/f914ee3f-69a7-4d8a-9e03-dad21405413a)
+![Icon](./.images/icon.png)
 
 If you want to help others level their Great Buildings — whether voluntarily or by accident — this tool is essential.  
 It calculates all relevant values for you and can be customized to your needs.
 
-## Layout
+## Menu Overview
 
-![Layout](https://github.com/user-attachments/assets/0a3422b5-d5fb-427d-aba6-ae94b4ea84ee)
+![Layout](./.images/menu-layout.png)
 
 
 The Cost Calculator interface is structured from top to bottom as follows:
@@ -38,7 +38,7 @@ Additional info:
 
 Click the **gear icon** in the title bar to open the Configuration menu.
 
-![Configuration](https://github.com/user-attachments/assets/2e068b61-d4d5-4278-b995-d3d6c0332e33)
+![Configuration](./.images/config-menu.png)
 
 The Configuration interface is structured top-to-bottom as follows:
 - **Percentage Buttons** - A series of pre-set contribution percentages (e.g. 90%, 91%, 100%, etc.) used for GB reward calculations.
@@ -59,13 +59,13 @@ The FP values in the supporter table are color-coded to show whether a spot is s
 
 If the spot is secure and cannot be overtaken after your investment, the row is highlighted in green.
 
-![Safe spot](https://github.com/user-attachments/assets/7a2e29a2-3b1c-4ee0-9bd5-958c083cdf93)
+![Safe spot](./.images/safe-spot.png)
 
 ### Red = Not Secured Contribution Spot
 
 If the spot is still vulnerable and can be overtaken, the row turns red and shows (in red text eg.+123) how many FPs are missing to secure it.
 
-![Not secure spot](https://github.com/user-attachments/assets/81cc5723-5076-4600-8dbb-b7e125480bc2)
+![Not secure spot](./.images/not-secured.png)
 
 
 ### Blue = Already Invested
@@ -73,27 +73,27 @@ If the spot is still vulnerable and can be overtaken, the row turns red and show
 If you’ve already contributed exactly the calculated amount, the row turns blue.  
 It will remain blue the next time you open the building, provided your investment is recognized.
 
-![Already Invested](https://github.com/user-attachments/assets/bb322f55-20a5-42c1-8244-7785f2d609d6)
+![Already Invested](./.images/already-contributed.png)
 
 If your contribution differs from the calculated value, the row is highlighted blue with numbers shown in red: [invested FP] / [expected FP].
 (eg. chosen investment 100% which is 30 FPs, invested 29 FPs, showing 29/30)
 
-![Partial investment](https://github.com/user-attachments/assets/e850950a-84ac-41b8-8750-cb7798ef64de)
+![Partial investment](./.images/partial-contribution.png)
 
 ### Gray = Unavailable Spots
 
 If there are no donor spots available, all rows are displayed in gray.
 
-![Unavailable Spots](https://github.com/user-attachments/assets/6b56f28d-bb1d-40b9-9ca1-b4e828e27560)
+![Unavailable Spots](./.images/unavailable.png)
 
 ### Shaded = GB Level locked
 
 If the building’s next level is locked, donor spots are unavailable.
 
-![Locked Level](https://github.com/user-attachments/assets/9a7881b8-a27a-4766-8127-b2d22271bebe)
+![Locked Level](./.images/locked.png)
 
 ### Shaded = GB not connected to road
 
 If the building is not connected to the road, donor spots are unavailable.
 
-![Not connected to road](https://github.com/user-attachments/assets/67534165-b518-4bc2-ad0f-e293235303fb)
+![Not connected to road](./.images/not-connected.png)
