@@ -1,5 +1,5 @@
 ---
-Description: This feature displays an overview of all your productions.
+description: This feature displays an overview of all your productions.
 ---
 
 # Production Overview
