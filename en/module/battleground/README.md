@@ -1,6 +1,6 @@
---- 
+---
 description: This feature helps players coordinate GBG attacks. 
---- 
+---
 
 # Guild Battlegrounds
 ![Icon](./.images/icon.png)
