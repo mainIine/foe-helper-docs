@@ -1,4 +1,4 @@
-# Notizen
+# Notes
 
 ![Icon](./.images/notices.png)
 
@@ -8,7 +8,7 @@ Write down everything you need, sorted in groups and again in pages. This way yo
 All notes are saved via API on the foe-helper.com server and are therefore saved on all devices except the cell phone
 </div>
 
-## Aufbau
+## Menu Overview
 
 ![Window](./.images/structure.png)
 

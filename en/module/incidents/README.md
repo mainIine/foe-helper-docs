@@ -1,16 +1,16 @@
 --- 
 description: This module shows which incidents are currently available in your city for collection. 
 --- 
-![Icon](https://github.com/user-attachments/assets/0b37b32c-8d0e-4efd-8950-347d8023d578)
+![Icon](./.images/icon.png)
 
-## Layout
+## Menu Overview
 
-![Screenshot](https://github.com/user-attachments/assets/f42f5ecd-fc60-44b3-8f7c-532214b62bec)
+![Screenshot](./.images/menu-layout.png)
 
 The table displays which incidents are present, where they are located, and how much time remains before they disappear.
 
 ## Icon Badges
-![Icon bagdes](https://github.com/user-attachments/assets/2349f829-b361-4ac2-9725-f8caa4643422)
+![Icon bagdes](./.images/icon-badge.png)
 
 On the FOE Helper toolbar icon, an overlaid number shows how many incidents are currently available in your city.  
 If no number is displayed, there are currently no collectable incidents in your city.

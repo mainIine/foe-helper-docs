@@ -1,16 +1,16 @@
 --- 
 description: This module is designed to help you with negotiations.
---- 
+---
 
 # Negotiations Helper
 
-![Icon](https://github.com/user-attachments/assets/354c3435-c642-4323-b9e6-2b6198d022b8)
+![Icon](./.images/icon.png)
 
 In many parts of the game, negotiations must be carried out — sometimes simple, sometimes complex. This module is designed to help you with them.
 
-## Layout
+## Menu Overview
 
-![Negotiation table](https://github.com/user-attachments/assets/d9e5dc89-6766-419f-8aa3-8ee0e6f3bf2a)
+![Negotiation table](./.images/menu-layout.png)
 
 The dialog provides the following information and options:
 
@@ -22,7 +22,7 @@ The dialog provides the following information and options:
 
 ## Configuration
 
-![Settings menu](https://github.com/user-attachments/assets/3dab2717-9b75-43ba-9545-3e70950ce794)
+![Settings menu](./.images/settings-menu.png)
 
 In the settings, you can choose whether the Negotiation Assistant should launch automatically when a negotiation starts.
 
@@ -31,7 +31,7 @@ In the settings, you can choose whether the Negotiation Assistant should launch 
 The bottom half of the dialog displays the resources the tool suggests for negotiation.  
 Once you’ve selected your resource and clicked **Pay & Negotiate**, suggestions for the next round will appear:
 
-![Negotiation table Round 2](https://github.com/user-attachments/assets/899482c2-f039-4286-9a4b-6bb1dc202311)
+![Negotiation table Round 2](./.images/negotiation-round-two.png)
 
 The small circles below the suggestions show the **shortcut keys** you can use.  
 For example, in the third column in the image above, it shows `3-1`:
@@ -43,7 +43,7 @@ For example, in the third column in the image above, it shows `3-1`:
 {% hint style="warning" %}
 If you manually select and pay with a resource that wasn’t suggested, you’ll get a warning. From that point, support will be disabled for the current negotiation:
 {% endhint %}
-![Wrong good selected](https://github.com/user-attachments/assets/632ced5f-1c10-49fb-93e6-a06129f8054f)
+![Wrong good selected](./.images/manual-negotation.png)
 
 ---
 

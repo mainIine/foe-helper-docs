@@ -1,23 +1,25 @@
 --- 
 description: This tool helps you level your Great Buildings using a 1.9 support (or any custom value).  
---- 
+---
+
 # GB Calculator
+![Icon](./.images/icon.png)
 
 It calculates how many Forge Points (FPs) you need to invest to secure supporter spots, allows you to copy contribution values to the clipboard for sharing in chat, and checks if supporters have contributed correctly. 
 
-## Layout
+## Menu Overview
 
-![Layout](https://github.com/user-attachments/assets/f43f4e65-f060-42e5-989f-49b0aa0f7691)
+![Layout](./.images/menu-layout.png)
 
 The Self-Contribution Calculator interface is structured top-to-bottom as follows:
 
-- **Header menu**
+### Header menu
   - **Building name**
   - **Owner info** including a link to the player's page on [foe.scoredb.io](https://foe.scoredb.io/)
   - **Current level & target level** – Use the arrow to simulate future levels
   - **Buttons to toggle reward percentages**
 
-- **Table breakdown**:
+### Table breakdown:
   - **Sequence** – Who contributes when; e.g., owner starts with 28,862 FP to secure 1st and 2nd places
   - **FPs** – Required contribution
   - **Done** – Already contributed amount
@@ -26,7 +28,7 @@ The Self-Contribution Calculator interface is structured top-to-bottom as follow
   - **Ext** – Detects externally filled positions and arranges them
   - **Arc** – Arc bonus percentage per spot, editable per spot (eg. 1st and 2nd to be set as 2.0 contribution)
 
-- **Key values:**
+### Key values:
   - **Existing Contributions**
     - **Secure** – Contributions from others will be assigned to the matching position and secured automatically (default setting)
     - **Trust** – Assumes other contributors won’t overtake each other or new supporters (use cautiously)
@@ -35,7 +37,7 @@ The Self-Contribution Calculator interface is structured top-to-bottom as follow
   - **Total FPs Required** – Combined supporter + self-contribution needed fo selected level
   - **Owner to Add Remaining** – Remaining FPs you need to add to secure spots
 
-- **Other features:**
+### Other features:
   - **Active Recurring Quest (RQs)** indicator of active RQ, with amount needed for RQ to be completed
   - **Remaining FPs to level** – FPs still needed to level the GB
   - **Copy Values** - Allows you to copy contribution values to the clipboard for sharing in chat
@@ -50,7 +52,7 @@ The Self-Contribution Calculator interface is structured top-to-bottom as follow
 
 Configure which buttons appear at the top of the main dialog.
 
-![Configuration menu](https://github.com/user-attachments/assets/edc054f4-7ae5-449d-84da-111b08470c20)
+![Configuration menu](./.images/config-menu.png)
 
 The Configuration interface is structured top-to-bottom as follows:
 - **Percentage Buttons** (Top Row) - A series of pre-set contribution percentages (e.g. 90%, 100%, etc.) used for GB reward calculations.
@@ -76,7 +78,7 @@ Each button has an X to remove it.
 
 Click the arrow next to the title bar to open the dialog for customization of the copy function per specific GB.
 
-![Simple leveling](https://github.com/user-attachments/assets/19511e1a-b25e-4269-b39e-94b0aaa13d5c)
+![Simple leveling](./.images/selecting-presets.png)
 
 The Copy Function interface is structured top-to-bottom as follows:
 
@@ -113,7 +115,7 @@ Preview of all above settings is available at bottom of menu
 
 Click **Powerleveling** button in the main dialog to open a view showing FP costs for upcoming levels.
 
-![Powerleveling screen](https://github.com/user-attachments/assets/16f89baf-3b70-438f-af97-b888b2a49e7e)
+![Powerleveling screen](./.images/powerleveling-presets.png)
 
 Features:
 - GB Name
@@ -137,12 +139,12 @@ Once you've contributed some FPs, they will appear under **Done**.
 For example, after contributing 19,476 FP, continue until the value under **FPs** in the first row reaches 0 (to be added by owner 28,862 FPs)
 After the contribution of the remaining value, P1 and P2 will be secure and can be filled by others.
 
-![Layout](https://github.com/user-attachments/assets/f43f4e65-f060-42e5-989f-49b0aa0f7691)
+![Layout](./.images/contributing.png)
 
 ---
 Next, continue with the next row (e.g., 604 FP). Always go in order — top to bottom — to ensure the GB remains secure from sniping:
 
-![Contribution 2](https://github.com/user-attachments/assets/b82c1df6-9eb3-4530-ae81-ec7582a1b405)
+![Contribution 2](./.images/contributing-step-two.png)
 
 
 {% hint style="warning" %}
@@ -156,4 +158,4 @@ In that case, a red warning message appears:
 
 In the example below, a sniper could profit **327 FP**. You would need to contribute those yourself to secure the spot:
 
-![Danger Warning](https://github.com/user-attachments/assets/941f5a25-be42-4c6c-a960-c6046a9afbd7)
+![Danger Warning](./.images/over-contributed.png)

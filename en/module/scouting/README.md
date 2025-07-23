@@ -2,7 +2,7 @@
 
 This module shows you the current status of your scout when you enter the map - no matter which map you and the scout are currently on. Farming your exploration sites (from space age mars) will no longer distract you from scouting.
 
-## Layout
+## Menu Overview
 
 ![Layout](./.images/scouting.png)
 
