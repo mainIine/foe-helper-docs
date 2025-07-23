@@ -1,4 +1,4 @@
---- 
+---
 description: This module is designed to help you with negotiations.
 ---
 
