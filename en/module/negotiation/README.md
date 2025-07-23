@@ -39,13 +39,10 @@ For example, in the third column in the image above, it shows `3-1`:
 - Press **1** to assign the sixth resource (e.g., Supplies).
 - Once all offers are selected, press **Spacebar** to confirm payment.
 
----
 {% hint style="warning" %}
 If you manually select and pay with a resource that wasn’t suggested, you’ll get a warning. From that point, support will be disabled for the current negotiation:
 {% endhint %}
-![Wrong good selected](./.images/manual-negotation.png)
-
----
+![Wrong good selected](./.images/manual-negotiation.png)
 
 ## FAQ
 

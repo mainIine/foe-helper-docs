@@ -46,8 +46,6 @@ The Self-Contribution Calculator interface is structured top-to-bottom as follow
 {% endhint %}
   - **Powerleveling** – Opens the Powerleveling dialog (explained below)
 
----
-
 ## Configuration
 
 Configure which buttons appear at the top of the main dialog.
@@ -69,8 +67,6 @@ Each button has an X to remove it.
 - **Hide most details** - Simplifies the interface by hiding detailed data.
 - **Open automatically** - Automatically opens the calculator window when you click on a GB.
 - **Save Button** - Applies and saves all the above settings.
-
----
 
 ## Copy Function
 
@@ -109,9 +105,7 @@ Preview of all above settings is available at bottom of menu
 - **Copy Values** – Copies the text to the clipboard for chat
 - **Note** – Collect multiple entries from various GBs to paste together
 
----
-
-### Powerleveling
+## Powerleveling
 
 Click **Powerleveling** button in the main dialog to open a view showing FP costs for upcoming levels.
 
@@ -130,9 +124,7 @@ Features:
   - **Own part net** – Gross minus double collection
   - **Copy Values** – Allows you to copy rows to chat
 
----
-
-## Contributing
+## Usage
 
 As soon as you start investing Forge Points into your GB, the calculator will recognize it.  
 Once you've contributed some FPs, they will appear under **Done**. 
@@ -141,7 +133,6 @@ After the contribution of the remaining value, P1 and P2 will be secure and can 
 
 ![Layout](./.images/contributing.png)
 
----
 Next, continue with the next row (e.g., 604 FP). Always go in order — top to bottom — to ensure the GB remains secure from sniping:
 
 ![Contribution 2](./.images/contributing-step-two.png)
