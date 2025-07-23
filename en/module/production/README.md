@@ -1,5 +1,5 @@
 ---
-Description: This feature displays an overview of all your productions.
+description: This feature displays an overview of all your productions.
 ---
 
 # Production Overview
@@ -7,11 +7,11 @@ Description: This feature displays an overview of all your productions.
 ![Icon](./.images/production-overview-icon.png)
 
 
-## Structure
+## Menu Overview
 
 The window features multiple [tabs](#tabs), each dedicated to a specific production or category, showing the details for each production.
 
-![Structure](https://github.com/user-attachments/assets/8050b635-fba7-40b8-986d-0de07a1c2750)
+![Structure](./.images/production-overview-structure.png)
 
 The Production overview is structured as follows, from top to bottom:
 - **[Tabs](#tabs)** - Tabs per resource
@@ -55,7 +55,7 @@ Each tab displays the current production based on the motivation status of build
 
 Config menu allows users to customize how time is displayed throughout the Production Overview interface. 
 
-![Config Menu](https://github.com/user-attachments/assets/98c840d4-bcaa-4a92-a095-520391dd9825)
+![Config Menu](./.images/config-menu.png)
 
 Available options include:
 - **Relative Time** - e.g., "in 5 minutes" or "in 12 hours"

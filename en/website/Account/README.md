@@ -6,7 +6,7 @@ To use the FOE Helper extension features fully, you'll need to register an accou
 
 # Register account
 
-To register your account, you should go to the following web page: https://foe-helper.com/register/player
+To register your account, you should go to the following web page: [Register account](https://foe-helper.com/register/player)
 
 The form for account creation has the following required fields:
 
@@ -21,10 +21,10 @@ The form for account creation has the following required fields:
 
 You can find the needed info in the FoE Helper browser extension by going to **Settings → Version**
 
-![FoE Helper settings menu](https://github.com/user-attachments/assets/1078228e-bbc2-4843-8f10-4d172018615d)
+![FoE Helper settings menu](./.images/settings-menu.png)
 
 ## Filled form example
-![Filled registration form example](https://github.com/user-attachments/assets/abd71bc5-8af0-4156-9c8c-7ae94788b5a5)
+![Filled registration form example](./.images/form-example.png)
 
 ## Tips
 
