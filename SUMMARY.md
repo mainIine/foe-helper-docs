@@ -57,6 +57,7 @@
   * [Blue Galaxy Helper](en/module/blue-galaxy/README.md)
   * [Building Efficiency Rating](en/module/efficiency/README.md)
   * [Continent Map Overview](en/module/continent/README.md)
+  * [Compare Friends with Threads](en/module/compare-friends/README.md)
   * [FP Collector Overview](en/module/collector/README.md)
   * [Discord Webhooks](en/module/discord/README.md)
   * [FP Investments](en/module/fp-investments/README.md)
