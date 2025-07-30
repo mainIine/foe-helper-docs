@@ -22,7 +22,7 @@ The Blue Galaxy Helper is structured as follows:
 
 ![Configuration](./.images/config-menu.png)
 
-- Enable Auto-open to launch the Helper automatically when the Blue Galaxy is collected. This setting is also available under [Settings](/en/module/settings/README.md)
+- Enable Auto-open to launch the Helper automatically when the Blue Galaxy is collected. This setting is also available under [Settings](../settings/README.md)
 - Show fragments produced by buildings in the list
 
 ## Usage
@@ -51,4 +51,4 @@ A: Close and reopen the Blue Galaxy Helper using the icon in the top menu bar.
 A: Make sure automatic opening is enabled in the configuration, and the Blue Galaxy collection has been triggered.
 
 **Q: Can I turn this module off entirely?**<br>
-A: Yes, go to [Application Settings](/en/module/settings/README.md) and disable the Blue Galaxy Helper.
+A: Yes, go to [Application Settings](../settings/README.md) and disable the Blue Galaxy Helper.

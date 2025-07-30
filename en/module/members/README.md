@@ -46,7 +46,7 @@ The Export button (CSV or JSON) exports only the data shown in the currently act
   - You open in-game Guild Menu (shortcut "G"), tab Member Overview 
   - You open in-game Guild Menu (shortcut "G"), tab Guild Treasury
   - You visit a guildmate's city (eg. Great)
-  - You enter the [Guild Expedition](/en/module/gex/README.md#recording-data) screen
+  - You enter the [Guild Expedition](../gex/README.md#recording-data) screen
   - You open Guild Battlegrounds screen
 - Changes are based on your last local update on the same computer.
 

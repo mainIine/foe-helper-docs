@@ -6,7 +6,7 @@ description: Backup or restore your FoE Helper data between devices.
 
 The **Data Export/Import Tool** module allows you to back up your FoE Helper data and restore it on another device. This is especially useful when migrating systems or syncing setups between environments.
 
-This module is acesses via [Settings Menu](/en/module/settings/README.md#other-tab).
+This module is acesses via [Settings Menu](../settings/README.md#other-tab).
 
 ## Menu Overview
 

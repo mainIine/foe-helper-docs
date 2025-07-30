@@ -58,7 +58,7 @@ In order for this module to function and capture detailed data you must visit th
 ![GE Menu](./.images/in-game-menu.png)
 
 {% hint style="success" %}
-To capture data for all seasons, you could setup a reminder in [Alerts module](/en/module/alerts/README.md)
+To capture data for all seasons, you could setup a reminder in [Alerts module](../alerts/README.md)
 {% endhint %}
 
 ### Ranking Tab

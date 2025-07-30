@@ -5,7 +5,7 @@ description: Track and compare Quantum Incursion activity and progress of guild 
 # QI Overview
 
 {% hint style="success" %}
-This module can be activated in [Settings](/en/module/settings/README.md#pop-ups-tab)
+This module can be activated in [Settings](../settings/README.md#pop-ups-tab)
 {% endhint %}
 
 The **QI Overview** module displays a leaderboard of guild members' actions and progress in Quantum Incursions during the selected round, helping leaders and players monitor individual and collective efforts.
@@ -40,7 +40,7 @@ The Configuration interface is structured top-to-bottom as follows:
 ## Usage
 
 - Open the in-game Guild Member Ranking window during an active or past QI round.
-- QI Overview will automatically open if enabled in [Settings](/en/module/settings/README.md#pop-ups-tab).
+- QI Overview will automatically open if enabled in [Settings](../settings/README.md#pop-ups-tab).
 - Use the round selector to choose the time frame you wish to analyze.
 - Observe color indicators to track recent changes.
 - Filter the list via **⬆** to analyze who made progress since last snapshot.

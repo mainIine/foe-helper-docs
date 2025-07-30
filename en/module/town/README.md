@@ -24,7 +24,7 @@ Header menu enables you to:
 - **Zoom in and out**: dropdown to inspect specific areas
 - [**Search Building**](#search-for-buildings) (available only in main city)
 - [**Copy city data**](#copy-city-layout-data) (available only in main city)
-- [**City planner**](#export-to-website) (available in main city and [Settlements module](/en/module/settlements/README.md#city-planner-integration))
+- [**City planner**](#export-to-website) (available in main city and [Settlements module](../settlements/README.md#city-planner-integration))
 
 ### Search for Buildings
 
@@ -60,7 +60,7 @@ Checkboxes allow you to quickly highlight specific buildings:
 - **Highlight buildings that do not need streets** to purple color
 - **Highlight ascendable buildings** to orange color
 - **Highlight decayed buildings** that where previously ascended (eg. Forgotten Temple)
-- **Highlight worst rated buildings** based on the [Building Efficiency Module](/en/module/efficiency/README.md)
+- **Highlight worst rated buildings** based on the [Building Efficiency Module](../efficiency/README.md)
 
 The legend shows color coding, building classification, the number of squares each consumes, and their percentage share in the overall city layout.
 

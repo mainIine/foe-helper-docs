@@ -28,7 +28,7 @@ The module ss structured as follows:
 
 ## Configuration
 
-If you have enabled the **“Show links”** option in the [settings](/en/module/settings/README.md), the name of each chain becomes a clickable link to its corresponding page on the English Forge of Empires Wiki (forgeofempires.fandom.com).
+If you have enabled the **“Show links”** option in the [settings](../settings/README.md), the name of each chain becomes a clickable link to its corresponding page on the English Forge of Empires Wiki (forgeofempires.fandom.com).
 
 ## Usage
 

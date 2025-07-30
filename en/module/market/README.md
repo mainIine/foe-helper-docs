@@ -28,7 +28,7 @@ The configuration menu allows you to:
 
 - **Export** the list of market offers in CSV or JSON format
 - **Automatically open** the assistant whenever you open the market window  
-  (This duplicates the option found under [Settings](/en/module/settings/README.md))
+  (This duplicates the option found under [Settings](../settings/README.md))
 
 ## Filter Area
 

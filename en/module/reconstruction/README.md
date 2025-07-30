@@ -6,7 +6,7 @@ description: Displays the sizes and quantities of buildings stored in the Recons
 
 
 {% hint style="success" %}
-This module can be activated in [Settings](/en/module/settings/README.md#pop-ups-tab)
+This module can be activated in [Settings](../settings/README.md#pop-ups-tab)
 {% endhint %}
 
 The **Reconstruction Size List** module provides a quick overview of buildings in your Reconstruction Mode inventory, showing their dimensions and quantities to help with efficient city planning and layout optimization.
@@ -26,7 +26,7 @@ The table includes the following columns:
 ## Usage
 
 - Open Reconstruction Mode in-game.
-- The module is automatically launched. (if enabled in [Settings](/en/module/settings/README.md#pop-ups-tab))
+- The module is automatically launched. (if enabled in [Settings](../settings/README.md#pop-ups-tab))
 - Use the list to:
     - Compare similar buildings by size to prioritize placement.
     - Sort buildings by size or road requirement.
@@ -35,7 +35,7 @@ The table includes the following columns:
 ## FAQ
 
 **Q: How do I access this list?**  
-A: By enabling it in [Settings](/en/module/settings/README.md#pop-ups-tab) menu is automatically launched when entered in Reconstruction Mode.
+A: By enabling it in [Settings](../settings/README.md#pop-ups-tab) menu is automatically launched when entered in Reconstruction Mode.
 
 **Q: Can I place buildings from this list directly?**  
 A: No, this module is informational only. Placement must be done in-game.

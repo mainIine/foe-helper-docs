@@ -5,7 +5,7 @@ description: Displays the shortest currently active potion and inventory list of
 # Battle Potions
 
 {% hint style="success" %}
-This module can be activated in [Settings](/en/module/settings/README.md#other-tab)
+This module can be activated in [Settings](../settings/README.md#other-tab)
 {% endhint %}
 
 This module shows an icon in the top right corner displaying the shortest currently active potion and a clear summary list of potions available in inventory upon hover on icon.

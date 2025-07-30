@@ -29,7 +29,7 @@ The window is organized from top to bottom as follows:
 
 The configuration menu allows you to:
 
-- Automatically open the Info Box window when the game loads (duplicate of the setting under [General Settings](/en/module/settings/README.md))
+- Automatically open the Info Box window when the game loads (duplicate of the setting under [General Settings](../settings/README.md))
 - Use short names for GBG provinces in messages displayed
 - Set how many lines to display in the message window (`0` = unlimited, which is also the default)
 

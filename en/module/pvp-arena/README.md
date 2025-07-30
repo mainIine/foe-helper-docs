@@ -5,7 +5,7 @@ description: Review your attack and defense history in the PvP Arena and monitor
 # PvP Arena
 
 {% hint style="success" %}
-This module can be activated in [Settings](/en/module/settings/README.md#pop-ups-tab)
+This module can be activated in [Settings](../settings/README.md#pop-ups-tab)
 {% endhint %}
 
 The **PvP Arena** module allows you to track your performance in the Player versus Player Arena. It logs your attacks, defenses, lost battles, and point changes in an easy-to-read list.
@@ -37,7 +37,7 @@ The Configuration interface is structured as follows:
 ## Usage
 
 - Enter the in-game pvp arena.
-- PvP Arena module will automatically open if enabled in [Settings](/en/module/settings/README.md#pop-ups-tab).
+- PvP Arena module will automatically open if enabled in [Settings](../settings/README.md#pop-ups-tab).
 - Use the tab filters to narrow down the list to specific battle types.
 - Analyze your point gains/losses to improve your strategy and identify trends.
 - Point changes help you understand which battles impacted your PvP ranking most.
@@ -64,4 +64,4 @@ A: Red values indicate battles where you lost points, often due to a defeat.
 A: It updates automatically when in-game pvp arena is entered.
 
 **Q: When I open pvp arena this module is not available?**<br>
-A: You can enable it in [Settings](/en/module/settings/README.md#pop-ups-tab).
+A: You can enable it in [Settings](../settings/README.md#pop-ups-tab).

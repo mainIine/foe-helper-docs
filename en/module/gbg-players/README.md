@@ -5,7 +5,7 @@ description: Displays an overview of Guild Battleground (GBG) activity for each 
 # GBG Overview
 
 {% hint style="success" %}
-This module can be activated in [Settings](/en/module/settings/README.md#pop-ups-tab)
+This module can be activated in [Settings](../settings/README.md#pop-ups-tab)
 {% endhint %}
 
 This module provides a clear summary of your guild’s performance in Guild Battlegrounds (GBG), showing how many actions each member has contributed, separated by fights and negotiations, including attrition and snapshot logging.

@@ -5,7 +5,7 @@ description: Monitor and manage all your assigned allies, their levels, and comb
 # Ally Overview
 
 {% hint style="success" %}
-This module can be activated in [Settings](/en/module/settings/README.md#pop-ups-tab)
+This module can be activated in [Settings](../settings/README.md#pop-ups-tab)
 {% endhint %}
 
 The **Ally Overview** module provides a centralized view of all allies currently assigned to your buildings, including their level, rarity, and the bonuses they provide to your city’s military strength.
@@ -20,7 +20,7 @@ The interface includes:
 - **Data Table** with the following columns:
   - **Building**: Name of the building having an Ally room.
   - **Rarity**: Rarity of an Ally building can hold. (★ for rarity)
-  - **View**: Opens up [City Overview](/en/module/town/README.md#town-overview) highlighting the selected building.
+  - **View**: Opens up [City Overview](../town/README.md#town-overview) highlighting the selected building.
   - **Rarity**: Rarity of an Ally. (★ for rarity)
   - **Ally**: Name of the Ally (eg., Boudica, Alexander the Great).
   - **Level**: Ally’s development level.
