@@ -133,7 +133,8 @@ Displays the overview of Guild Goods producing buildings available.
 
 #### Guild Building Summary
 
-![Guild Buildings](./.images/menu-guild-buildings.png)  
+![Guild Buildings](./.images/menu-guild-buildings.png)
+
 Displays:
 
 - Number of each guild goods producing building
@@ -143,7 +144,8 @@ Displays:
 
 By clicking on **Change view** button, detailed view is displayed.
 
-![Building Detail](./.images/menu-guild-buildingsv2.png)  
+![Building Detail](./.images/menu-guild-buildingsv2.png)
+
 Displays for each building:
 
 - Owner

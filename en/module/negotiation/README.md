@@ -42,6 +42,7 @@ For example, in the third column in the image above, it shows `3-1`:
 {% hint style="warning" %}
 If you manually select and pay with a resource that wasn’t suggested, you’ll get a warning. From that point, support will be disabled for the current negotiation:
 {% endhint %}
+
 ![Wrong good selected](./.images/manual-negotiation.png)
 
 ## FAQ

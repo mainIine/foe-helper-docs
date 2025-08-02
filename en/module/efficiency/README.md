@@ -2,9 +2,9 @@
 description: Compare and evaluate special buildings based on customized efficiency criteria.
 ---
 
-![Icon](./.images/icon.png) 
-
 # Buildings Efficiency Rating
+
+![Icon](./.images/icon.png) 
 
 Compare special buildings based on daily output per tile, using your own priorities and expectations. This tool helps you determine which buildings are most efficient for your city layout and strategic goals.
 
@@ -23,14 +23,11 @@ The main screen is composed of the following elements:
     - **Add Building**: Opens the [building selection menu](#add-building).
     - **Value/tile**: Toggle between **Value/tile** and **Summarized Productions** views.
     - **Hide items**: Toggle to show/hide building reward **Items** column from the **Table view**.
-    - **Search field**: Highlight searched buildings by name.
-{% hint style="sucess" %}
-Enable Only highlights to narrow the list to only matching buildings.
-{% endhint %}
+    - **Search field**: Highlight searched buildings by name.<br>
+{% hint style="sucess" %}Enable Only highlights to narrow the list to only matching buildings.{% endhint %}<br>
     - **Only highlights**: Toggle to filter only highlighted buildings. (explained under [Highlighting and Selection](#highlighting-and-selection)).
     - **Inventory**: Toggle to include buildings available in inventory in **Table view**.
     - **Minimum Score**: Includes only inventory buildings scoring above a set threshold in the list.
-
     - **Settings**: Opens the configuration panel (explained under [Settings](#settings)).
 
 - **Table View**: Displays all evaluated buildings in rows, with sortable columns:
@@ -39,10 +36,10 @@ Enable Only highlights to narrow the list to only matching buildings.
       - Orange: Score for buildings available in inventory.
       - Blue: Score for buildings added from [building selection menu](#add-building) menu.
     - **Building**:
-      - **Name, level and Era** of the building.
-      {% hint style="info" %}
+      - **Name, level and Era** of the building.<br>
+{% hint style="info" %}
 For multiple buildings, only one era is displayed. Check [City Map](../town/README.md#main-city-side-menu) for details.
-{% endhint %}
+{% endhint %}<br>
       - **Size**: Filters buildings by selected sizes.
     - **Amount**: Number of buildings placed in your city.
     - **Inventory**: Displays ✔ if building is available in inventory. (explained under [Inventory Building Tooltip](#inventory-building-tooltip)).

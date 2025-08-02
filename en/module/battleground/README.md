@@ -3,6 +3,7 @@ description: This feature helps players coordinate GBG attacks.
 ---
 
 # Guild Battlegrounds
+
 ![Icon](./.images/icon.png)
 
 This feature monitors provinces, shows their unlock times, lets you set alerts, and create notes for easy sharing in guild chats.

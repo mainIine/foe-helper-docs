@@ -21,9 +21,9 @@ The interface includes:
   - **Building**: Name of the building having an Ally room.
   - **Rarity**: Rarity of an Ally building can hold. (★ for rarity)
   - **View**: Opens up [City Overview](../town/README.md#town-overview) highlighting the selected building.
-  - **Rarity**: Rarity of an Ally. (★ for rarity)
+  - **Rarity**: Rarity of an Ally. (★ for [rarity](#rarity-icons))
   - **Ally**: Name of the Ally (eg., Boudica, Alexander the Great).
-  - **Level**: Ally’s development level.
+  - **Level**: Indicates Ally’s current level of the ally.
   - **Bonuses**: Shows the bonus types and values provided.
 
 ### Rarity Icons
@@ -37,10 +37,6 @@ The interface includes:
 {% hint style="info" %}
 Timeless Junction can hold an Ally of any rarity.
 {% endhint %}
-
-### Level
-Indicates current progress level of the ally.
-- Higher level means higher combat bonuses.
 
 ## Usage
 

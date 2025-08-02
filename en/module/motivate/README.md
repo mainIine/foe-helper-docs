@@ -68,11 +68,15 @@ Columns dropdown enables you to choose which additional columns to include/exclu
 - ![](./.images/icon-tavern.png) means the player sat at your tavern on that day.
 - ![](./.images/icon-attack.png) indicate the player attacked your city on that day.
 - ![](./.images/icon-plunder.png) Shows the **last time you were plundered**.
-- ![](./.images/icon-trade.png) appears when a player accepts one of your market offers.  
+- ![](./.images/icon-trade.png) appears when a player accepts one of your market offers.
+
 {% hint style="info" %}
 Multiple trades from the same player on the same day will be shown as **separate events**.
 {% endhint %}
+
 - ![](./.images/icon-gb.png) means the player donated Forge Points to one of your Great Buildings.
+
+
 
 
 

@@ -10,7 +10,7 @@ This module can be activated in [Settings](../settings/README.md#other-tab)
 
 ![Icon](./.images/icon-inactive.png)
 
-The **Battle Potions** module shows an icon in the top-right corner of the screen when a potion effect is active. It displays the **shortest remaining active boost** and, when hovered over, shows a **summary of all potions in your inventory**.
+The **Battle Potions** module shows an icon in the top-right corner of the screen. When a potion effect is active it displays the **shortest remaining active boost** and, when hovered over, shows a **summary of all potions in your inventory**.
 
 ## Menu Overview
 

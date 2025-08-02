@@ -53,12 +53,7 @@ Configure which buttons appear at the top of the main dialog.
 ![Configuration menu](./.images/config-menu.png)
 
 The Configuration interface is structured top-to-bottom as follows:
-- **Percentage Buttons** (Top Row) - A series of pre-set contribution percentages (e.g. 90%, 100%, etc.) used for GB reward calculations.
-
-{% hint style="info" %}
-Each button has an X to remove it.
-{% endhint %}
-
+- **Percentage Buttons** - Pre-set contribution percentages (e.g. 90%, 100%, etc.) used for GB reward calculations. Each button has an X to remove it.
 - **New Value** - Allows you to input a custom percentage manually. The green “+” button adds your custom percentage to the list above.
 - **Save copy format per great building** - When enabled, your copy settings (e.g., what's included in share text) are remembered per GB individually. This is off by default.
 - **Updates the 'GB calculator' for GBs of other players** - Keeps GB data updated even when you view GBs that belong to others.
@@ -90,18 +85,12 @@ The Copy Function interface is structured top-to-bottom as follows:
   - Owner's Contribution (OC amount)
   - P(xx) (if selected, adds "P" in front of spot number)
   - Danger (if selected, adds Prefix or Suffix to copied text)
-  
-{% hint style="info" %}
-Preview of all above settings is available at bottom of menu
-{% endhint %}
-
-  
 - **Places** – Select which spots to announce:
   - Individual checkboxes for P1–P5
   - **All** – Selects all P1–P5 spots, regardless of status
   - **Auto** – Selects only secure and unoccupied spots
   - **Auto + Not locked** – Selects all unoccupied spots (even if not secure)
-- **Preview** – Shows a preview of the generated text
+- **Preview** – Shows a preview of all above settings
 - **Copy Values** – Copies the text to the clipboard for chat
 - **Note** – Collect multiple entries from various GBs to paste together
 

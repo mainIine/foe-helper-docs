@@ -8,9 +8,9 @@ description: Displays resources, diplomacy requirements, surplus/deficits, and e
 
 The Cultural Settlement module gives you a complete overview of what’s required to complete your current settlement. It helps you track goods, diplomacy, expansion progress, and even connects to the City Planner.
 
-## Structure
+## Menu Overview
 
-![Structure](./.images/menu-layout.png)
+![Menu Overview](./.images/menu-layout.png)
 
 The module consists of following:
 

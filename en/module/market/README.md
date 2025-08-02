@@ -8,9 +8,9 @@ description: Helps locate specific market offers and filter them more effectivel
 
 The Market Filter Assistant helps you find exactly which **page and row** in the Market contains the trade offer you're looking for.
 
-## Structure
+## Menu Overview
 
-![Structure](./.images/menu-structure.png)
+![Menu Overview](./.images/menu-structure.png)
 
 The Market Filter Assistant is structured from top to bottom as follows:
 
