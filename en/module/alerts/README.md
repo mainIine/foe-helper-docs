@@ -1,10 +1,10 @@
---- 
+---
 description: The Alerts module lets you create and manage custom reminders 
---- 
-
-![Icon](./.images/icon.png)
+---
 
 # Alerts
+
+![Icon](./.images/icon.png)
 
 You can set alerts manually or auto-generate them for all Guild Battleground sectors or the Antiques Dealer.
 

@@ -1,8 +1,9 @@
---- 
+---
 description: This overview helps players track passive and active FPs gains over time. 
 ---
 
 # FP Collector Overview
+
 ![Icon](./.images/icon.png)
 
 ## Menu Overview
