@@ -1,6 +1,6 @@
---- 
+---
 description: Monitoring your external investments 
---- 
+---
 
 # FP Investments 
 
@@ -68,5 +68,3 @@ Other Display Options:
 
 This module is ideal for  tracking external investments and ensuring your investment is secured on high-value reward spots.
 To update all investments in this module player should open **Town Hall > News > Current contributions to Great Buildings** menu
-
-## FAQ
