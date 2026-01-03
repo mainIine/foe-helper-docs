@@ -15,7 +15,7 @@ Ce module permet de gérer les paramètres généraux de l'application
 
 Le module est partagé en 4 onglets qui gérent différents aspects du module
 
-* [**Info et Site Web**](#info--site-web) - Informations générale sur l'assistant Foe Helper
+* [**Info et Site Web**](#info-et-site-web) - Informations générale sur l'assistant Foe Helper
 * [**Menu + Notifications**](#menu--notification) - Contrôle la position du menu, les sons et les paramètres de notification.
 * [**Pop up**](#pop-up) - Contrôle quels modules s'ouvrent automatiquement
 * [**Autres**](#autres) - Gère quel module est actif dans l'assistant
