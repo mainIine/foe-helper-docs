@@ -7,7 +7,7 @@ description: Surveillez et gérez tous vos alliés assignés, leurs niveaux et l
 ![Icône](./.images/Icon_001.png) 
 
 {% hint style="success" %}
-Ce module peut-être activé dans  [parametres](../parametres/README.md#pop-up)
+Ce module peut-être activé dans [parametres](../parametres/README.md#pop-up)
 {% endhint %}
 
 
