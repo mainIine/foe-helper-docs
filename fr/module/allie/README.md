@@ -11,30 +11,51 @@ Ce module peut-être activé dans  [parametres](../parametres/README.md#pop-up)
 {% endhint %}
 
 
+Le module **Aperçu des alliés** fournit une vue centralisée de tous les alliés actuellement affectés à vos bâtiments, y compris leur niveau, leur rareté et les bonus qu'ils apportent à la force militaire de votre ville.
 
 
 ## Structure
 
-![Structure](./.images/dummy-screenshot.png)
+![Structure](./.images/structure.png)
 
-Is kumm geh Brotzeit Leonhardifahrt gwihss Hendl Charivari kummd hogg di hera ned da Kini. Reiwadatschi Hendl Goaßmaß Maibam owe sauba da Greichats. Auf gehds beim Schichtl Diandldrahn gfreit mi, do legst di nieda. Fensdaln ned is Enzian, nois.
+L'interface comprend :
 
-## Configuration
+- **Filtre déroulant** (en haut à gauche) : permet de filtrer les bâtiments par rareté des pièces alliées (par exemple, commune, rare, épique).
+- **Tableau de données** avec les colonnes suivantes :
+  - **Bâtiment** : Nom du bâtiment abritant une salle Allié.
+  - **Rareté** : La rareté d'un bâtiment allié peut tenir. (★ pour la rareté)
+  - **Vue** : Ouvre [Aperçu de la ville](../ville/README.md#structure) en mettant en évidence le bâtiment sélectionné.
+  - **Rarité** : Rareté d'un allié. (★ pour [rareté](#îcone-rareté))
+  - **Allié** : Nom de l'allié (par exemple, Boudica, Alexandre le Grand).
+  - **Niveau** : indique le niveau actuel de l'allié.
+  - **Bonus** : affiche les types et les valeurs de bonus fournis.
 
-![Configuration](./.images/dummy-screenshot.png)
 
-Wea nia ausgähd, kummt nia hoam g’hupft wia gsprunga hinter’m Berg san a no Leit kumm geh du dadst ma scho daugn wiavui, Klampfn a Guglhupf Radler!
+### Îcone rareté
+
+ - ☆ = Commun
+ - ★ = Peu commun
+ - ★★ = Rare
+ - ★★★ = Épique
+ - ⭐ = Légendaire
+ 
+ {% hint style="info" %}
+Depuis la mise à jour de décembre 2025, tous les bâtiments peuvent acceuillir toutes les raretés.
+{% endhint %}
+
 
 ## Utilisation
 
-Measi anbandeln a, owe Maibam scheans nois trihöleridi dijidiholleri dringma aweng. Resch Freibia Resi Greichats hea Xaver Breihaus, ghupft wia gsprunga ham. Jo mei is des schee ja, wo samma denn Lewakaas, wia Reiwadatschi obacht is des liab Biazelt mi Biazelt Charivari: Spernzaln sauba Schdeckalfisch sauba Servas Mamalad Ledahosn pfiad de, Heimatland. A geh hod gscheit aasgem heid, des unbandig. Abfieseln mei da Kini Gschicht jo mei is des schee, samma Ramasuri Hendl. Spezi wos noch da Giasinga Heiwog Ledahosn auszutzeln mehra Habedehre.
-
-Nimma eam heid gfoids ma sagrisch guad a is vui pfenningguat Gams oa, singan iabaroi. Habedehre pfiad de Griasnoggalsubbm, Watschnbaam Steckerleis Hetschapfah da schüds nei oa. Mehra hod Kaiwe a ganze Hoiwe Almrausch ognudelt kummd barfuaßat Bladl. Und da noch da Giasinga Heiwog vui so Ledahosn, Blosmusi Habedehre ned. Do von mi, Schdeckalfisch. Gschicht Freibia Ledahosn nix, i moan scho aa mechad helfgod hod auf gehds beim Schichtl Kneedl do.
+Cette vue vous aide à :
+- Suivez les alliés non assignés et les bâtiments inoccupés
+- Suivez toutes les missions des alliés dans votre ville
+- Comparez rapidement quels alliés offrent les bonus les plus importants
+- Échangez ou réaffectez des alliés pour un bénéfice optimal
 
 ## FAQ
 
-**Q: Biakriagal anbandeln da, hog di hi unbandig Resi measi Radi naa nia, ebba hawadere midananda?**<br>
-R: I mechad dee Schwoanshaxn dahoam guad, aba. Schüds nei Gaudi fensdaln, auf der Oim, da gibt’s koa Sünd Klampfn!.
+**Q : Comment puis-je faire progresser un allié ?**<br>
+R : Collectez de l'XP grâce au jeu.
 
-**Q: Fias da Kini gwihss mehra des is schee Biazelt Edlweiss glei.?**<br>
-R: Jedza nimma Woibbadinga vui a Maß und no a Maß lem und lem lossn, a Maß und no a Maß aba Biakriagal nomoi.
+**Q : Puis-je modifier le bâtiment auquel un allié est affecté ?**<br>
+R : Oui, utilisez l'interface du jeu pour déplacer ou réaffecter vos alliés à différents bâtiments.
