@@ -26,7 +26,7 @@ La fenêtre Aperçu QI est structurée comme suit :
 Les lignes en surbrillance indiquent une augmentation de l'activité depuis le dernier instantané (par exemple, « + 10 100 actions)
 {% endhint %}
 
-##Configuration
+## Configuration
 
 ![Configuration](./.images/configuration.png)
 
