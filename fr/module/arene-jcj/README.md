@@ -27,7 +27,7 @@ La fenêtre est structurée comme suit :
   - **Adversaire** : Nom du joueur adverse
   - **Points** : Points gagnés (vert) ou perdus (rouge)
 
-##Configuration
+## Configuration
 
 ![Configuration](./.images/configuration.png)
 
