@@ -16,7 +16,7 @@ Ce module permet de gérer les paramètres généraux de l'application
 Le module est partagé en 4 onglets qui gérent différents aspects du module
 
 * [**Info et Site Web**](#info-et-site-web) - Informations générale sur l'assistant Foe Helper
-* [**Menu + Notifications**](#menu--notification) - Contrôle la position du menu, les sons et les paramètres de notification.
+* [**Menu + Notifications**](#menu--notifications) - Contrôle la position du menu, les sons et les paramètres de notification.
 * [**Pop up**](#pop-up) - Contrôle quels modules s'ouvrent automatiquement
 * [**Autres**](#autres) - Gère quel module est actif dans l'assistant
 
@@ -104,7 +104,7 @@ Ne revenez pas en arrière dans les pages pendant la lecture. Cela peut entraîn
 - **Liste de taille en mode reconstruction** : Ouvre automatiquement [Liste de reconstruction](../reconstruction/README.md) quand le mode de reconstruction du jeu est ouvert.
 - **EG Utilisation des ressources** : Ouvre automatiquement [Coût EG](../cout_eg/README.md) quand un niveau d'EG est débloqué.
 
-## autres
+## Autres
 
 Ajustements de l'interface utilisateur, fonctionnalités avancées, importation/exportation et options d'assistance supplémentaires.
 
