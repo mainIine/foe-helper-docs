@@ -125,9 +125,9 @@ L'activation de cette option peut ne pas supprimer/afficher immédiatement l'ic�
 - **Enchères** : Activation du calcul automatique de l'augmentation de l'enchère et des copies dans le presse-papiers en fonction des paramètres sélectionnés.
 - **Badge des 2000 quêtes** : Active le badge dans le coin supérieur gauche affichant le compteur des quêtes abandonnées<br>
 ![2k badge](./.images/badge.png)
-- **Liens** : Ajoute un lien vers [foe.scoredb.io](https://foe.scoredb.io) ou vers [foestats.com](//https://foestats.com/) dans les profils des joueurs et remplace le le nom des kits de constructions par un lien vers forgeofempires.fandom.com
+- **Liens** : Ajoute un lien vers [foe.scoredb.io](https://foe.scoredb.io) ou vers [foestats.com](https://foestats.com/) dans les profils des joueurs et remplace le le nom des kits de constructions par un lien vers forgeofempires.fandom.com
 - **Visibilité de l'assistant en bataille** : Masque l'interface Helper lors des combats manuels (uniquement en mode "En Fenêtre ").
-- **Importer / Exporter** : Vous permet de sauvegarder et de restaurer vos paramètres et données FOE Helper via [Import-Export] (../import-export/README.md). (par exemple, changement d'appareil)
+- **Importer / Exporter** : Vous permet de sauvegarder et de restaurer vos paramètres et données FOE Helper via [Import-Export](../import-export/README.md). (par exemple, changement d'appareil)
 - **Répéter le bâtiment sélectionné** : Active la sélection automatisée du dernier bâtiment placé en mode reconstruction, permettant un placement plus rapide des bâtiments.
 {% hint style="warning" %}
 Possibilité de déclencher la détection des bots d'INNO et de provoquer une courte période de bannissement. S'il vous plaît laissez-nous savoir si cela se produit.. [Contact](#info--site-web)
