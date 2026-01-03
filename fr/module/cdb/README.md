@@ -16,7 +16,7 @@ L'interface du module contient :
 - **Barre de titre** avec menu [Configuration](#configuration)
 - **Sélecteur de plage de dates** : permet de filtrer par cycle GbG (par exemple, du 01 janv. 26 au 12 janv. 26).
 - **⬆** : le bouton de filtre de progression filtre la liste pour afficher uniquement les joueurs qui ont eu une activité depuis le dernier instantané.
-- [**Instantanés**](#Instantané) : ouvre le journal historique des instantanés GbG à des fins de comparaison.
+- [**Instantanés**](#Instantanés) : ouvre le journal historique des instantanés GbG à des fins de comparaison.
 - **Colonnes du tableau** :
   - **Membre de guilde** : affiche la liste classée avec les avatars et les noms des joueurs.
   - **Négociations** : nombre de négociations effectuées pendant la période sélectionnée.
