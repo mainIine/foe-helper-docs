@@ -10,6 +10,7 @@ Ce module permet de gérer les paramètres généraux de l'application
 
 
 ## Structure
+
 ![Menu](./.images/menu.png)
 
 Le module est partagé en 4 onglets qui gérent différents aspects du module

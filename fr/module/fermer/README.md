@@ -9,7 +9,7 @@ Ce module peut-être activé dans [Paramètres](../parametres/README.md#pop-up)
 
 Le module **Fermer tout** fournit un ensemble pratique de commandes permettant de fermer ou de masquer rapidement plusieurs éléments de l'interface FOE Helper (boîtes contextuelles), rationalisant ainsi l'espace de travail de l'utilisateur et améliorant l'efficacité de la navigation.
 
-## Aperçu du menu
+## Structure
 
 ![Aperçu du menu](./.images/ferme_tout_1.png)
 
