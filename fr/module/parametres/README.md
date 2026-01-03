@@ -130,5 +130,5 @@ L'activation de cette option peut ne pas supprimer/afficher immédiatement l'ic�
 - **Importer / Exporter** : Vous permet de sauvegarder et de restaurer vos paramètres et données FOE Helper via [Import-Export](../import-export/README.md). (par exemple, changement d'appareil)
 - **Répéter le bâtiment sélectionné** : Active la sélection automatisée du dernier bâtiment placé en mode reconstruction, permettant un placement plus rapide des bâtiments.
 {% hint style="warning" %}
-Possibilité de déclencher la détection des bots d'INNO et de provoquer une courte période de bannissement. S'il vous plaît laissez-nous savoir si cela se produit.. [Contact](#info--site-web)
+Possibilité de déclencher la détection des bots d'INNO et de provoquer une courte période de bannissement. S'il vous plaît laissez-nous savoir si cela se produit.. [Contact](#info-et-site-web)
 {% endhint %}
