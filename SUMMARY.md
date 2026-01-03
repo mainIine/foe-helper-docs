@@ -147,6 +147,7 @@
   * [Infos Système](fr/module/info_technique/README.md)
   * [Investissement GM](fr/module/investissement_gm/README.md)
   * [Investissement PF](fr/module/investissement_PF/README.md)
+  * [Jeu d'assemblage](fr(/module/mergegame/README.md) 
   * [Liste de reconstruction](fr/module/reconstruction/README.md)
   * [Notes](fr/module/notes/README.md)
   * [Pack et Améliorations](fr/module/pack/README.md)
