@@ -36,7 +36,7 @@ Description de la configuration :
 - **Alignement de la boîte** : sélecteur déroulant pour choisir l'orientation de l'alignement des boutons (horizontal ou vertical).
 - **Exclure de la fermeture** : cases à cocher pour exclure des éléments spécifiques de la fermeture :
   - [Infos Système](../info_technique/README.md)
-  - [Champ de bataille de guilde (CbG)](../cdb/README.md)
+  - [Champ de bataille de guilde (CbG)](../bataille_guilde/README.md)
 - **Automatisation**
   - **Tout cacher automatiquement en bataille** : masque automatiquement toutes les cases lorsqu'un menu de bataille est ouvert.
 - **Enregistrer** : bouton pour enregistrer les modifications de configuration.
