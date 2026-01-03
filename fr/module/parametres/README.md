@@ -58,7 +58,7 @@ Les options suivantes sont disponibles :
 - **Position du menu** : bouge le menu de FoE Helper vers :
 	* Bas
 	* Droite
-	* En Fenêtre (flottant)
+	* En Fenêtre (flottant)<br>
 {% hint style="info" %}
 En fonction de la résolution et du zoom, le mode fenêtre peut être appliqué automatiquement.
 {% endhint %}
@@ -84,7 +84,7 @@ Les options suivantes sont disponibles :
 - **Galaxie Bleue** : Ouvre la [Aide Galaxie bleue] (../galaxie-bleue/README.md) pendant la collecte.
 - **Aperçu des Alliés** : Ouvre l'[Aperçu des alliés] (../allie/README.md) lorsque le menu Alliés historiques est ouvert.
 - **Affiche Total des Pf investi** : Ouvre le [Résumé de l'investissement FP] (../investissement_PF/README.md) lorsque le menu **Hôtel de ville > Contributions aux Grands Monuments** est ouvert. 
-- **Export tréso. guilde** : Ouvre une fenêtre pour exporter les contributions du trésor de guilde lorsque le **Menu de guilde > Options > Contributions** est ouvert en jeu.
+- **Export tréso. guilde** : Ouvre une fenêtre pour exporter les contributions du trésor de guilde lorsque le **Menu de guilde > Options > Contributions** est ouvert en jeu.<br>
 {% hint style="danger" %}
 Ne revenez pas en arrière dans les pages pendant la lecture. Cela peut entraîner des données en double lors de l'exportation.
 {% endhint %}
