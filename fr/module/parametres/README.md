@@ -9,8 +9,7 @@ description: Paramètres pour FoE Helper
 Ce module permet de gérer les paramètres généraux de l'application
 
 
-## Aperçu du menu
-
+## Structure
 ![Menu](./.images/menu.png)
 
 Le module est partagé en 4 onglets qui gérent différents aspects du module
