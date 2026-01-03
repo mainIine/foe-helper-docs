@@ -1,4 +1,4 @@
-# Fermer toutes les fenêtres
+# (Nom du module)
 
 ![Icône](./.images/dummy-icon.png) 
 
@@ -29,24 +29,3 @@ R: I mechad dee Schwoanshaxn dahoam guad, aba. Schüds nei Gaudi fensdaln, auf d
 
 **Q: Fias da Kini gwihss mehra des is schee Biazelt Edlweiss glei.?**<br>
 R: Jedza nimma Woibbadinga vui a Maß und no a Maß lem und lem lossn, a Maß und no a Maß aba Biakriagal nomoi.
-
-
-
-#### Fonctionnement du dialogue Fermer toutes les fenêtres
-
-![Fenêtre complète](./.images/ferme_tout_2.png)
-
-En mettant la souris sur la fenêtre, s'affiche la partie basse de l'image avec une option de configuration.
-
-![Configuration](./.images/param_ferme_tout.png)
-
-Description de la configuration :
-
-* Bouton Fermer tout (Croix X sur fond rouge) -> ferme toutes les fenêtres
-* Bouton Cacher tout (Oeil sur fond vert) -> cache la barre de menu 
-* Changer la taille des boutons
-* Changer l'alignement des boutons (horizontal ou vertical)
-* Exclure de la fermeture (permet de garder ces fenêtres ouvertes malgrès Fermet tout)
-* Fermeture automatique en cas de bataille
-
-La fenêtre peut être déplacée en cliquant/tenant sur zone marquée "titre"
