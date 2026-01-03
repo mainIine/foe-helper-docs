@@ -1,31 +1,59 @@
-# (Nom du module)
+---
+description: Aide à choisir les bons articles dans les différentes boutiques du jeu, Permet de mettre des alarmes quand un article peut-etre acheté.
+---
 
-![Icône](./.images/dummy-icon.png) 
+# Assistant Boutique
 
-Bavaria ipsum dolor sit amet Biaschlegl Schmankal fias wea ko, dea ko, Schbozal hi! Semmlkneedl Fingahaggln ognudelt Hendl Biagadn Sauwedda Broadwurschtbudn ham gwihss Namidog. Greaßt eich nachad hoggd hod hod i bin a woschechta Bayer oba gwiss Schdeckalfisch is des liab!
+{% hint style="success" %}
+Ce module peut-être activé dans [parametres](../parametres/README.md#pop-up)
+{% endhint %}
+
+![Icône](./.images/icone_001.png) 
+
+Le module **Assistant Boutique** vous permet de retrouver facilement dans les différentes boutiques les articles qui vous intérerssent. 
+
 
 ## Structure
 
-![Structure](./.images/dummy-screenshot.png)
+![Structure](./.images/structure.png)
 
-Is kumm geh Brotzeit Leonhardifahrt gwihss Hendl Charivari kummd hogg di hera ned da Kini. Reiwadatschi Hendl Goaßmaß Maibam owe sauba da Greichats. Auf gehds beim Schichtl Diandldrahn gfreit mi, do legst di nieda. Fensdaln ned is Enzian, nois.
+La fenêtre est structurée comme suit :
+
+- **Barre de titre** avec menu [Configuration](#configuration)
+- **Zone de filtre** :
+  - **Seulement les favoris** : affiche les articles [favoris](#favoris)
+  - **Seulement débloqués** : affiche uniquement les articles débloqués (dans les évents)
+  - **Monnaie** : Si plusieurs monnaies sont disponible dans une boutique, permet de [cacher](#Cacher-une-monnaie) les articles de la monnaie sélectionnée
+- **Zone des articles** :
+  - **Favoris** : Affiche si l'article est [favoris](#favoris)
+  - **Alarme** : Affiche si une [alarme](#alarme) est active
+  - **Offre** : Article de la boutique
+  - **Cadenas** : Si l'article est bloqué car les conditions d'achat pas encore remplie
+  - **Inventaire** : Le nombre d'objet dans votre propre Inventaire
+  - **A l'unité** : Le prix à l'achat de l'article
+  - **Manquant**  : Combien de fragments sont manquant pour compléter un objet et le coût total en monnaie
+  - **Max** : Le nombre d'article maximum que vous pouvez acheter. Si des articles ont déjà été acheté, il sera noté 1/6 par exemple (pour 1 achat)
+
 
 ## Configuration
 
-![Configuration](./.images/dummy-screenshot.png)
+![Configuration](./.images/configuration.png)
 
-Wea nia ausgähd, kummt nia hoam g’hupft wia gsprunga hinter’m Berg san a no Leit kumm geh du dadst ma scho daugn wiavui, Klampfn a Guglhupf Radler!
+L'interface de configuration est structurée comme suit :
+- **Ouvrir la fenêtre automatiquement** : Si cette option est activée, ce module s'ouvrira automatiquement chaque fois que vous entrerez dans les boutiques du jeu.
 
 ## Utilisation
 
-Measi anbandeln a, owe Maibam scheans nois trihöleridi dijidiholleri dringma aweng. Resch Freibia Resi Greichats hea Xaver Breihaus, ghupft wia gsprunga ham. Jo mei is des schee ja, wo samma denn Lewakaas, wia Reiwadatschi obacht is des liab Biazelt mi Biazelt Charivari: Spernzaln sauba Schdeckalfisch sauba Servas Mamalad Ledahosn pfiad de, Heimatland. A geh hod gscheit aasgem heid, des unbandig. Abfieseln mei da Kini Gschicht jo mei is des schee, samma Ramasuri Hendl. Spezi wos noch da Giasinga Heiwog Ledahosn auszutzeln mehra Habedehre.
+Afin d'avoir un oeil sur vos articles favoris, il est conseillé de mettre en favoris les articles, voir d'activer une alarme.
 
-Nimma eam heid gfoids ma sagrisch guad a is vui pfenningguat Gams oa, singan iabaroi. Habedehre pfiad de Griasnoggalsubbm, Watschnbaam Steckerleis Hetschapfah da schüds nei oa. Mehra hod Kaiwe a ganze Hoiwe Almrausch ognudelt kummd barfuaßat Bladl. Und da noch da Giasinga Heiwog vui so Ledahosn, Blosmusi Habedehre ned. Do von mi, Schdeckalfisch. Gschicht Freibia Ledahosn nix, i moan scho aa mechad helfgod hod auf gehds beim Schichtl Kneedl do.
+(./.images/favori_off)
+
+
 
 ## FAQ
 
-**Q: Biakriagal anbandeln da, hog di hi unbandig Resi measi Radi naa nia, ebba hawadere midananda?**<br>
-R: I mechad dee Schwoanshaxn dahoam guad, aba. Schüds nei Gaudi fensdaln, auf der Oim, da gibt’s koa Sünd Klampfn!.
+**Q: Je ne vois pas mes packs de 50 diamants pour le championnat CbG**<br>
+R: Si vous avez déjà acheté tous les packs disponible, alors l'article se trouvera tout en bas de la liste en grisé
 
 **Q: Fias da Kini gwihss mehra des is schee Biazelt Edlweiss glei.?**<br>
 R: Jedza nimma Woibbadinga vui a Maß und no a Maß lem und lem lossn, a Maß und no a Maß aba Biakriagal nomoi.
