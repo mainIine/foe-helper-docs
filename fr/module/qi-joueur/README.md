@@ -39,7 +39,7 @@ L'interface de configuration est structurée de haut en bas comme suit :
 ## Utilisation
 
 - Ouvrez la fenêtre de classement des membres de guilde en jeu pendant un tour QI actif ou passé.
-- L'aperçu QI s'ouvrira automatiquement s'il est activé dans [Paramètres] (../settings/README.md#pop-ups-tab).
+- L'aperçu QI s'ouvrira automatiquement s'il est activé dans [Paramètres](../parametres/README.md#pop-up).
 - Utilisez le sélecteur de ronde pour choisir la période que vous souhaitez analyser.
 - Observez les indicateurs de couleur pour suivre les changements récents.
 - Filtrez la liste via **⬆** pour analyser qui a progressé depuis le dernier instantané.
