@@ -5,7 +5,7 @@ description: Consultez votre historique d'attaque et de défense dans l'arène J
 # Arène JcJ
 
 {% hint style="success" %}
-Ce module peut-être activé dans [parametres](../parametres/README.md#pop-up)
+Ce module peut-être activé dans [Paramètres](../parametres/README.md#pop-up)
 {% endhint %}
 
 Le module **Arène JcJ** vous permet de suivre vos performances dans l'arène Joueur contre Joueur. Il enregistre vos attaques, défenses, batailles perdues et changements de points dans une liste facile à lire.
