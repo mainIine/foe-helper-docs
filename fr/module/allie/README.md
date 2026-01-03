@@ -25,7 +25,7 @@ L'interface comprend :
   - **Bâtiment** : Nom du bâtiment abritant une salle Allié.
   - **Rareté** : La rareté d'un bâtiment allié peut tenir. (★ pour la rareté)
   - **Vue** : Ouvre [Aperçu de la ville](../ville/README.md#structure) en mettant en évidence le bâtiment sélectionné.
-  - **Rarité** : Rareté d'un allié. (★ pour [rareté](#îcone-rareté))
+  - **Rareté** : Rareté d'un allié. (★ pour [rareté](#îcone-rareté))
   - **Allié** : Nom de l'allié (par exemple, Boudica, Alexandre le Grand).
   - **Niveau** : indique le niveau actuel de l'allié.
   - **Bonus** : affiche les types et les valeurs de bonus fournis.
