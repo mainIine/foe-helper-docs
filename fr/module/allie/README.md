@@ -1,8 +1,18 @@
-# (Nom du module)
+---
+description: Surveillez et gérez tous vos alliés assignés, leurs niveaux et leurs bonus de combat.
+---
 
-![Icône](./.images/dummy-icon.png) 
+# Aperçu des Alliés
 
-Bavaria ipsum dolor sit amet Biaschlegl Schmankal fias wea ko, dea ko, Schbozal hi! Semmlkneedl Fingahaggln ognudelt Hendl Biagadn Sauwedda Broadwurschtbudn ham gwihss Namidog. Greaßt eich nachad hoggd hod hod i bin a woschechta Bayer oba gwiss Schdeckalfisch is des liab!
+
+![Icône](./.images/Icon_001.png) 
+
+{% hint style="success" %}
+Ce module peut-être activé dans  [parametres](../parametres/README.md#pop-up)
+{% endhint %}
+
+
+
 
 ## Structure
 
