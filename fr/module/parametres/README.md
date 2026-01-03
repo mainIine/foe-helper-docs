@@ -132,4 +132,5 @@ L'activation de cette option peut ne pas supprimer/afficher immédiatement l'ic�
 {% hint style="warning" %}
 Possibilité de déclencher la détection des bots d'INNO et de provoquer une courte période de bannissement. S'il vous plaît laissez-nous savoir si cela se produit.. [Contact](#info-et-site-web)
 {% endhint %}
-- **Barre des récompenses** : Active l'affichage des récompenses EG et CbG dans un flux
+- **Barre des récompenses** : Active l'affichage des récompenses EG et CbG dans un flux<br>
+![Flux des récompenses](./.images/flux_recompense.png)
