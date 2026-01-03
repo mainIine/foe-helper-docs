@@ -4,7 +4,6 @@ description: Surveillez et gérez tous vos alliés assignés, leurs niveaux et l
 
 # Aperçu des Alliés
 
-
 ![Icône](./.images/Icon_001.png) 
 
 {% hint style="success" %}
