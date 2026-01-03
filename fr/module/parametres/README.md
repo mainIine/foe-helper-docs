@@ -91,7 +91,7 @@ Ne revenez pas en arrière dans les pages pendant la lecture. Cela peut entraîn
 - **Recommandation Bâtiment CbG** : Lorsque le menu de construction de province est ouvert, le menu affiche un tableau trié des combinaisons de bâtiments les plus efficaces pour une province GBG, triées selon leur impact relatif sur le trésorie de guilde.
 - **Fenêtre d'info** : lance [Info Système](../info_technique/README.md) au démarrage du jeu
 - **Fermer toutes les Fenêtres** : Affiche  [Fermer toutes les Fenêtres](../fermer/README.md) au démarrage du jeu
-- **Info d'éclaireur** : Ouvre automatiquement les  [Infos de l'éclaireur]( (../eclaireur/README.md) lorsque la carte du continent dans le jeu est ouverte et que la reconnaissance est disponible.
+- **Info d'éclaireur** : Ouvre automatiquement les  [Infos de l'éclaireur](../eclaireur/README.md) lorsque la carte du continent dans le jeu est ouverte et que la reconnaissance est disponible.
 - **Bloqueur de négociation** : Bloque le bouton de négociation sur la carte de campagne pour empêcher toute négociation indésirable.
 - **Bloqueur Collecter Tout** : Bloque le bouton **Collecter Tout** si les pf ne peuvent pas être collectés ou si tous les batiments ne sont pas motivés
 - **Assistant Aztèque** : Ouvre automatiquement [Assistant min-jeu Aztèque](../azteque/README.md) quand le mini-jeu Aztèque est ouvert.
@@ -113,7 +113,7 @@ Ajustements de l'interface utilisateur, fonctionnalités avancées, importation/
 Les options suivantes sont disponibles :
 - **Fenêtre** : Réinitialise les positions des fenêtres au centre de l'écran au cas où elles seraient hors écran.
 - **Calculatrice GM** : Permet l'utilisation de [Calculatrice GM interne](../calculatrice_gm_interne/README.md)sur les GM des autres joueurs.
-- **Activité PO/MO** : Enregistre les données [Aide Motivation / Polissage](../motivation/README.md)
+- **Activité PO/MO** : Enregistre les données [Aide Motivation / Polissage](../motivation/README.md)<br>
 {% hint style="warning" %}
 Si elle est désactivée, l'icône PO/MO est masquée même si elle est activée ailleurs.
 {% endhint %}
