@@ -3,8 +3,6 @@ description: Bouton pour fermer toutes les fenêtres
 ---
 # Fermer toutes les fenêtres
 
-![Icône](./.images/dummy-icon.png) 
-
 {% hint style="success" %}
 Ce module peut-être activé dans [Paramètres](../parametres/README.md#pop-up)
 {% endhint %}
@@ -13,10 +11,13 @@ Le module **Fermer tout** fournit un ensemble pratique de commandes permettant d
 
 ## Aperçu du menu
 
-![Fenêtre complète](./.images/ferme_tout_2.png)
+![Aperçu du menu](./.images/ferme_tout_1.png)
 
 En mettant la souris sur la fenêtre, s'affiche la partie basse de l'image avec une option de configuration.
-La fenêtre peut être déplacée en cliquant/tenant sur zone marquée "Fermer le..."
+
+![Aperçu du menu](./.images/ferme_tout_2.png)
+
+La fenêtre peut-être déplacée en cliquant/tenant sur zone marquée "Fermer le..."
 
 Le module **Fermer tout** sera affiché sous la forme d'une petite fenêtre de boîte, qui peut être positionnée selon les préférences du joueur, et est structurée comme suit :
 - **Bouton Masquer tout** : Un gros bouton vert comportant une icône en forme d'œil pour masquer tous les modules, y compris le menu d'assistance FOE.
@@ -25,7 +26,7 @@ Le module **Fermer tout** sera affiché sous la forme d'une petite fenêtre de b
 
 ## Configuration
 
-![Configuration](./.images/param_ferme_tout.png)
+![Configuration](./.images/fermer_config.png)
 
 Description de la configuration :
 - **Afficher**
