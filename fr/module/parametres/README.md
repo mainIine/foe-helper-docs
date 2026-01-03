@@ -93,7 +93,8 @@ Ne revenez pas en arrière dans les pages pendant la lecture. Cela peut entraîn
 - **Fermer toutes les Fenêtres** : Affiche  [Fermer toutes les Fenêtres](../fermer/README.md) au démarrage du jeu
 - **Info d'éclaireur** : Ouvre automatiquement les  [Infos de l'éclaireur](../eclaireur/README.md) lorsque la carte du continent dans le jeu est ouverte et que la reconnaissance est disponible.
 - **Bloqueur de négociation** : Bloque le bouton de négociation sur la carte de campagne pour empêcher toute négociation indésirable.
-- **Bloqueur Collecter Tout** : Bloque le bouton **Collecter Tout** si les pf ne peuvent pas être collectés ou si tous les batiments ne sont pas motivés
+- **Bloqueur Collecter Tout** : Bloque le bouton **Collecter Tout** si les pf ne peuvent pas être collectés ou si tous les batiments ne sont pas motivés<br>
+![Bloquer Récolter tout](./.images/recolter_tout.png)
 - **Assistant Aztèque** : Ouvre automatiquement [Assistant min-jeu Aztèque](../azteque/README.md) quand le mini-jeu Aztèque est ouvert.
 - **Arène JcJ - Compte rendu** : Ouvre automatiquement [Arène JcJ](../arene_jcj/README.md) quand l'arène JcJ est ouverte.
 - **Assistant Boutique** : Ouvre automatiquement [Assistant Boutique](../boutique/README.md) quand la boutique d'objet est ouverte.
