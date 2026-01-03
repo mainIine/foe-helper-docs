@@ -1,52 +1,43 @@
+---
+description: Bouton pour fermer toutes les fenêtres
+---
 # Fermer toutes les fenêtres
 
 ![Icône](./.images/dummy-icon.png) 
 
-Bavaria ipsum dolor sit amet Biaschlegl Schmankal fias wea ko, dea ko, Schbozal hi! Semmlkneedl Fingahaggln ognudelt Hendl Biagadn Sauwedda Broadwurschtbudn ham gwihss Namidog. Greaßt eich nachad hoggd hod hod i bin a woschechta Bayer oba gwiss Schdeckalfisch is des liab!
+{% hint style="success" %}
+Ce module peut-être activé dans [Paramètres](../parametres/README.md#pop-up)
+{% endhint %}
 
-## Structure
+Le module **Fermer tout** fournit un ensemble pratique de commandes permettant de fermer ou de masquer rapidement plusieurs éléments de l'interface FOE Helper (boîtes contextuelles), rationalisant ainsi l'espace de travail de l'utilisateur et améliorant l'efficacité de la navigation.
 
-![Structure](./.images/dummy-screenshot.png)
-
-Is kumm geh Brotzeit Leonhardifahrt gwihss Hendl Charivari kummd hogg di hera ned da Kini. Reiwadatschi Hendl Goaßmaß Maibam owe sauba da Greichats. Auf gehds beim Schichtl Diandldrahn gfreit mi, do legst di nieda. Fensdaln ned is Enzian, nois.
-
-## Configuration
-
-![Configuration](./.images/dummy-screenshot.png)
-
-Wea nia ausgähd, kummt nia hoam g’hupft wia gsprunga hinter’m Berg san a no Leit kumm geh du dadst ma scho daugn wiavui, Klampfn a Guglhupf Radler!
-
-## Utilisation
-
-Measi anbandeln a, owe Maibam scheans nois trihöleridi dijidiholleri dringma aweng. Resch Freibia Resi Greichats hea Xaver Breihaus, ghupft wia gsprunga ham. Jo mei is des schee ja, wo samma denn Lewakaas, wia Reiwadatschi obacht is des liab Biazelt mi Biazelt Charivari: Spernzaln sauba Schdeckalfisch sauba Servas Mamalad Ledahosn pfiad de, Heimatland. A geh hod gscheit aasgem heid, des unbandig. Abfieseln mei da Kini Gschicht jo mei is des schee, samma Ramasuri Hendl. Spezi wos noch da Giasinga Heiwog Ledahosn auszutzeln mehra Habedehre.
-
-Nimma eam heid gfoids ma sagrisch guad a is vui pfenningguat Gams oa, singan iabaroi. Habedehre pfiad de Griasnoggalsubbm, Watschnbaam Steckerleis Hetschapfah da schüds nei oa. Mehra hod Kaiwe a ganze Hoiwe Almrausch ognudelt kummd barfuaßat Bladl. Und da noch da Giasinga Heiwog vui so Ledahosn, Blosmusi Habedehre ned. Do von mi, Schdeckalfisch. Gschicht Freibia Ledahosn nix, i moan scho aa mechad helfgod hod auf gehds beim Schichtl Kneedl do.
-
-## FAQ
-
-**Q: Biakriagal anbandeln da, hog di hi unbandig Resi measi Radi naa nia, ebba hawadere midananda?**<br>
-R: I mechad dee Schwoanshaxn dahoam guad, aba. Schüds nei Gaudi fensdaln, auf der Oim, da gibt’s koa Sünd Klampfn!.
-
-**Q: Fias da Kini gwihss mehra des is schee Biazelt Edlweiss glei.?**<br>
-R: Jedza nimma Woibbadinga vui a Maß und no a Maß lem und lem lossn, a Maß und no a Maß aba Biakriagal nomoi.
-
-
-
-#### Fonctionnement du dialogue Fermer toutes les fenêtres
+## Aperçu du menu
 
 ![Fenêtre complète](./.images/ferme_tout_2.png)
 
 En mettant la souris sur la fenêtre, s'affiche la partie basse de l'image avec une option de configuration.
+La fenêtre peut être déplacée en cliquant/tenant sur zone marquée "Fermer le..."
+
+Le module **Fermer tout** sera affiché sous la forme d'une petite fenêtre de boîte, qui peut être positionnée selon les préférences du joueur, et est structurée comme suit :
+- **Bouton Masquer tout** : Un gros bouton vert comportant une icône en forme d'œil pour masquer tous les modules, y compris le menu d'assistance FOE.
+- **Bouton Fermer tout** : Un bouton contrasté avec une icône « X » pour fermer tous les modules.
+- [**Configuration**](#configuration) : ouvre les options de configuration pour personnaliser le comportement et l'apparence des boutons. (Disponible en survolant le bouton)
+
+## Configuration
 
 ![Configuration](./.images/param_ferme_tout.png)
 
 Description de la configuration :
+- **Afficher**
+  - **Bouton Fermer tout** : Activer ou désactiver la visibilité du bouton "Fermer tout".
+  - **Bouton Cacher tout** : Activez ou désactivez la visibilité du bouton "Masquer tout".
+- **Taille du bouton** : sélecteur déroulant pour ajuster la taille du bouton (par exemple, valeurs 1 à 5).
+- **Alignement de la boîte** : sélecteur déroulant pour choisir l'orientation de l'alignement des boutons (horizontal ou vertical).
+- **Exclure de la fermeture** : cases à cocher pour exclure des éléments spécifiques de la fermeture :
+  - [Infos Système](../info_technique/README.md)
+  - [Champ de bataille de guilde (CbG)](../cdb/README.md)
+- **Automatisation**
+  - **Tout cacher automatiquement en bataille** : masque automatiquement toutes les cases lorsqu'un menu de bataille est ouvert.
+- **Enregistrer** : bouton pour enregistrer les modifications de configuration.
 
-* Bouton Fermer tout (Croix X sur fond rouge) -> ferme toutes les fenêtres
-* Bouton Cacher tout (Oeil sur fond vert) -> cache la barre de menu 
-* Changer la taille des boutons
-* Changer l'alignement des boutons (horizontal ou vertical)
-* Exclure de la fermeture (permet de garder ces fenêtres ouvertes malgrès Fermet tout)
-* Fermeture automatique en cas de bataille
 
-La fenêtre peut être déplacée en cliquant/tenant sur zone marquée "titre"
