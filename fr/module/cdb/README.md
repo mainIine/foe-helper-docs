@@ -7,6 +7,9 @@ description : affiche un aperçu de l'activité du champ de bataille de guilde (
 Ce module peut-être activé dans [parametres](../parametres/README.md#pop-up)
 {% endhint %}
 
+Ce module fournit un résumé clair des performances de votre guilde dans les champs de bataille de guilde (GBG), montrant le nombre d'actions que chaque membre a contribué, séparées par combats et négociations, y compris l'attrition et la journalisation des instantanés.
+
+
 ## Structure
 
 ![Structure](./.images/structure.png)
