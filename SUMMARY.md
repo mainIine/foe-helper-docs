@@ -117,14 +117,14 @@
   * [Aide Motivation / Polissage](fr/module/motivation/README.md)
   * [Aide Négociation](fr/module/negociation/README.md)
   * [Alarme](fr/module/alarme/README.md)
-  * [Aperçu CbG](fr/module/cdb/README.md)
   * [Aperçu collecteur PF](fr/module/apercu_collecteur_PF/README.md)
   * [Aperçu de la production](fr/module/production/README.md)
   * [Aperçu de la ville](fr/module/ville/README.md)
   * [Aperçu des Alliés](fr/module/allie/README.md)
   * [Aperçu des membres de la guilde](fr/module/membres/README.md)
   * [Aperçu des unités militaires](fr/module/armee/README.md)
-  * [Aperçu IQ](fr/module/qi-joueur/README.md)
+  * [Aperçu Joueur CbG](fr/module/cdb/README.md)
+  * [Aperçu Joueur IQ](fr/module/qi-joueur/README.md)
   * [Arbre des technologies](fr/module/arbre_techno/README.md)
   * [Arène JcJ](fr/module/arene-jcj/README.md)
   * [Assistant Boutique](fr/module/boutique/README.md)
@@ -157,6 +157,7 @@
   * [Résultat de l'EG](fr/module/statistique_EG/README.md)
   * [Statistiques](fr/module/stat/README.md)
   * [Système de chateau](fr/module/chateau/README.md)
+
 
   
 * [Site Web](fr/site_web/README.md)
