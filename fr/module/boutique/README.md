@@ -54,11 +54,40 @@ Afin d'avoir un oeil sur vos articles favoris, il est conseillé de mettre en fa
 Avec le filtre **Favori**, seul ces derniers seront affichés<br>
 ![Filtre favori](./.images/filtre_favori.png)
 
+### Alarme
+
+![](./.images/alarme_off.png) - L'article n'a pas d'alarme. Un clic de souris sur la cloche va activer l'alarme<br>
+![](./.images/alarme_on.png) - L'alarme est active pour l'article. Un clic de souris la désactive<br>
+
+Quand une alarme est active, ce type de message apparait dès que les conditions sont remplies pour acquérir l'article<br>
+![Message d'alerte](./.images/message_alerte.png)
+
+Le message disparait après 1 minute environ
+
+
+### Cacher une monnaie
+
+La boutique **Championnat du Champ de bataille** a par exemple 2 monnaies. <br>
+![Deux monnaies](./.images/cacher_001.png)
+
+
+Vous pouvez filtrer l'une des monnaies en cliquant dessus : <br>
+![Monnaie Or cachée](./.images/cacher_002.png)
+
+Seul les articles de la monnaie Platine sont affichées.<br>
+
+ou vice-versa <br>
+![Monnaie Platinie cachée](./.images/cacher_003.png)
+
+Si vous cliquez sur les deux monnaies, alors la liste sera vide. <br>
+![Les deux monnaies cachées](./.images/cacher_004.png)
+
+Un clic sur l'une ou l'autre, voir les deux monnaies va réafficher les articles.
+
 
 ## FAQ
 
 **Q: Je ne vois pas mes packs de 50 diamants pour le championnat CbG**<br>
 R: Si vous avez déjà acheté tous les packs disponible, alors l'article se trouvera tout en bas de la liste en grisé
 
-**Q: Fias da Kini gwihss mehra des is schee Biazelt Edlweiss glei.?**<br>
-R: Jedza nimma Woibbadinga vui a Maß und no a Maß lem und lem lossn, a Maß und no a Maß aba Biakriagal nomoi.
+
