@@ -81,9 +81,9 @@ Les options suivantes sont disponibles :
 - **Négociations** : Ouvre l'assistant de négociation pendant les négociations (non autorisé dans GBG).
 - **Assistant d'événement** : Ouvre divers assistants d'événement lorsqu'une fenêtre d'événement est ouverte.
 - **Alerte voyou Uniquement** : Affiche une notification lorsqu'il ne reste plus que des voleurs dans la prochaine vague d'une bataille.
-- **Galaxie Bleue** : Ouvre la [Aide Galaxie bleue] (../galaxie-bleue/README.md) pendant la collecte.
-- **Aperçu des Alliés** : Ouvre l'[Aperçu des alliés] (../allie/README.md) lorsque le menu Alliés historiques est ouvert.
-- **Affiche Total des Pf investi** : Ouvre le [Résumé de l'investissement FP] (../investissement_PF/README.md) lorsque le menu **Hôtel de ville > Contributions aux Grands Monuments** est ouvert. 
+- **Galaxie Bleue** : Ouvre la [Aide Galaxie bleue](../galaxie-bleue/README.md) pendant la collecte.
+- **Aperçu des Alliés** : Ouvre l'[Aperçu des alliés](../allie/README.md) lorsque le menu Alliés historiques est ouvert.
+- **Affiche Total des Pf investi** : Ouvre le [Résumé de l'investissement FP](../investissement_PF/README.md) lorsque le menu **Hôtel de ville > Contributions aux Grands Monuments** est ouvert. 
 - **Export tréso. guilde** : Ouvre une fenêtre pour exporter les contributions du trésor de guilde lorsque le **Menu de guilde > Options > Contributions** est ouvert en jeu.<br>
 {% hint style="danger" %}
 Ne revenez pas en arrière dans les pages pendant la lecture. Cela peut entraîner des données en double lors de l'exportation.
