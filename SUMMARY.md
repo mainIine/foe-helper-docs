@@ -138,7 +138,7 @@
   * [Conseil de l'armée](fr/module/conseil-armee/README.md)
   * [Coût EG](fr/module/cout_eg/README.md)
   * [Discord Webhooks](fr/module/discord/README.md)
-  * [Efficience des bâtiments](fr/module/GcG/README.md)
+  * [Efficience des bâtiments](fr/module/efficience/README.md)
   * [Fermer toutes les fenêtres](fr/module/fermer/README.md)
   * [Filtre du marché](fr/module/marche/README.md)
   * [Import/Export](fr/module/import-export/README.md)
