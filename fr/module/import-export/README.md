@@ -1,31 +1,78 @@
-# (Nom du module)
+---
+description: Sauvegarde et restauration de vos données Foe Helper entre vos appareils
+---
 
-![Icône](./.images/dummy-icon.png) 
+# Outil d'import / Export des données
 
-Bavaria ipsum dolor sit amet Biaschlegl Schmankal fias wea ko, dea ko, Schbozal hi! Semmlkneedl Fingahaggln ognudelt Hendl Biagadn Sauwedda Broadwurschtbudn ham gwihss Namidog. Greaßt eich nachad hoggd hod hod i bin a woschechta Bayer oba gwiss Schdeckalfisch is des liab!
+
+Le module **Outil d'import / Export des données** vous permet de sauvegarder vos données FoE Helper et de les restaurer sur un autre appareil. Ceci est particulièrement utile lors de la migration de systèmes ou de la synchronisation de configurations entre environnements.
+
+
+Ce module est accessible via [parametres](../parametres/README.md#autres).
 
 ## Structure
 
-![Structure](./.images/dummy-screenshot.png)
+![Structure](./.images/interface_6.png) 
 
-Is kumm geh Brotzeit Leonhardifahrt gwihss Hendl Charivari kummd hogg di hera ned da Kini. Reiwadatschi Hendl Goaßmaß Maibam owe sauba da Greichats. Auf gehds beim Schichtl Diandldrahn gfreit mi, do legst di nieda. Fensdaln ned is Enzian, nois.
+ La fenêtre est structurée comme suit :
+ 
+ - **Bouton Ouvrir l'outil d'import / export** : Ouvre la fenêtre d'import / export 
+ 
+ 
+ ### Fenêtre d'import / Export
+ 
+ ![Menu](./.images/menu.png)
+ 
+  La fenêtre est structurée comme suit :
+  - Onglet :
+	- **Onglet Export** : Permet d'[exporter](#export) les données
+	- **Onglet Import** : Permet d'[importer](#import) les données
+ 
+ 
+ ## Export
+ 
+  ![Export](./.images/interface_6_1.png)
+  
+   Chaque entrée du tableau comprend :
 
-## Configuration
+	- **Description** : courte étiquette expliquant le bloc de données
+	- **Type** : méthode de stockage utilisée (par exemple, stockage local, IndexedDB)
+	- **Tables** : Nombre de tables internes associées à l'entrée
+	- **Enregistrements** : nombre d'enregistrements de données enregistrés
+	- **Exporter les données** : Bouton pour exporter les données vers un appareil local.
+ 
+ ## Import
+ 
+ ![Import](./.images/interface_6_3.png)
+ 
+ L'onglet Importer des données est utilisé pour importer des données précédemment enregistrées en cliquant sur le champ d'importation ou en faisant glisser l'archive « .zip » directement dans le champ d'importation.
+ 
+ ## Utilisation
+ 
+- Pour **exporter**, accédez à l'onglet **Exporter** et cliquez sur le bouton Exporter.
+    Un écran est affiché pendant la préparation des données.
+    ![préparation](./.images/preparation.png)
 
-![Configuration](./.images/dummy-screenshot.png)
-
-Wea nia ausgähd, kummt nia hoam g’hupft wia gsprunga hinter’m Berg san a no Leit kumm geh du dadst ma scho daugn wiavui, Klampfn a Guglhupf Radler!
-
-## Utilisation
-
-Measi anbandeln a, owe Maibam scheans nois trihöleridi dijidiholleri dringma aweng. Resch Freibia Resi Greichats hea Xaver Breihaus, ghupft wia gsprunga ham. Jo mei is des schee ja, wo samma denn Lewakaas, wia Reiwadatschi obacht is des liab Biazelt mi Biazelt Charivari: Spernzaln sauba Schdeckalfisch sauba Servas Mamalad Ledahosn pfiad de, Heimatland. A geh hod gscheit aasgem heid, des unbandig. Abfieseln mei da Kini Gschicht jo mei is des schee, samma Ramasuri Hendl. Spezi wos noch da Giasinga Heiwog Ledahosn auszutzeln mehra Habedehre.
-
-Nimma eam heid gfoids ma sagrisch guad a is vui pfenningguat Gams oa, singan iabaroi. Habedehre pfiad de Griasnoggalsubbm, Watschnbaam Steckerleis Hetschapfah da schüds nei oa. Mehra hod Kaiwe a ganze Hoiwe Almrausch ognudelt kummd barfuaßat Bladl. Und da noch da Giasinga Heiwog vui so Ledahosn, Blosmusi Habedehre ned. Do von mi, Schdeckalfisch. Gschicht Freibia Ledahosn nix, i moan scho aa mechad helfgod hod auf gehds beim Schichtl Kneedl do.
-
+  - Un fichier `.zip` contenant vos données enregistrées sera généré et enregistré dans votre dossier **Téléchargements**.
+   ![Fichier Zip](./.images/message_export.png)
+  
+ - Pour **importer**, passez à l'onglet **Importer** et sélectionnez un fichier `.zip` précédemment exporté.
+  - Cela restaure vos données enregistrées, utiles pour configurer FoE Helper sur un nouvel ordinateur.
+ 
+{% hint style="warning" %}
+La restauration des données écrasera vos données actuelles. Importez uniquement des sauvegardes fiables.
+{% endhint %}
+  
 ## FAQ
 
-**Q: Biakriagal anbandeln da, hog di hi unbandig Resi measi Radi naa nia, ebba hawadere midananda?**<br>
-R: I mechad dee Schwoanshaxn dahoam guad, aba. Schüds nei Gaudi fensdaln, auf der Oim, da gibt’s koa Sünd Klampfn!.
+**Q : Que contient le fichier `.zip` ?**<br>
+R : Il contient des tables exportées depuis votre stockage local et IndexedDB, regroupées pour la récupération.
 
-**Q: Fias da Kini gwihss mehra des is schee Biazelt Edlweiss glei.?**<br>
-R: Jedza nimma Woibbadinga vui a Maß und no a Maß lem und lem lossn, a Maß und no a Maß aba Biakriagal nomoi.
+**Q : Puis-je l'utiliser pour synchroniser deux appareils ?**<br>
+R : Oui, exportez depuis un appareil et importez vers un autre pour répliquer vos paramètres et vos données enregistrées.
+
+**Q : Les données exportées sont-elles lisibles par l'homme ?**<br>
+R : Non, il est structuré pour être réimporté par l'outil FoE Helper et n'est pas destiné à une édition manuelle.
+
+**Q : Cela peut-il restaurer mes paramètres ou mes données de module ?**<br>
+R : Oui, la plupart des configurations et caches spécifiques aux modules sont inclus dans l'exportation. 
