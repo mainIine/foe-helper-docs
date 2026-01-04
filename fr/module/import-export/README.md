@@ -49,8 +49,8 @@ Ce module est accessible via [parametres](../parametres/README.md#autres).
  
  ## Utilisation
  
-- Pour **exporter**, accédez à l'onglet **Exporter** et cliquez sur le bouton Exporter.
-    Un écran est affiché pendant la préparation des données.
+- Pour **exporter**, accédez à l'onglet **Exporter** et cliquez sur le bouton Exporter.<br>
+    Un écran est affiché pendant la préparation des données.<br>
     ![préparation](./.images/preparation.png)
 
   - Un fichier `.zip` contenant vos données enregistrées sera généré et enregistré dans votre dossier **Téléchargements**.<br>
