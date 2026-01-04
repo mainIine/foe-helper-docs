@@ -1,31 +1,46 @@
-# (Nom du module)
+---
+description: Affiche les tailles et les quantités de bâtiments stockés dans l'inventaire du mode Reconstruction.
+---
 
-![Icône](./.images/dummy-icon.png) 
+# Liste de reconstruction
 
-Bavaria ipsum dolor sit amet Biaschlegl Schmankal fias wea ko, dea ko, Schbozal hi! Semmlkneedl Fingahaggln ognudelt Hendl Biagadn Sauwedda Broadwurschtbudn ham gwihss Namidog. Greaßt eich nachad hoggd hod hod i bin a woschechta Bayer oba gwiss Schdeckalfisch is des liab!
+{% hint style="success" %}
+Ce module peut-être activé dans [parametres](../parametres/README.md#pop-up)
+{% endhint %}
+
+Le module **Liste de reconstruction** fournit un aperçu rapide des bâtiments dans votre inventaire en mode reconstruction, montrant leurs dimensions et leurs quantités pour faciliter une planification urbaine efficace et une optimisation de l'aménagement.
 
 ## Structure
 
-![Structure](./.images/dummy-screenshot.png)
+![Structure](./.images/structure.png)
 
-Is kumm geh Brotzeit Leonhardifahrt gwihss Hendl Charivari kummd hogg di hera ned da Kini. Reiwadatschi Hendl Goaßmaß Maibam owe sauba da Greichats. Auf gehds beim Schichtl Diandldrahn gfreit mi, do legst di nieda. Fensdaln ned is Enzian, nois.
+Le tableau comprend les colonnes suivantes :
 
-## Configuration
-
-![Configuration](./.images/dummy-screenshot.png)
-
-Wea nia ausgähd, kummt nia hoam g’hupft wia gsprunga hinter’m Berg san a no Leit kumm geh du dadst ma scho daugn wiavui, Klampfn a Guglhupf Radler!
+- **Bâtiment** : Nom du bâtiment stocké en mode Reconstruction.
+- **# (Quantité)** : Affiche le nombre d'instances de chaque bâtiment disponibles.
+- **Indicateurs d'icônes** : indique dans quel bâtiment de menu est stocké (par exemple, les bâtiments de production)
+- **Route** : Indique si le bâtiment doit être relié par une route.
+- **Taille** : Dimensions du bâtiment (largeur × hauteur).
 
 ## Utilisation
 
-Measi anbandeln a, owe Maibam scheans nois trihöleridi dijidiholleri dringma aweng. Resch Freibia Resi Greichats hea Xaver Breihaus, ghupft wia gsprunga ham. Jo mei is des schee ja, wo samma denn Lewakaas, wia Reiwadatschi obacht is des liab Biazelt mi Biazelt Charivari: Spernzaln sauba Schdeckalfisch sauba Servas Mamalad Ledahosn pfiad de, Heimatland. A geh hod gscheit aasgem heid, des unbandig. Abfieseln mei da Kini Gschicht jo mei is des schee, samma Ramasuri Hendl. Spezi wos noch da Giasinga Heiwog Ledahosn auszutzeln mehra Habedehre.
-
-Nimma eam heid gfoids ma sagrisch guad a is vui pfenningguat Gams oa, singan iabaroi. Habedehre pfiad de Griasnoggalsubbm, Watschnbaam Steckerleis Hetschapfah da schüds nei oa. Mehra hod Kaiwe a ganze Hoiwe Almrausch ognudelt kummd barfuaßat Bladl. Und da noch da Giasinga Heiwog vui so Ledahosn, Blosmusi Habedehre ned. Do von mi, Schdeckalfisch. Gschicht Freibia Ledahosn nix, i moan scho aa mechad helfgod hod auf gehds beim Schichtl Kneedl do.
+- Ouvrez le mode de reconstruction dans le jeu.
+- Le module est automatiquement lancé. (si activé dans [Paramètres](../parametres/README.md#pop-up))
+- Utilisez la liste pour :
+    - Comparez les bâtiments similaires par taille pour prioriser le placement.
+    - Triez les bâtiments par taille ou par exigence routière.
+    - Planifiez les aménagements à l'avance, en sachant exactement combien et quelles tailles réserver.
 
 ## FAQ
 
-**Q: Biakriagal anbandeln da, hog di hi unbandig Resi measi Radi naa nia, ebba hawadere midananda?**<br>
-R: I mechad dee Schwoanshaxn dahoam guad, aba. Schüds nei Gaudi fensdaln, auf der Oim, da gibt’s koa Sünd Klampfn!.
+**Q : Comment puis-je accéder à cette liste ?**  
+R : En l'activant dans le menu [Paramètres] (../parametres/README.md#pop-up)), il est automatiquement lancé lorsqu'il est entré en mode de reconstruction.
 
-**Q: Fias da Kini gwihss mehra des is schee Biazelt Edlweiss glei.?**<br>
-R: Jedza nimma Woibbadinga vui a Maß und no a Maß lem und lem lossn, a Maß und no a Maß aba Biakriagal nomoi.
+**Q : Puis-je placer directement des bâtiments de cette liste ?**  
+R : Non, ce module est uniquement informatif. Le placement doit être effectué dans le jeu.
+
+**Q : Est-ce que cela montre les bâtiments qui ne sont pas encore stockés ?**  
+R : Non, il répertorie uniquement les bâtiments actuellement stockés en mode Reconstruction.
+
+**Q : Que signifient les icônes ?**  
+R : Indique où le bâtiment est stocké dans le menu du jeu.
