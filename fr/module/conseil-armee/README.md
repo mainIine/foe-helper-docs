@@ -38,7 +38,7 @@ L'interface de configuration est structurée comme suit :
  ### Exemple
  
  ![Saisie d'un conseil](./.images/entree_conseil.png)<br>
- pour enregistrer le conseil, vous devez faire appuyer sur la touche "enter" ![](./.images/enter.png)<b>
+ pour enregistrer le conseil, vous devez faire appuyer sur la touche "enter" <br>
  ![Conseil sauvé](./.images/conseil_sauve.png)
  
  les conseils s'affichent en bas de la fenêtre.<br>
