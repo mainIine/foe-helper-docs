@@ -48,7 +48,7 @@ Afin d'avoir un oeil sur vos articles favoris, il est conseillé de mettre en fa
 
 ### Favoris
 
-![favori inactif](./.images/favori_off.png)
+![favori inactif](./.images/favori_off.png)<br>
 ![favori actif](./.images/favori_on.png)
 
 
