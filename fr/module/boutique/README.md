@@ -46,7 +46,8 @@ L'interface de configuration est structurée comme suit :
 
 Afin d'avoir un oeil sur vos articles favoris, il est conseillé de mettre en favoris les articles, voir d'activer une alarme.
 
-(./.images/favori_off)
+### Favoris
+[](./.images/favori_off)
 
 
 
