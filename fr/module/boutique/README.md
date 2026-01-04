@@ -51,7 +51,7 @@ Afin d'avoir un oeil sur vos articles favoris, il est conseillé de mettre en fa
 ![](./.images/favori_off.png) - L'article n'est pas marqué comme favori. Un clic de souris sur l'étoile active le favori<br>
 ![](./.images/favori_on.png) - L'article est marqué comme favori. Un clic de souris sur l'étoile va désactiver le favori<br>
 
-Avec le filtre **Favori**, seul ces derniers seront affichés
+Avec le filtre **Favori**, seul ces derniers seront affichés<br>
 ![Filtre favori](./.images/filtre_favori.png)
 
 
