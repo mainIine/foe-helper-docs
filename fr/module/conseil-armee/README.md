@@ -51,3 +51,6 @@ L'interface de configuration est structurée comme suit :
 R: Oui, vous pouvez modifier une entrée après coup, en cliquant sur la zone de texte (conseil ou seuil)<br>
 ![modification seuil](./.images/conseil_2.png)
  
+ **Q: Puis-je supprimer une entrée ?**<br>
+R: Oui, il suffit d'enregistrer un conseil vide.
+ 
