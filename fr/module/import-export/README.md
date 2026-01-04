@@ -53,11 +53,11 @@ Ce module est accessible via [parametres](../parametres/README.md#autres).
     Un écran est affiché pendant la préparation des données.<br>
     ![préparation](./.images/preparation.png)
 
- - Un fichier `.zip` contenant vos données enregistrées sera généré et enregistré dans votre dossier **Téléchargements**.<br>
+     - Un fichier `.zip` contenant vos données enregistrées sera généré et enregistré dans votre dossier **Téléchargements**.<br>
    ![Fichier Zip](./.images/message_export_fini.png)
   
  - Pour **importer**, passez à l'onglet **Importer** et sélectionnez un fichier `.zip` précédemment exporté.
-  - Cela restaure vos données enregistrées, utiles pour configurer FoE Helper sur un nouvel ordinateur.
+    - Cela restaure vos données enregistrées, utiles pour configurer FoE Helper sur un nouvel ordinateur.
  
 {% hint style="warning" %}
 La restauration des données écrasera vos données actuelles. Importez uniquement des sauvegardes fiables.
