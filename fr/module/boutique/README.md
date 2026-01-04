@@ -88,6 +88,6 @@ Un clic sur l'une ou l'autre, voir les deux monnaies va réafficher les articles
 ## FAQ
 
 **Q: Je ne vois pas mes packs de 50 diamants pour le championnat CbG**<br>
-R: Si vous avez déjà acheté tous les packs disponible, alors l'article se trouvera tout en bas de la liste en grisé
-
+R: Si vous avez déjà acheté tous les packs disponible, alors l'article se trouvera tout en bas de la liste en grisé<br>
+![Diamants non disponible](./.images/article_non_dispo.png)
 
