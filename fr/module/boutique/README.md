@@ -47,8 +47,9 @@ L'interface de configuration est structurée comme suit :
 Afin d'avoir un oeil sur vos articles favoris, il est conseillé de mettre en favoris les articles, voir d'activer une alarme.
 
 ### Favoris
-![favori inactif](./.images/favori_off)
-![favori actif](./.images/favori_on)
+
+![favori inactif](./.images/favori_off.png)
+![favori actif](./.images/favori_on.png)
 
 
 ## FAQ
