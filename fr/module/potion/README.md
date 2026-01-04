@@ -31,7 +31,7 @@ Une fois qu'une potion est activée :
 
 ![Icône - Actif](./.images/potion_active.png)
 
-- Le survol de l'icône ouvrira l'[Structure] (#structure), affichant des informations détaillées sur l'inventaire et l'état.
+- Le survol de l'icône ouvrira l'[Structure](#structure), affichant des informations détaillées sur l'inventaire et l'état.
 
 
 ## FAQ
