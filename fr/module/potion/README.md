@@ -1,31 +1,43 @@
-# (Nom du module)
+---
+description: Affiche la potion actuellement active la plus courte et votre inventaire complet de potions.
+---
 
-![Icône](./.images/dummy-icon.png) 
+# Potions de bataille
 
-Bavaria ipsum dolor sit amet Biaschlegl Schmankal fias wea ko, dea ko, Schbozal hi! Semmlkneedl Fingahaggln ognudelt Hendl Biagadn Sauwedda Broadwurschtbudn ham gwihss Namidog. Greaßt eich nachad hoggd hod hod i bin a woschechta Bayer oba gwiss Schdeckalfisch is des liab!
+{% hint style="success" %}
+Ce module peut-être activé dans [parametres](../parametres/README.md#autres)
+{% endhint %}
+
+![Icon](./.images/icon_001.png)
+
+Le module **Potions de bataille** affiche une icône dans le coin supérieur droit de l'écran. Lorsqu'un effet de potion est actif, il affiche le **boost actif restant le plus court** et, lorsque vous le survolez, affiche un **résumé de toutes les potions de votre inventaire**.
 
 ## Structure
 
-![Structure](./.images/dummy-screenshot.png)
+![Structure](./.images/structure.png)
 
-Is kumm geh Brotzeit Leonhardifahrt gwihss Hendl Charivari kummd hogg di hera ned da Kini. Reiwadatschi Hendl Goaßmaß Maibam owe sauba da Greichats. Auf gehds beim Schichtl Diandldrahn gfreit mi, do legst di nieda. Fensdaln ned is Enzian, nois.
+Le menu est structuré comme suit :
 
-## Configuration
-
-![Configuration](./.images/dummy-screenshot.png)
-
-Wea nia ausgähd, kummt nia hoam g’hupft wia gsprunga hinter’m Berg san a no Leit kumm geh du dadst ma scho daugn wiavui, Klampfn a Guglhupf Radler!
-
+- **Aperçu de l'effet** : affiche le type d'effet actuel (par exemple, Rouge pour l'attaque), le pourcentage de bonus (par exemple, 10 %) et le temps restant (par exemple, 7:59:52).
+- **Tableau d'inventaire des potions** : Répertorie les potions par type, montrant :
+  - Nombre de potions disponibles
+  - Force d'effet (%)
+  - Durée de chaque type de potion
+  
 ## Utilisation
 
-Measi anbandeln a, owe Maibam scheans nois trihöleridi dijidiholleri dringma aweng. Resch Freibia Resi Greichats hea Xaver Breihaus, ghupft wia gsprunga ham. Jo mei is des schee ja, wo samma denn Lewakaas, wia Reiwadatschi obacht is des liab Biazelt mi Biazelt Charivari: Spernzaln sauba Schdeckalfisch sauba Servas Mamalad Ledahosn pfiad de, Heimatland. A geh hod gscheit aasgem heid, des unbandig. Abfieseln mei da Kini Gschicht jo mei is des schee, samma Ramasuri Hendl. Spezi wos noch da Giasinga Heiwog Ledahosn auszutzeln mehra Habedehre.
+Une fois qu'une potion est activée :
+- L'icône sera mise à jour pour refléter le **type de boost actif** et la **durée restante**.
 
-Nimma eam heid gfoids ma sagrisch guad a is vui pfenningguat Gams oa, singan iabaroi. Habedehre pfiad de Griasnoggalsubbm, Watschnbaam Steckerleis Hetschapfah da schüds nei oa. Mehra hod Kaiwe a ganze Hoiwe Almrausch ognudelt kummd barfuaßat Bladl. Und da noch da Giasinga Heiwog vui so Ledahosn, Blosmusi Habedehre ned. Do von mi, Schdeckalfisch. Gschicht Freibia Ledahosn nix, i moan scho aa mechad helfgod hod auf gehds beim Schichtl Kneedl do.
+![Icône - Actif](./.images/potion_active.png)
+
+- Le survol de l'icône ouvrira l'[Structure] (#structure), affichant des informations détaillées sur l'inventaire et l'état.
+
 
 ## FAQ
 
-**Q: Biakriagal anbandeln da, hog di hi unbandig Resi measi Radi naa nia, ebba hawadere midananda?**<br>
-R: I mechad dee Schwoanshaxn dahoam guad, aba. Schüds nei Gaudi fensdaln, auf der Oim, da gibt’s koa Sünd Klampfn!.
+**Q : Que signifient les trois valeurs affichées à côté de chaque potion ?**<br>
+R : Ils indiquent le nombre de potions disponibles dans l'inventaire, le pourcentage d'effet fourni et le temps restant pour cet effet (par exemple, 329x 5% 8:00:00).
 
-**Q: Fias da Kini gwihss mehra des is schee Biazelt Edlweiss glei.?**<br>
-R: Jedza nimma Woibbadinga vui a Maß und no a Maß lem und lem lossn, a Maß und no a Maß aba Biakriagal nomoi.
+**Q : Puis-je voir plusieurs potions simultanément ?**<br>
+R : Non, l'icône affichera uniquement le **boost actif restant le plus court**.  
