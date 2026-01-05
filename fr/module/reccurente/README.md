@@ -15,7 +15,7 @@ L'assistant de quêtes récurrentes affiche une liste de toutes les quêtes réc
 Le menu est structuré comme suit :
 
 - **Barre d'en-tête** avec options [Configuration](#configuration)
-- [**Liste des tâches**](#task-list) affichant les quêtes récurrentes ouvertes et terminées
+- [**Liste des tâches**](#liste-des-taches) affichant les quêtes récurrentes ouvertes et terminées
 
 ## Configuration
 
