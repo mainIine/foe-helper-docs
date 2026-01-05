@@ -153,7 +153,7 @@
   * [Pack et Améliorations](fr/module/pack/README.md)
   * [Paramètres](fr/module/parametres/README.md)
   * [Potion de bataille](fr/module/potion/README.md)
-  * [Quêtes réccurentes](fr/module/reccurente/README.md)
+  * [Quêtes récurrentes](fr/module/reccurente/README.md)
   * [Recherche GM](fr/module/recherche_GM/README.md)
   * [Résultat de l'EG](fr/module/statistique_EG/README.md)
   * [Statistiques](fr/module/stat/README.md)
