@@ -74,7 +74,7 @@ dans la 2e partie, on peut mettre en évidence certains type de bâtiments :
 
 - **Issu du CbG**
 - **Issu de l'IQ**
-- **Bâtiments ne nécessistant aucune route**<br>
+- **Bâtiments ne nécessistant aucune route** (en violet)<br>
 	![bâtiment sans route](./.images/batiment_sans_route.png)<br>
 - **Bâtiments augmentables / limités**
 - **Bâtiments améliorables**
