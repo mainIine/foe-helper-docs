@@ -102,4 +102,4 @@ La liste de tous les bâtiments
 
 ### euphorie
 
-[euphorie IQ](./.images/euphorie.png)
+[euphorie IQ](./.images/euphorie_quantique.png)
