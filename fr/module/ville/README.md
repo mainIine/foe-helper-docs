@@ -34,7 +34,7 @@ Permet d'envoyer les données de votre ville vers le [site web foe-helper.com](h
 
 Une fenêtre de confirmation s'ouvre 
 
-![Confirmation](./.images/envois_plan_web_news.png)
+![Confirmation](./.images/envois_plan_web_new.png)
 
 {% hint style="info" %}
 L'utilisation du planificateur sur le site web est décrit [ici](../../site_web/planificateur_cite/README.md)
