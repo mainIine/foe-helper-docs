@@ -87,7 +87,7 @@ dans la 2e partie, on peut mettre en évidence certains type de bâtiments :
 il donne les infos suivantes :
 
 - nombre de tuiles occupées
-- nombre d'habitants / joie acquise / [Etat et % d'euphorie](https://support.innogames.com/kb/ForgeOfEmpires/fr_FR/2972/Incursions-Quantiques--Pourquoi-mes-b%C3%A2timents-produisentils-si-peu-de-ressources-)
+- nombre d'habitants / joie acquise / [Etat et % d'euphorie](https://support.innogames.com/kb/ForgeOfEmpires/fr_FR/2972/Incursions-Quantiques--Pourquoi-mes-b%C3%A2timents-produisentils-si-peu-de-ressources-) (#euphorie)
 - nombre de chronos, d'or et marchandise
 - nombre d'action gagnée par cycle, le % de combat et sa couleur, le % de gain sur les marchandises et l'or
 
@@ -100,3 +100,6 @@ La liste de tous les bâtiments
 
 
 
+### euphorie
+
+[euphorie IQ](./.images/euphorie.png)
