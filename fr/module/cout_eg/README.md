@@ -13,4 +13,6 @@ Le module **Coût de l'EG** s'affiche si le % de ressource nécessaire pour déb
  ## Structrure
 
 
-Work im Progress
+![Structure](./.images/niv_1.png)
+
+affiche les % d'utilisation par rapport au stock de guilde pour chaque ressource nécessaire pour débloquer le niveau d'EG
