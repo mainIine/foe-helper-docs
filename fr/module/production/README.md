@@ -19,7 +19,7 @@ L'aperçu de la production est structuré comme suit, de haut en bas :
 - **Barre de titre** avec un menu [Configuration](#configuration)
 - **Onglets** - Un onglet par type de ressource :
 <details>
-  <summary>Clic pour ouvrir/summary>
+  <summary>Clic pour ouvrir</summary>
   
     - Production FP
     - Production de biens
