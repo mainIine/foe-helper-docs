@@ -147,3 +147,22 @@ R : Oui, utilisez l'entrée de filtre au-dessus du tableau pour rechercher n'i
 
 **Q : que signifie le personnage orange après le nom de certains bâtiments ?**<br>
 R : Cela signifie qu'il y a un emplaçement pour un allié
+
+
+
+<details>
+  <summary>Click me</summary>
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Javascript
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
