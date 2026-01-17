@@ -18,7 +18,9 @@ La fenêtre comporte plusieurs onglets, chacun dédié à une production ou une 
 L'aperçu de la production est structuré comme suit, de haut en bas :
 - **Barre de titre** avec un menu [Configuration](#configuration)
 - **Onglets** - Un onglet par type de ressource :
-<details><summary><cliquez pour ouvrir la liste</summary>
+<details>
+  <summary>Clic pour ouvrir/summary>
+  
     - Production FP
     - Production de biens
     - Production de fragments
@@ -36,6 +38,7 @@ L'aperçu de la production est structuré comme suit, de haut en bas :
     - Pouvoir de guilde
     - Marchandises de guilde
     - Ressources IQ
+	
 </details>
 
 - **Groupe** - Bouton pour modifier l'affichage du tableau sur un onglet spécifique :
