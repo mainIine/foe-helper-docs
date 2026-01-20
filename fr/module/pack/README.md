@@ -21,7 +21,7 @@ Le module ss est structuré comme suit :
 4. **Étoile** Marquage d'une chaîne spécifique ou définie comme favorite
 5. **Éléments nécessaires** Aperçu des éléments nécessaires pour le niveau maximum de chaîne et d'ensembles
 6. **Masquer les pièces manquantes** Bouton bascule pour changer de vue
-    - [Masquer les pièces manquantes](#masquez-les-pièces-manquantes)
+    - [Masquer les pièces manquantes](#masquer-les-pièces-manquantes)
     - [Afficher les pièces manquantes](#afficher-les-pièces-manquantes)
     - [Afficher toutes les pièces](#afficher-toutes-les-pièces)
 7. **Afficher uniquement les favoris** En sélectionnant, la vue est filtrée sur les ensembles et les chaînes marqués comme favoris
