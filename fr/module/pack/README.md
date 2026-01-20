@@ -28,7 +28,7 @@ Le module ss est structuré comme suit :
 
 ##Configuration
 
-Si vous avez activé l'option **« Afficher les liens »** dans les [paramètres](../parametres/README.md), le nom de chaque chaîne devient un lien cliquable vers sa page correspondante sur le wiki anglais de Forge of Empires (forgeofempires.fandom.com).
+Si vous avez activé l'option **« Afficher les liens »** dans les [paramètres](../parametres/README.md#autres), le nom de chaque chaîne devient un lien cliquable vers sa page correspondante sur le wiki anglais de Forge of Empires (forgeofempires.fandom.com).
 
 ## Utilisation
 
