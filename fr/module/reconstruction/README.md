@@ -14,7 +14,7 @@ Le module **Liste de reconstruction** fournit un aperçu rapide des bâtiments d
 
 ![Structure](./.images/structure.png)
 
-Dans la barre de menu, la possibilité d'afficher la [carte à plat de la ville](#carte-de-la-ville en cliquant sur le symbole **expansion**
+Dans la barre de menu, la possibilité d'afficher la [carte à plat de la ville](#carte-de-la-ville) en cliquant sur le symbole **expansion**
 
 Le tableau comprend les colonnes suivantes :
 
