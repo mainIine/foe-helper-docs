@@ -38,7 +38,7 @@ Le tableau comprend les colonnes suivantes :
 ![Plan de la ville](./.images/plan_de_ville.png)
 
 le plan de la ville s'affiche avec la disposition actuelle des bâtiments. Si des bâtiments sont enlevés, alors les carrés sont noircis.
-les couleurs sont les couleurs utilisées dans [l'aperçu de la cité](../ville/readme.md)
+les couleurs sont les couleurs utilisées dans [l'aperçu de la cité](../ville/README.md)
 et en violet les bâtiments ne nécessitant pas de routes.
 
 #### Option de la carte
