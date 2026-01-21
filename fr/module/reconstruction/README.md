@@ -14,6 +14,8 @@ Le module **Liste de reconstruction** fournit un aperçu rapide des bâtiments d
 
 ![Structure](./.images/structure.png)
 
+Dans la barre de menu, la possibilité d'afficher la [carte à plat de la ville](#carte-de-la-ville en cliquant sur le symbole **expansion**
+
 Le tableau comprend les colonnes suivantes :
 
 - **Bâtiment** : Nom du bâtiment stocké en mode Reconstruction.
@@ -30,6 +32,24 @@ Le tableau comprend les colonnes suivantes :
     - Comparez les bâtiments similaires par taille pour prioriser le placement.
     - Triez les bâtiments par taille ou par exigence routière.
     - Planifiez les aménagements à l'avance, en sachant exactement combien et quelles tailles réserver.
+
+### Carte de la ville
+
+![Plan de la ville](./.images/plan_de_ville.png)
+
+le plan de la ville s'affiche avec la disposition actuelle des bâtiments. Si des bâtiments sont enlevés, alors les carrés sont noircis.
+les couleurs sont les couleurs utilisées dans [l'aperçu de la cité](../ville/readme.md)
+et en violet les bâtiments ne nécessitant pas de routes.
+
+#### Option de la carte
+
+![Option de carte](./.images/option_carte.png)
+
+le menu option offre la possiblité de :
+
+ - via la liste déroulante de choisir la grandeur de la carte (S, M, L, XL)
+ - via le bouton horizontal de choisir la force de la transparence de la carte
+ - déplacer la carte de ville en cliquant / tenant sur la barre noire du menu de la carte
 
 ## FAQ
 
