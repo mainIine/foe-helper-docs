@@ -23,7 +23,7 @@ L'aperçu des statistiques comporte plusieurs onglets, chacun dédié à une cat
 2. [**Filtres et options**](#filtres-et-options) pour la personnalisation du graphique
 3. [**Calenddrier**](#calendrier) pour sélectionner la période observée
 4. [**Affichage du graphique**](#affichage-du-graphique)
-    - [Menu Options du graphique](#menu-option-du-graphique)
+    - [Menu Options du graphique](#menu-options-du-graphique)
 	
 	## Onglets
 
@@ -116,7 +116,7 @@ Situé dans le coin supérieur droit de chaque graphique, ce menu offre des fonc
 R : Le système reflète les chances conçues pour des récompenses spécifiques, le volume de données collectées et votre chance personnelle. Certaines récompenses comme les points Forge sont conçues pour être plus fréquentes.
 
 **Q : Puis-je exporter ces données ?**<br>
-R : Oui, directement à partir du graphique, plus de détails dans [Menu Options du graphique] (#menu-option-du-graphique).
+R : Oui, directement à partir du graphique, plus de détails dans [Menu Options du graphique] (#menu-options-du-graphique).
 
 **Q : Pourquoi certaines tranches d'âge présentent-elles de fortes baisses dans le graphique linéaire ?**<br>
 R : Cela se produit généralement en raison d'un changement dans l'activité des joueurs ou d'ajustements de construction.
