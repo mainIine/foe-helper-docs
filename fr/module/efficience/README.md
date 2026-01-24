@@ -93,7 +93,7 @@ L'interface de configuration vous permet d'exporter des données vers `CSV` ou `
 ## Usage
 
 - Définissez vos valeurs attendues pour chaque ressource ou boost dans les [Paramètres](#paramètres).
-- Utilisez [Ajouter un bâtiment](#jouter-un-bâtiment) pour sélectionner les bâtiments que vous souhaitez comparer.
+- Utilisez [Ajouter un bâtiment](#ajouter-un-bâtiment) pour sélectionner les bâtiments que vous souhaitez comparer.
 - Consultez le score et la répartition des ressources pour chaque bâtiment.
 - Utiliser le tri pour identifier facilement les bâtiments les moins efficaces.
 - Utilisez des filtres pour affiner le nom du bâtiment.
@@ -104,7 +104,7 @@ L'interface de configuration vous permet d'exporter des données vers `CSV` ou `
 Le score d'efficacité est calculé en comparant la production réelle de chaque bâtiment à votre valeur quotidienne attendue par tuile.
 
 **Score = (Production ÷ Valeur attendue) ÷ (Tuiles + 1 là où la route est requise) × 100**<br>
-(par exemple, 20 FP ÷ 10 FP attendus ÷ 2 tuiles = 1 × 100 = Score : 100)
+(par exemple, 20 PF ÷ 10 PF attendus ÷ 2 tuiles = 1 × 100 = Score : 100)
 
 {% hint style="info" %}
 Les bâtiments de la chaîne sont traités comme une seule entité en supposant une connexion complète. Les ensembles sont considérés comme si toutes les pièces étaient entièrement connectées.
@@ -159,16 +159,16 @@ Chaque ressource ou bonus est regroupée et répertoriée individuellement :
 
 * **Fragments** :
 
-  * Terminer les fragments de production spéciaux (y compris le [calculateur TTPS](#Calculatrice-de-kit-TPS))
+  * Terminer les fragments de production spéciaux (y compris le [calculateur TTPS](#calculatrice-de-kit-tps))
 
 * **Incursions quantiques** :
 
   * Actions
   
   
-### Calculateur de kit TPS
+### Calculatrice de kit TPS
 
-En cliquant sur l'icône à côté du champ de saisie, la calculatrice TTPS qui est utilisée pour déterminer la valeur de production/tuile pour les fragments « **T**erminer la **P**roduction **S**péciale » s'ouvrira.
+En cliquant sur l'icône à côté du champ de saisie, la calculatrice TPS qui est utilisée pour déterminer la valeur de production/tuile pour les fragments « **T**erminer la **P**roduction **S**péciale » s'ouvrira.
 Pour calculer la valeur des fragments TPS, saisissez la quantité de chaque ressource attendue par kit TPS, et la valeur sera calculée en fonction de vos entrées pour ces ressources dans [**Tableau des paramètres**](#tableau-des-paramètres).
 
 ![Menu Calculatrice TPS](./.images/ttps.png)
