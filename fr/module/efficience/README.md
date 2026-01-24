@@ -22,10 +22,10 @@ La fenêtre principale est composé des éléments suivants :
 
 - **Barre de titre** avec un menu [Configuration](#configuration)
 - **Barre d'outils** :
-    - **Ajouter un bâtiment** : ouvre le [menu de sélection de bâtiment] (#ajouter_un_bâtiment).
+    - **Ajouter un bâtiment** : ouvre le [menu de sélection de bâtiment] (#ajouter-un-bâtiment).
     - **Valeur/tuile** : basculer entre les vues **Valeur/tuile** et **Productions résumées**.
     - **Champ de recherche** : mettez en surbrillance les bâtiments recherchés par leur nom.
-    - ** Uniquement en surbrillance ** : activez cette option pour filtrer uniquement les bâtiments mis en surbrillance. (expliqué sous [Mise en évidence et sélection](#Mise_en_évidence_et_sélection)).
+    - ** Uniquement en surbrillance ** : activez cette option pour filtrer uniquement les bâtiments mis en surbrillance. (expliqué sous [Mise en évidence et sélection](#Mise-en-évidence-et-sélection)).
     - **Grands Monuments** : activez cette option pour inclure les Grands Monuments dans la **Vue Tableau**.
     - **Score minimum** : inclut uniquement les bâtiments d'inventaire dont le score est supérieur à un seuil défini dans la liste.
 	- **Afficher les bâtiments augmentés** : basculer pour affiche/ masquer les **bätiments augmentés** dans la **Vue Tableau**
@@ -37,14 +37,14 @@ La fenêtre principale est composé des éléments suivants :
     - **Score** : score d'efficacité basé sur les attentes des utilisateurs.
       - Vert : Score pour les bâtiments disponibles dans la ville.
       - Orange : Score des bâtiments disponibles en inventaire.
-      - Bleu : score pour les bâtiments ajoutés à partir du menu [menu de sélection de bâtiment] (#jouter_un_bâtiment).
-    - **Nom du bâtiment, niveau et époque** du bâtiment. Pour plusieurs bâtiments, une seule époque est affichée. Consultez [Carte de la ville](../ville/README.md#Menu_latéral) pour plus de détails.
+      - Bleu : score pour les bâtiments ajoutés à partir du menu [menu de sélection de bâtiment] (#jouter-un-bâtiment).
+    - **Nom du bâtiment, niveau et époque** du bâtiment. Pour plusieurs bâtiments, une seule époque est affichée. Consultez [Carte de la ville](../ville/README.md#Menu-latéral) pour plus de détails.
     - **Taille** : filtre les bâtiments selon les tailles sélectionnées.
     - **Montant** : Nombre de bâtiments placés dans votre ville.
-    - **Inventaire** : affiche ✔ si le bâtiment est disponible dans l'inventaire. (expliqué sous [Tooltip_bätiment en inventaire](#Tooltip_bätiment_en_inventaire)).
+    - **Inventaire** : affiche ✔ si le bâtiment est disponible dans l'inventaire. (expliqué sous [Tooltip-bätiment en inventaire](#Tooltip-bätiment-en-inventaire)).
     - **Colonnes de production** : les colonnes représentent chaque type de ressource activé avec leurs valeurs de pondération :
         - FP, pièces de monnaie, marchandises, boosts, fragments, unités et plus encore.
-        - Les valeurs de production sont calculées par carreau et adaptées à vos attentes. (expliqué sous [Méthode d'évaluation](#méthode_d'évaluation)).
+        - Les valeurs de production sont calculées par carreau et adaptées à vos attentes. (expliqué sous [Méthode d'évaluation](#méthode-d'évaluation)).
     - **Objets** : affiche les objets produits par le bâtiment.
 	
 ## 	Mise en évidence et sélection
@@ -59,7 +59,7 @@ Activez Uniquement les surbrillances pour restreindre la liste aux seuls bâtime
 {% endhint %}
 
 
-## Tooltip_bätiment en inventaire
+## Tooltip bâtiment en inventaire
 
 L'info-bulle est visible en survolant « ✔ » dans la colonne d'inventaire, affichant les combinaisons disponibles pour construire le bâtiment sélectionné.
 
@@ -92,7 +92,7 @@ L'interface de configuration vous permet d'exporter des données vers `CSV` ou `
 ## Usage
 
 - Définissez vos valeurs attendues pour chaque ressource ou boost dans les [Paramètres](#paramètres).
-- Utilisez [Ajouter un bâtiment](#jouter_un_bâtiment) pour sélectionner les bâtiments que vous souhaitez comparer.
+- Utilisez [Ajouter un bâtiment](#jouter-un-bâtiment) pour sélectionner les bâtiments que vous souhaitez comparer.
 - Consultez le score et la répartition des ressources pour chaque bâtiment.
 - Utiliser le tri pour identifier facilement les bâtiments les moins efficaces.
 - Utilisez des filtres pour affiner le nom du bâtiment.
@@ -117,7 +117,7 @@ Le panneau **Paramètres** vous permet de définir ce que vous attendez de vos b
 
 Le menu des paramètres est structuré comme suit : 
 - **Barre de titre** avec un menu [Configuration](#configuration)
-- [**Tableau des paramètres**](#tableau_des_paramètres) avec deux colonnes :
+- [**Tableau des paramètres**](#tableau-des-paramètres) avec deux colonnes :
   * **Activé** : case à cocher qui inclut ou exclut la ressource du calcul et de la vue d'ensemble de l'efficacité.
   * **Production quotidienne/carreau attendue** : Un champ numérique qui définit votre taux de production souhaité par carreau et par jour.
 - **Boutons** : en bas du panneau
@@ -158,7 +158,7 @@ Chaque ressource ou bonus est regroupée et répertoriée individuellement :
 
 * **Fragments** :
 
-  * Terminer les fragments de production spéciaux (y compris le [calculateur TTPS](#Calculatrice_de_kit_TPS))
+  * Terminer les fragments de production spéciaux (y compris le [calculateur TTPS](#Calculatrice-de-kit-TPS))
 
 * **Incursions quantiques** :
 
@@ -168,7 +168,7 @@ Chaque ressource ou bonus est regroupée et répertoriée individuellement :
 ### Calculateur de kit TPS
 
 En cliquant sur l'icône à côté du champ de saisie, la calculatrice TTPS qui est utilisée pour déterminer la valeur de production/tuile pour les fragments « **T**erminer la **P**roduction **S**péciale » s'ouvrira.
-Pour calculer la valeur des fragments TPS, saisissez la quantité de chaque ressource attendue par kit TPS, et la valeur sera calculée en fonction de vos entrées pour ces ressources dans [**Tableau des paramètres**](#tableau_des_paramètres).
+Pour calculer la valeur des fragments TPS, saisissez la quantité de chaque ressource attendue par kit TPS, et la valeur sera calculée en fonction de vos entrées pour ces ressources dans [**Tableau des paramètres**](#tableau-des-paramètres).
 
 ![Menu Calculatrice TPS](./.images/ttps.png)
 
