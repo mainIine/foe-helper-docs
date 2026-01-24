@@ -49,7 +49,8 @@ La fenêtre principale est composé des éléments suivants :
 	
 ## 	Mise en évidence et sélection
 	
-	Les bâtiments sont mis en évidence/sélectionnés dans l'aperçu du tableau par :
+Les bâtiments sont mis en évidence/sélectionnés dans l'aperçu du tableau par :
+	
   - Cliquer sur une ligne met en évidence ce bâtiment.
   - Les bâtiments recherchés dans la **Barre de recherche** sont automatiquement mis en évidence avec 🔎.
   - Plusieurs bâtiments peuvent être mis en évidence simultanément pour une comparaison plus facile
