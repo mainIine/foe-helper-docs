@@ -162,6 +162,7 @@
 
   
 * [Site Web](fr/site_web/README.md)
+  * [Compte](fr/site_web/compte/README.md)
   * [Planificateur de cité](fr/site_web/planificateur_cite/README.md)
 
 * [Jeton API](fr/guide/api-token.md)
