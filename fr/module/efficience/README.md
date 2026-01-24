@@ -41,7 +41,7 @@ La fenêtre principale est composé des éléments suivants :
     - **Nom du bâtiment, niveau et époque** du bâtiment. Pour plusieurs bâtiments, une seule époque est affichée. Consultez [Carte de la ville](../ville/README.md#Menu-latéral) pour plus de détails.
     - **Taille** : filtre les bâtiments selon les tailles sélectionnées.
     - **Montant** : Nombre de bâtiments placés dans votre ville.
-    - **Inventaire** : affiche ✔ si le bâtiment est disponible dans l'inventaire. (expliqué sous [Tooltip-bätiment en inventaire](#Tooltip-bätiment-en-inventaire)).
+    - **Inventaire** : affiche ✔ si le bâtiment est disponible dans l'inventaire. (expliqué sous [Tooltip bâtiment en inventaire](#Tooltip-bätiment-en-inventaire)).
     - **Colonnes de production** : les colonnes représentent chaque type de ressource activé avec leurs valeurs de pondération :
         - FP, pièces de monnaie, marchandises, boosts, fragments, unités et plus encore.
         - Les valeurs de production sont calculées par carreau et adaptées à vos attentes. (expliqué sous [Méthode d'évaluation](#méthode-d'évaluation)).
