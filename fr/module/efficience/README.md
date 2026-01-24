@@ -25,7 +25,7 @@ La fenêtre principale est composé des éléments suivants :
     - **Ajouter un bâtiment** : ouvre le [menu de sélection de bâtiment] (#ajouter_un_bâtiment).
     - **Valeur/tuile** : basculer entre les vues **Valeur/tuile** et **Productions résumées**.
     - **Champ de recherche** : mettez en surbrillance les bâtiments recherchés par leur nom.
-    - ** Uniquement en surbrillance ** : activez cette option pour filtrer uniquement les bâtiments mis en surbrillance. (expliqué sous [Mise en évidence et sélection](#mise_en_évidence_et_sélection)).
+    - ** Uniquement en surbrillance ** : activez cette option pour filtrer uniquement les bâtiments mis en surbrillance. (expliqué sous [Mise en évidence et sélection](#Mise_en_évidence_et_sélection)).
     - **Grands Monuments** : activez cette option pour inclure les Grands Monuments dans la **Vue Tableau**.
     - **Score minimum** : inclut uniquement les bâtiments d'inventaire dont le score est supérieur à un seuil défini dans la liste.
 	- **Afficher les bâtiments augmentés** : basculer pour affiche/ masquer les **bätiments augmentés** dans la **Vue Tableau**
