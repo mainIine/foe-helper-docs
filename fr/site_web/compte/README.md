@@ -12,8 +12,8 @@ Le formulaire de création de compte comporte les champs obligatoires suivants 
 
 | Champ | Descriptif |
 |-----------|-------------|
-| **ID dans le jeu** (ID InGame) | Un identifiant numérique de l'extension FOE Helper. Vous pouvez le trouver dans les paramètres de l'extension FoE Helper. |
-| **Votre serveur**  (You Server)| Sélectionnez votre serveur FoE. Vous pouvez le trouver dans les paramètres de l'extension FoE Helper. Le code à deux lettres au début de « Monde » indique votre serveur (par exemple « EN » pour le serveur International). |
+| **ID dans le jeu**<br>(ID InGame)| Un identifiant numérique de l'extension FOE Helper. Vous pouvez le trouver dans les paramètres de l'extension FoE Helper. |
+| **Votre serveur**<br>(You Server)| Sélectionnez votre serveur FoE. Vous pouvez le trouver dans les paramètres de l'extension FoE Helper. Le code à deux lettres au début de « Monde » indique votre serveur (par exemple « EN » pour le serveur International). |
 | **Votre monde** | Choisissez le monde dans lequel vous jouez. Vous pouvez le trouver dans les paramètres de l'extension FoE Helper. |
 | **Votre nom en jeu** (Your InGame Name)| Votre nom d'utilisateur Forge of Empires dans le jeu. |
 | **Adresse e-mail** | Une adresse e-mail valide à associer à votre compte. |
