@@ -1,3 +1,7 @@
+---
+description: Paramètres pour FoE Helper
+---
+
 # Gestion des Paramètres 
 
 ![Îcone](./.images/Icon_001.png)
@@ -5,334 +9,129 @@
 Ce module permet de gérer les paramètres généraux de l'application
 
 
-## <a name="Structure"></a>Structure
+## Structure
 
-![Structure](./.images/Structure.png)
+![Menu](./.images/menu.png)
 
 Le module est partagé en 4 onglets qui gérent différents aspects du module
 
-* A propos - Information générale sur le module
-* Envois - Opt-in pour l'envoi des données pour le planificateur de ville
-* Fenêtres - Permet d'activer ou désactiver certaines fenêtres
-* Inteface - Gère l'aspect du module
+* [**Info et Site Web**](#info-et-site-web) - Informations générale sur l'assistant Foe Helper
+* [**Menu + Notifications**](#menu--notifications) - Contrôle la position du menu, les sons et les paramètres de notification.
+* [**Pop up**](#pop-up) - Contrôle quels modules s'ouvrent automatiquement
+* [**Autres**](#autres) - Gère quel module est actif dans l'assistant
 
 
-## <a name="propos"></a>Onglet A Propos
+## Info et Site Web
 
-### A Propos 
+Informations générale sur l'assistant Foe Helper
 
-![A Propos](./.images/Structure.png)
+![Info + Site Web](./.images/Structure.png)
 
-Divers informations sur l'assistant.
+Les options suivantes sont disponibles :
+- **Langue** : change la langue de l'interface utilisateur. Déclenche un rechargement automatique du jeu
+- **Transferts** : Utilisé pour transférer les notes et les données du plan de cité vers [Foe-Helper.com](https://foe-helper.com/)
+- **Site Web Jeton API** : Utilisé pour l'authentification sur [Foe-Helper.com](https://foe-helper.com/)
+- **Aide** : Fourni les liens vers les ressources officielles :
+	* Site web [Foe-Helper.com](https://foe-helper.com/)
+	* Discord [Chanel](https://discord.com/invite/z97KZq4)
+	* Github [Github](https://github.com/mainIine/foe-helfer-extension/issues)
+- **A propos** : Affiche des détails variés a propos de l'assistant
+- **Version** : Affiche les infos suivantes (Log du dernier Change, Votre ID Joueur, Votre ID de guilde, Votre ID du monde actuel)
+- **Charger la version Beta** : Charger la version Beta actuelle
 
-#### Traduction
+{% hint style="warning" %}
+Évitez d'utiliser simultanément la version bêta et la version standard.
+{% endhint %}
+
+### Traduction
 
 vous pouvez participer à la traduction via le site [weblate](http://i18n.foe-helper.com/)
 
-### Version
 
-![Version](./.images/propos_1.png)
+## Menu + Notifications
 
-vous y trouverez des informations imporantes sur :
+Contrôle la position du menu, les sons et les paramètres de notification.
 
-#### Version du module
-#### Votre ID de joueur FoE
-#### Votre ID de guilde
-#### Votre ID du monde sur lequel vous êtes avec ce module
+![Menu + Notifications](./.images/menu_notif.png)
 
-### Aide
-
-![Aide](./.images/propos_2.png)
-
-Vous affiche les différentes aides disponible pour l'emploi de ce module
-
-* Site web [Foe-Helper.com](https://foe-helper.com/)
-* Forum du site web [forum](https://discuss.foe-helper.com/)
-* Discord [Chanel](https://discord.com/invite/z97KZq4)
-* Github [Github](https://github.com/mainIine/foe-helfer-extension/issues)
-
-## <a name="Envois"></a>Onglet Envois
-
-![Gestion des données de guilde](./.images/envois.png)
-
-Opt-in pour l'envoi des données pour le [planificateur de ville](../.././site_web/planificateur_cite/README.md) sur le [site web](https://foe-helper.com/citymap/overview)
-
-## <a name="fenetre"></a>Onglet Fenêtres
-
-Dans cet onglet, vous allez pouvoir gérer le comportement de certaines fenêtres
-
-### Négociations
-
-![Assistant négociations](./.images/fenetre_1.png)
-
-Active / désactive l'ouverture de l'[assistant négociation](../negociation/README.md) lors d'une négociation. Ne fonctionne pas en Champ de bataille. <br>L'aide n'est pas admise par InnoGames sur le Champ de bataille.
-
-### Investissement PF
-
-![Investissement PF](./.images/fenetre_2.png)
-
-Active / désactive l'ouverture du résumé des investissments PF lors de la visite de l'hôtel de ville -> Grands Monuments
-
-
-### Export de la trésorie de guilde
-
-![Export de la trésorie de guilde](./.images/fenetre_3.png)
-
-Active / désactive l'assistant permettant d'exporter les modifications de la trésorie de guilde
-
-Quand cet assistant est actif, une fenêtre s'ouvre vous permettant d'exporter le journal des contributions de ressources.
-
-![Journal des contributions](./.images/tresorie_guilde.png)<br>
-via la page principale de votre guilde.
-
-#### Fonctionnement de l'assistant Export
-
-![Assistant Export](./.images/Export.png)
-
-l'assistant a un menu Configuration qui est une redondance de la fonction activation / désactivation de ce menu.
-![Configuration Export Trésorie](./.images/param_export_treso.png)
-
-vous devez parcourir toutes les pages du journal pour lire les informations. Sauter à la dernière, ne suffit pas.<br>
-![Lire le journal](./.images/lire_journal.png)
-
-{% hint style="danger" %}
-Attention à ne pas revenir en arrière dans la lecture des pages, sinon les informations seront à double dans le résultat final.
-{% endhint %}
-
-Si vous vous trompez, vous pouvez effacer les données enregistrées au moyen du bouton "Réinitialiser" et recommencer à zéro la lecture.
-L'export en CSV se fait via le bouton "Export".
-
-
-### <a name="marche"></a>Filtre du marché
-
-![Filtre du marché](./.images/fenetre_4.png)
-
-Active / désactive l'ouverture du [filtre du marché](../marche/README.md) 
-
-### Calculatrice GM
-
-![Utilisation de la calculatrice GM interne](./.images/fenetre_5.png)
-
-Si cette option est activée, vous pouvez utiliser la [calculatrice GM interne](../calculatrice_gm_interne/README.md) aussi pour les GM des autres joueurs.
-
-### Calculatrice pour le prix d'événement
-
-![Assistant d'événement](./.images/fenetre_6.png)
-
-Affiche différents assistants d'événements quans la fenêtre d'un événement supporté est ouverte.
-
-### Aide au combat
-
-![Aide au combat](./.images/fenetre_7.png)
-
-Lors des combats automatiques, une fenêtre vient vous avertir qu'il ne reste que des voyous après la 1ère vague
-
-### <a name="galaxie"></a>Galaxie bleue
-
-![Assistant Galaxie Bleue](./.images/fenetre_8.png)
-
-Active / désactive l'ouverture de l'[aide Galaxie bleue](../galaxie-bleue/README.md) lors de la récolte de la galaxie bleue
-
-### Activité PO / MO
-
-![Assistant PO / MO](./.images/fenetre_9.png)
-
-Active / désactive l'enregistrement des [événements PO / MO](../motivation/README.md).
-
+Les options suivantes sont disponibles :
+- **Position du menu** : bouge le menu de FoE Helper vers :
+	* Bas
+	* Droite
+	* En Fenêtre (flottant)<br>
 {% hint style="info" %}
-Si la coche n'est pas mise, alors l'îcone de l'assistant PO / MO ![](./.images/icone_po_mo.png) dans le menu disparaît même si l'[îcone est active](#icone_active) dans le menu de l'assistant
+En fonction de la résolution et du zoom, le mode fenêtre peut être appliqué automatiquement.
 {% endhint %}
+- **Contenu du menu** : Cliquez pour basculer la visibilité des icônes dans la barre de menu FOE Helper.
+- **Menu** : Détermine combien d'îcones sont visibles dans le menu
+- **Activer le son** : Active le son dans les modules supportés
+- **Son Rival** : Active le son pour les quêtes terminées du Rival
+- **Notifications des batiments expirés** : Si cette option est activée, des alertes seront automatiquement créées pour les bâtiments à durée limitée, pour avertir lorsque le bâtiment est en ruine.
+- **Notifications** : Active ou désactive toutes les notifications de FoE Helper
+- **Emplacement des notifications** : Choisissez où les notifications apparaissent à l'écran. Après avoir choisi un **Aperçu** de notification apparaîtra.
+- **Notifications multiples** : Contrôlez le nombre de notifications pouvant être empilées en même temps.
 
-### <a name="inf_tech"></a>Info Technique
+## Pop Up
 
-![Info Technique](./.images/fenetre_10.png)
+Active/désactive l'ouverture automatique de divers outils d'assistance pendant le jeu.
 
-Active / désactive l'affichage des [Infos techniques](../info_technique/README.md) au chargement du jeu
+![Pop up](./.images/pop_up.png)
 
-### Fermer toutes les fenêtres
+Les options suivantes sont disponibles :
+- **Négociations** : Ouvre l'assistant de négociation pendant les négociations (non autorisé dans GBG).
+- **Assistant d'événement** : Ouvre divers assistants d'événement lorsqu'une fenêtre d'événement est ouverte.
+- **Alerte voyou Uniquement** : Affiche une notification lorsqu'il ne reste plus que des voleurs dans la prochaine vague d'une bataille.
+- **Galaxie Bleue** : Ouvre la [Aide Galaxie bleue](../galaxie-bleue/README.md) pendant la collecte.
+- **Aperçu des Alliés** : Ouvre l'[Aperçu des alliés](../allie/README.md) lorsque le menu Alliés historiques est ouvert.
+- **Affiche Total des Pf investi** : Ouvre le [Résumé de l'investissement FP](../investissement_PF/README.md) lorsque le menu **Hôtel de ville > Contributions aux Grands Monuments** est ouvert. 
+- **Export tréso. guilde** : Ouvre une fenêtre pour exporter les contributions du trésor de guilde lorsque le **Menu de guilde > Options > Contributions** est ouvert en jeu.<br>
+{% hint style="danger" %}
+Ne revenez pas en arrière dans les pages pendant la lecture. Cela peut entraîner des données en double lors de l'exportation.
+{% endhint %}
+- **Recommandation Bâtiment CbG** : Lorsque le menu de construction de province est ouvert, le menu affiche un tableau trié des combinaisons de bâtiments les plus efficaces pour une province GBG, triées selon leur impact relatif sur le trésorie de guilde.
+- **Fenêtre d'info** : lance [Info Système](../info_technique/README.md) au démarrage du jeu
+- **Fermer toutes les Fenêtres** : Affiche  [Fermer toutes les Fenêtres](../fermer/README.md) au démarrage du jeu
+- **Info d'éclaireur** : Ouvre automatiquement les  [Infos de l'éclaireur](../eclaireur/README.md) lorsque la carte du continent dans le jeu est ouverte et que la reconnaissance est disponible.
+- **Bloqueur de négociation** : Bloque le bouton de négociation sur la carte de campagne pour empêcher toute négociation indésirable.
+- **Bloqueur Collecter Tout** : Bloque le bouton **Collecter Tout** si les pf ne peuvent pas être collectés ou si tous les batiments ne sont pas motivés<br>
+![Bloquer Récolter tout](./.images/recolter_tout.png)
+- **Assistant Aztèque** : Ouvre automatiquement [Assistant min-jeu Aztèque](../azteque/README.md) quand le mini-jeu Aztèque est ouvert.
+- **Arène JcJ - Compte rendu** : Ouvre automatiquement [Arène JcJ](../arene_jcj/README.md) quand l'arène JcJ est ouverte.
+- **Assistant Boutique** : Ouvre automatiquement [Assistant Boutique](../boutique/README.md) quand la boutique d'objet est ouverte.
+- **Liste des joueurs CbG** : Ouvre automatiquement [Aperçu CbG](../cdb/README.md) lorsqu'on clique sur le classement CbG.
+- **Liste des joueurs IQ** : Ouvre automatiquement [Aperçu IQ](../qi-joueur/README.md) lorsqu'on clique sur le classement CbG.
+- **Conseil de l'armée** : Ouvre automatiquement [Conseil de l'armée](../conseil-armee/README.md) en fonction des paramètres sélectionnés.
+- **Filtre du marché** : Ouvre automatiquement [Filtre du marché](../marche/README.md) quand le marché des ressources est ouvert.
+- **Liste de taille en mode reconstruction** : Ouvre automatiquement [Liste de reconstruction](../reconstruction/README.md) quand le mode de reconstruction du jeu est ouvert.
+- **EG Utilisation des ressources** : Ouvre automatiquement [Coût EG](../cout_eg/README.md) quand un niveau d'EG est débloqué.
 
-![Dialogue Fermer toutes les fenêtres](./.images/fenetre_11.png)
+## Autres
 
-Quand cette option est choisie, une fenêtre<br>
-![Fenêtre Affiche / Ferme tout](./.images/ferme_tout_1.png)
-s'affiche sur votre écran
+Ajustements de l'interface utilisateur, fonctionnalités avancées, importation/exportation et options d'assistance supplémentaires.
 
-#### Fonctionnement du dialogue Fermer toutes les fenêtres
+![Autres](./.images/autre.png)
 
-![Fenêtre complète](./.images/ferme_tout_2.png)
-
-En mettant la souris sur la fenêtre, s'affiche la partie basse de l'image avec une option de configuration.
-
-![Configuration](./.images/param_ferme_tout.png)
-
-Description de la configuration :
-
-* Bouton Fermer tout (Croix X sur fond rouge) -> ferme toutes les fenêtres
-* Bouton Cacher tout (Oeil sur fond vert) -> cache la barre de menu 
-* Changer la taille des boutons
-* Changer l'alignement des boutons (horizontal ou vertical)
-* Exclure de la fermeture (permet de garder ces fenêtres ouvertes malgrès Fermet tout)
-* Fermeture automatique en cas de bataille
-
-La fenêtre peut être déplacée en cliquant/tenant sur zone marquée "titre"
-
-### Bloqueur de négociation
-
-![Bloqueur de négociation](./.images/fenetre_12.png)
-
-Active / désactive le bloqueur de négociation sur la carte de campagne<br>
-![bloquer de négociation](./.images/bloquer_nego.png)
-
-### Info de l'éclaireur
-
-![Info de l'éclaireur](./.images/fenetre_13.png)
-
-Affiche automatiquement la fenêtre d'[info de l'éclaireur](../eclaireur/README.md)<br> 
-
-### Badge des 2000 quêtes
-
-![Badge des 2000 quêtes](./.images/fenetre_14.png)
-
-Active / désactive l'affichage du badge qui affiche le nombre de quêtes réccurentes effectuées<br>
-![Badge des 2000 quêtes](./.images/badge.png)
-
-###  <a name="Lien"></a>Lien des joueurs
-
-![Lien des joueurs](./.images/fenetre_15.png)
-
-Permet d'afficher un lien ![](./.images/lien.png) vers le site web [foe.scoredb.io](https://foe.scoredb.io)/monde/guilde/nom du joueur a chaque fois qu'un nom de joueur est affiché dans tous les modules.
-
-Remplace les noms de kits de construction par des liens vers forgeofempires.fandom.com (en anglais).
-
-### Cacher l'assistant pendant les batailles
-
-![Cacher l'assistant](./.images/fenetre_16.png)
-
-Active / désactive l'affichage pendant les batailles. Ne fonctionne que si l'assistant est sous [forme de boite](#boite)
-
-### Assistant Aztèque
-
-![Assistant Aztèque](./.images/fenetre_17.png)
-
-Active / désactive l'affichage de l'assistant lors du début d'un [mini-jeu Aztèque](../azteque/README.md)
-
-## Interface
-
-Cet onglet permet de gérer l'aspect visuel du module
-
-
-### Langue
-
-![Gestion de la langue](./.images/interface_1.png)
-
-Une fois votre langue d'interface choisie, le jeu est rechargé automatiquement
-
-### Position du menu
-
-![Position du menu](./.images/interface_2.png)
-
-permet d'afficher le menu FOE-Assistant à différents endroits
-
-* Bas de l'écran
-* Droite de l'écran
-* <a name ="boite"></a>En fenêtre
-
-
-![bas](./.images/interface_2_1.png)
-![droite](./.images/interface_2_2.png)
-![Fenetré](./.images/interface_2_3.png)
-
-Une fois votre position de menu choisie, le jeu est rechargé automatiquement
-
+Les options suivantes sont disponibles :
+- **Fenêtre** : Réinitialise les positions des fenêtres au centre de l'écran au cas où elles seraient hors écran.
+- **Calculatrice GM** : Permet l'utilisation de [Calculatrice GM interne](../calculatrice_gm_interne/README.md)sur les GM des autres joueurs.
+- **Activité PO/MO** : Enregistre les données [Aide Motivation / Polissage](../motivation/README.md)<br>
 {% hint style="warning" %}
-En fonction de votre résolution / taille d'écran (fenêtre de jeu), le menu se mettra en mode Fenêtre automatiquement
+Si elle est désactivée, l'icône PO/MO est masquée même si elle est activée ailleurs.
 {% endhint %}
-	
-### Contenu du menu
-
-Permet de gérer quelles îcones sont affichés dans la barre de menu
-
-![Menu](./.images/interface_3_1.png)
-
-Pour désactiver l'affichage, il suffit de faire un clic sur l'icone voulue (entourée d'un liseré vert). Elle s'enlève automatiquement et directement du menu.
-
-![Icone désactivée](./.images/interface_3.png)<br>
-Les îcones désactivées sont affichées avec un bord rouge dans l'interface de gestion du menu.
-Les îcones avec un <a name="icone_active"></a>liséré vert sont actives.
-
-### Largeur / longeur du Menu
-
-![Nombre d'îcone affichée dans le menu](./.images/interface_4.png)
-
-Par exemple avec le chiffre 3, comme dans l'image ci-dessus, le menu s'affiche ainsi<br>
-![Menu 3](./.images/interface_4_1.png)
-
-
+- **Potion de bataille** : Active le module [Potions de bataille](../potion/README.md) pour surveiller la durée des boosts actifs<br>
 {% hint style="warning" %}
-En fonction de votre résolution / taille d'écran (fenêtre de jeu) ou **zoom**, le menu peut afficher un autre nombre d'îcone.
+L'activation de cette option peut ne pas supprimer/afficher immédiatement l'icône - attendre ou recharger.
 {% endhint %}
-
-### Position des fenêtres
-
-![Effacer la position des fenêtres](./.images/interface_5.png)
-
-L'assistant enregistre automatiquement la position de vos fenêtres et les rouvres au même endroit. Si votre résolution, taille d'écran change entre-temps, il se peut que la fenêtre s'ouvre en dehors de la zone visible.
-
-Le bouton "Supprimer" va réafficher par défaut toutes les fenêtres sur le centre de l'écran.
-
-### Importer / exporter les données
-
-![Import / export](./.images/interface_6.png)
-
-Cet onglet vous permet d'exporter vos paramètres de jeu et toutes les données de votre PC sur un autre PC ou dans un autre navigateur.
-
-#### Utilisation
-
-le bouton "ouvrir l'outil d'import / export" ouvre cette fenêtre
-
-![outil d'import / export](./.images/interface_6_1.png)
-
-L'onglet Exporter permet d'exporter les données sous la forme d'un fichier Zip qui se trouvera pas défaut sur votre PC dans "Téléchargement"
-![fichier zip](./.images/interface_6_2.png)
-
-L'onglet Importer vous permet d'importer un fichier Zip afin de charger sur votre PC. 
-
-![Importer](./.images/interface_6_3.png)
-
-### Activer les sons
-
-![Gestion des sons](./.images/interface_7.png)
-
-Active les sons dans tous les modules. A noter, que sur certains modules, le son pourra être désactivé via le menu du module ![](./.images/haut-parleur.png)
-
-### Notifications
-
-![Notifications](./.images/interface_8.png)
-
-Active / désactive toutes les notifications de l'assistant
-
-### Emplacement des notifications
-
-![Emplacement des notifications](./.images/interface_9.png)
-
-Vous pouvez choisir à quel endroit de la fenêtre apparaissent les notifications du jeu
-![Lieu possible](./.images/place_notif.png)
-
-### Notifications multiples
-
-![Nombre de notifications](./.images/interface_10.png)
-
-avec 3 :
-
-![](./.images/interface_10_1.png)
-
-### Charger la version Beta
-
-![version Beta](./.images/interface_11.png)
-
-Vous permet de charger la version Beta de l'assistant en cliquant sur le lien jaune surligné. Le chargement démarre automatiquement.
-
+- **Bloqueur de double don** : Active une boîte sur le champ de saisie PF lorsque le don sur le GM a été effectué.
+- **Enchères** : Activation du calcul automatique de l'augmentation de l'enchère et des copies dans le presse-papiers en fonction des paramètres sélectionnés.
+- **Badge des 2000 quêtes** : Active le badge dans le coin supérieur gauche affichant le compteur des quêtes abandonnées<br>
+![2k badge](./.images/badge.png)
+- **Liens** : Ajoute un lien vers [foe.scoredb.io](https://foe.scoredb.io) ou vers [foestats.com](https://foestats.com/) dans les profils des joueurs et remplace le le nom des kits de constructions par un lien vers forgeofempires.fandom.com
+- **Visibilité de l'assistant en bataille** : Masque l'interface Helper lors des combats manuels (uniquement en mode "En Fenêtre ").
+- **Importer / Exporter** : Vous permet de sauvegarder et de restaurer vos paramètres et données FOE Helper via [Import-Export](../import-export/README.md). (par exemple, changement d'appareil)
+- **Répéter le bâtiment sélectionné** : Active la sélection automatisée du dernier bâtiment placé en mode reconstruction, permettant un placement plus rapide des bâtiments.<br>
 {% hint style="warning" %}
-La version Beta ne doit pas être employée sur le même navigateur que la version Beta
+Possibilité de déclencher la détection des bots d'INNO et de provoquer une courte période de bannissement. S'il vous plaît laissez-nous savoir si cela se produit.. [Contact](#info-et-site-web)
 {% endhint %}
-
+- **Barre des récompenses** : Active l'affichage des récompenses EG et CbG dans un flux<br>
+![Flux des récompenses](./.images/flux_recompense.png)
