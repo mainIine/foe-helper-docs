@@ -40,8 +40,6 @@ La calculatrice GM interne est structurée comme suit de haut en bas :
  Dans ce menu, on peut configurer les boutons  qui sont affichés dans la partie principale de la fenêtre.
  * **Enregister le format de copie par Grand Monument** - Cette option permet d'individualiser par Grand monument la copie des places.
  
- ## Fonction de copie
- 
  ### <a name="Niveau_facile"></a>Niveau facile
  
  ![Niveau facile](./.images/screenshot04.png)
@@ -99,6 +97,17 @@ Lorsque la première  propre contribution, la 1ère place et la 2ème place ont 
 ** Attention ! ** Si un mécène a trop payé ou que c'est un GM dans la zone « auto-rush », entre les niveaux 30 et 60, où aucune contribution personnelle n'est nécessaire pour sécuriser les premières places, les places peuvent être à risque. Un étranger pourrait sniper cette place. C'est-à-dire déposer moins que la part requise et être toujours indépassable. Dans ce cas, un texte d'avertissement rouge « danger (xxFP) » apparaît. La valeur entre parenthèses montre combien un étranger tirerait profit d'un "snipping", dans l'exemple suivant 9 FP. Dans ce cas, vous devriez payer vous-même dans ces PF 
 
 ![paiment](./.images/screenshot07.png)
+
+
+### Remplissage automatique
+
+en cliquant sur le montant en pf à poser, cela va remplir automatiquement le champ du GM sur lequel vous voulez poser
+![remplissage automatique](./.images/remplissage_auto.png)
+
+ {% hint style="info" %}
+Vous êtes responable de choisir le bon montant à cliquer. Foe Helper ne vérifie pas que le montant corresponde à la place que vous voulez prendre.
+Si vous voulez prendre P3 et que vous cliquez sur P4 c'est le montant de la P4 qui sera copié.
+{% endhint %}
 
 ## FAQ
 

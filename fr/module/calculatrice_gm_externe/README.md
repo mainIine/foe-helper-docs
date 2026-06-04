@@ -59,6 +59,18 @@ Vous avez déjà posé le montant sur le Grand Monument et la ligne est affiché
 
 Vous n'avez pas encore posé le montant demandé, alors le chiffre est affiché en rouge (posé / à poser).
 
+### Remplissage automatique
+
+en cliquant sur le montant en pf à poser, cela va remplir automatiquement le champ du GM sur lequel vous voulez poser
+![remplissage automatique](./.images/remplissage_auto.png)
+
+ {% hint style="info" %}
+Vous êtes responable de choisir le bon montant à cliquer. Foe Helper ne vérifie pas que le montant corresponde à la place que vous voulez prendre.
+Si vous voulez prendre P3 et que vous cliquez sur P4 c'est le montant de la P4 qui sera copié.
+{% endhint %}
+
+
+
 ### Place de mécénat non disponible
 
 ![place de mécénat non disponible](./.images/Screenshot_007.png)
