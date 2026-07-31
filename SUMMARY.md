@@ -37,6 +37,7 @@
   * [Statistiken](de/module/statistiken/README.md)
   * [Technologien](de/module/technologien/README.md)
   * [Verhandlungsassistent](de/module/verhandlung/README.md)
+  * [Web Requests](de/module/webrequest/README.md)
 
 * [Webseite](de/webseite/README.md)
   * [Stadtplaner](de/webseite/stadtplaner/README.md)
@@ -95,6 +96,7 @@
   * [Statistics](en/module/stats/README.md)
   * [Technology (Tech) Tree](en/module/tech-tree/README.md)
   * [Town Overview](en/module/town/README.md)
+  * [Web Requests](en/module/webrequest/README.md)
   * [QI Overview](en/module/qi-players/README.md)
 
 * [Website](en/website/README.md)
