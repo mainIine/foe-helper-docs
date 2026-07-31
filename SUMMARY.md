@@ -16,7 +16,7 @@
   * [Ereignisse](de/module/ereignisse/README.md)
   * [FP-Einsammlungen](de/module/fp-einsammlungen/README.md)
   * [Freunde in Unterhaltungen](de/module/freunde-in-unterhaltungen/README.md)
-  * [Gebäude Effizienzbewertung](de/module/effizenz/README.md)
+  * [Gebäude-Effizienzberechnung](de/module/effizenz/README.md)
   * [Gebäude-Kits](de/module/kits/README.md)
   * [GEX Ergebnisse](de/module/gex/README.md)
   * [Gilden Mitglieder Übersicht](de/module/mitglieder/README.md)
