@@ -20,14 +20,20 @@ The main screen is composed of the following elements:
 
 - **Title bar** with a [Configuration](#configuration) menu
 - **Toolbar**:
+    - **Settings**: Switches to the configuration panel (explained under [Settings](#settings)).
     - **Add Building**: Opens the [building selection menu](#add-building).
-    - **Value/tile**: Toggle between **Value/tile** and **Summarized Productions** views.
-    - **Hide items**: Toggle to show/hide building reward **Items** column from the **Table view**.
-    - **Search field**: Highlight searched buildings by name.
-    - **Only highlights**: Toggle to filter only highlighted buildings. (explained under [Highlighting and Selection](#highlighting-and-selection)).
-    - **Inventory**: Toggle to include buildings available in inventory in **Table view**.
-    - **Minimum Score**: Includes only inventory buildings scoring above a set threshold in the list.
-    - **Settings**: Opens the configuration panel (explained under [Settings](#settings)).
+    - **Search field**: Highlights matching buildings by name and hides all others. Multiple terms can be combined with `|` (e.g. `neo|eden`).
+    - **Options**: A dropdown containing all display options:
+        - **Values per tile**: Toggle between **Value/tile** and **Summarized Productions** views.
+        - **Only highlights**: Toggle to filter only highlighted buildings. (explained under [Highlighting and Selection](#highlighting-and-selection)).
+        - **Show Great Buildings**: Includes Great Buildings in the list.
+        - **Inventory**: Toggle to include buildings available in inventory in **Table view**.
+        - **Minimum Score**: Includes only inventory buildings scoring above a set threshold in the list.
+        - **Show limited buildings**: Shows or hides limited (irreplaceable) buildings.
+        - **Only highest chain stage**: Shows only the highest reachable stage of an upgrade chain.
+        - **Rate ally boosts**: Includes the boosts of assigned allies in the rating.
+        - **Replacement suggestions**: Shows a swap icon on inventory buildings (explained under [Replacement Suggestions](#replacement-suggestions)).
+        - **Show items column**: Shows or hides the building reward **Items** column.
 
 - **Table View**: Displays all evaluated buildings in rows, with sortable columns:
     - **Score**: Efficiency score based on user expectations.
@@ -77,6 +83,16 @@ Buildings already in city will be marked with grid icon, while Buildings in inve
     - Displaying highest level for selected building (eg. Gold Terrace Farm)
     -  Items missing to assemble highest level (eg. 1 gold upgrade)
 
+### Replacement Suggestions
+
+With the **Replacement suggestions** option enabled, a swap icon is shown in front of inventory buildings. Hovering over it suggests which lower-rated buildings in your city could make room for the new building:
+
+  - **Header**: Image, name, rating and required space of the inventory building.
+  - **Suggestion list**: Up to three combinations of city buildings that free up enough space. Each suggestion shows the **rating gain** achieved by the swap.
+  - **Upgrade instead of swap**: If a lower level of the building is already placed in your city and the required kits are in stock, the tooltip recommends upgrading instead — including the necessary steps.
+
+A swap is only suggested when it pays off: the combined rating of the removed buildings always stays below the rating of the new building. Great Buildings, the Town Hall and limited buildings are never suggested for demolition.
+
 ## Configuration
 
 ![Configuration](./.images/menu-config.png)
@@ -113,12 +129,25 @@ The **Settings** panel allows you to define what you expect your buildings to pr
 
 The settings menu is structured as follows: 
 - **Title bar** with a [Configuration](#configuration) menu
+- **Result**: Apply the configured expectations and return to the comparison view.
+- **Preset bar**: Manage multiple settings profiles (explained under [Presets](#presets)).
 - [**Settings Table**](#settings-table) with two columns:
   * **Enabled**: A checkbox that includes or excludes the resource from the efficiency calculation and overview.
   * **Expected daily production/tile**: A numeric field that defines your desired production rate per tile, per day.
 - **Buttons**: At the bottom of the panel
-  * **Result**: Apply the configured expectations and return to the comparison view.
-  * **Reset to default**: Clears your custom values and reverts to default settings.
+  * **Reset**: Clears your custom values and reverts the active preset to default settings.
+  * **Duplicate**: Creates a copy of the active preset.
+  * **Delete** (trash icon): Removes the active preset.
+  * **Export/Import presets**: Saves all presets to a JSON file or reads them back in.
+
+### Presets
+
+The preset bar at the top of the settings panel lets you create several settings profiles and switch between them instantly — for example one profile for FP farming and one for battle boosts:
+
+* Each preset appears as a numbered tab; clicking it activates the preset and the table and all ratings are updated immediately.
+* **Duplicate** creates a copy of the active preset as a new tab — the starting point for a new profile.
+* Use **Delete** (trash icon) and **Reset** to manage the active preset.
+* **Export/Import presets** transfers your profiles to other devices as a JSON file.
 
 
 ### Settings Table
