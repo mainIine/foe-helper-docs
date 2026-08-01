@@ -1,6 +1,6 @@
 # Discord Webhooks
 
-![Aufbau](./.images/modul-icon.png)
+![Icon](./.images/icon.png)
 
 ## Create webhook in Discord
 
@@ -12,50 +12,72 @@ A webhook can be created for each channel of a discord. To do this, proceed as f
 
 Click the cogwheel next to the channel in which you want the messages to appear:
 
-![Aufbau](./.images/search-channel.png)
+![Edit channel](./.images/edit-channel.png)
 
 There you click on "Integrations" > "Create WebHook":
 
-![Aufbau](./.images/integration-create-webhook.png)
+![Create webhook](./.images/create-webhook.png)
 
 Change the name to something meaningful so that you know later what kind of WebHook it is. The name of the bot that posts the message has nothing to do with it here.
 
-![Aufbau](./.images/change-name-and-save.png)
+![Change name and save](./.images/change-name-and-save.png)
 
 Then click on the button "Copy WebHook URL" and close all windows. You are finished in Discord.
 
+## Targeting a specific channel or thread
+
+A Discord webhook is always tied to the channel it was created in — the Discord API does not allow picking a channel per message. If you want to serve several channels, simply create one webhook per channel and save each URL in the helper with a meaningful name (e.g. the channel name). You then pick the matching webhook for every message and in the Guild Battlegrounds settings.
+
+Additionally, you can enter an optional **thread ID** when saving a webhook URL. The message is then posted into a specific thread or forum post of the webhook's channel. This is how you get the ID:
+
+1. Enable the developer mode in Discord (User Settings > Advanced > Developer Mode).
+2. Right-click the thread or forum post and choose "Copy ID".
+3. Enter the ID into the "Thread ID (optional)" field when saving the webhook URL.
+
+The helper automatically appends the ID to the webhook URL as `?thread_id=...`. This works everywhere the webhook is used — including the Discord buttons of the Guild Battlegrounds.
+
 ## Include WebHook in the Helper
 
-{% hint style="warning" %}
-If you want to work with events from the guild battles, you must visit them once before creating a new one.
-{% endhint %}
+![Overview](./.images/overview.png)
 
-![Übersicht](./.images/overview.png)
+Open the "Discord Webhooks" box from the helper menu. Under "Manage Webhook URLs" you save the copied URL with a meaningful name — and optionally the thread ID (see above). All saved URLs are then available for messages and in the Guild Battlegrounds settings.
 
-Fill in the fields as indicated.
+## Messages
+
+The "Message" button creates a free text: pick a webhook, write the message, then send it right away or save it for later. Saved messages appear in the list and can be sent again, edited, copied or deleted at any time.
+
+![New message](./.images/new-entry.png)
+
+A new line is simply inserted with the Enter key (line break). Discord markdown (bold, italic, timestamps etc.) is supported; every message is automatically signed with your player name.
 
 {% hint style="info" %}
 **Icons** You can use all icons from your Discord channel. Hover over an icon in the channel and enter it in the text with _:name:_.
 {% endhint %}
 
-![Aufbau](./.images/emojis.png)
+![Emojis](./.images/emojis.png)
 
-A new line is simply inserted with the Enter key (line break).
+## Templates and placeholders
 
-At the moment there is only the event "Guildfights" (first attack) in combination with a sector. This is a BETA test, so to speak.
+The "Template" button creates a named template for the Guild Battlegrounds. Its text can contain the following placeholders, which are replaced with the data of the respective sector when sending:
 
-To get a continuous text with the province name, you can use <mark style="color: #e83e8c;">#gg_province_name#</mark>. It will be replaced when sent.
+| Placeholder | Value |
+| --- | --- |
+| `#name` | name of the sector |
+| `#battletype` | 🔴 attack or 🔵 siege |
+| `#time` | unlock time as Unix timestamp — ideal for Discord timestamps like `<t:#time:R>` |
+| `#attrition` | attrition chance in percent |
+| `#guild` | guild holding the sector |
+| `#vp` | victory points (incl. bonus) |
+| `#neighbors` | neighboring guilds |
+| `#player` | your player name |
+| `#world` | your world |
 
-## Use of an event
+{% hint style="warning" %}
+Victory points, neighbors and attrition chance can still change until the sector opens — the values reflect the state at the time of sending.
+{% endhint %}
 
-Since the FoE helper is known not to request data independently, the event must be triggered in the game in the logged-in state.
+## Use in the Guild Battlegrounds
 
-Explanation: **Only** one player per guild creates the webhook and then has to leave the guild map open. That's all it takes. These webhooks send global events to a channel, which means that this would make little sense for private purposes.
+In the settings of the Guild Battlegrounds window (cogwheel), the "Discord Webhooks" section lets you pick the target webhook plus one template for single sectors and one for bulk sending. Without a template a default message with sector name and unlock time is sent.
 
-As soon as the information about an attack comes in the background of the game, the trigger is set and the message is then automatically sent 1x to Discord. All followers of this channel can then read this.
-
-## Further events
-
-Are you missing an event or do you have a good idea?
-
-Then please just complete this ticket: [https://github.com/mainIine/foe-helfer-extension/issues/2543](https://github.com/mainIine/foe-helfer-extension/issues/2543)
+Afterwards a Discord button appears next to each sector, sending its data to your channel with one click; selected rows can be sent together as a single message.
