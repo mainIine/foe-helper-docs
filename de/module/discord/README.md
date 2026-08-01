@@ -81,3 +81,13 @@ Siegpunkte, Nachbarn und Zermürbungschance können sich bis zum Öffnen des Sek
 In den Einstellungen des Gildengefecht-Fensters (Zahnrad) wählst Du im Abschnitt "Discord Webhooks" den Ziel-Webhook sowie je eine Vorlage für einzelne Sektoren und für den Sammel-Versand aus. Ohne Vorlage wird eine Standard-Nachricht mit Sektorname und Öffnungszeitpunkt gesendet.
 
 Danach erscheint neben jedem Sektor ein Discord-Button, der die Sektor-Daten mit einem Klick in Deinen Channel schickt; markierte Zeilen lassen sich gesammelt als eine Nachricht versenden.
+
+## Automatischer Versand
+
+Zusätzlich zum manuellen Senden gibt es im selben Einstellungs-Abschnitt die Option **"Sektoren automatisch senden"**: Ist sie aktiv, meldet der Helfer jeden an Eure Gilde angrenzenden gegnerischen Sektor einmalig an den gewählten Webhook — mit dem einstellbaren **Vorlauf** (5–3600 Sekunden, Standard 60) vor der Sektor-Öffnung. Ist eine Einzel-Sektor-Vorlage gewählt, wird sie verwendet, sonst die Standard-Nachricht.
+
+Dabei gilt:
+
+* Das Gildengefecht-Fenster muss geöffnet bleiben — der Helfer fragt keine Daten selbstständig ab, ohne offenes Fenster wird nichts gesendet.
+* Jeder Sektor wird pro Sperr-Phase nur einmal gemeldet, auch wenn das Fenster zwischendurch neu aufgebaut wird.
+* Am besten aktiviert nur **ein** Gildenmitglied den automatischen Versand, sonst landet jede Meldung mehrfach im Channel.

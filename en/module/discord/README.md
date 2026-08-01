@@ -81,3 +81,13 @@ Victory points, neighbors and attrition chance can still change until the sector
 In the settings of the Guild Battlegrounds window (cogwheel), the "Discord Webhooks" section lets you pick the target webhook plus one template for single sectors and one for bulk sending. Without a template a default message with sector name and unlock time is sent.
 
 Afterwards a Discord button appears next to each sector, sending its data to your channel with one click; selected rows can be sent together as a single message.
+
+## Automatic sending
+
+In addition to manual sending, the same settings section offers the option **"Send sectors automatically"**: when enabled, the helper announces every enemy sector adjacent to your guild once to the selected webhook — with the configurable **lead time** (5–3600 seconds, default 60) before the sector opens. If a single-sector template is selected it is used, otherwise the default message.
+
+Please note:
+
+* The Guild Battlegrounds window has to stay open — the helper never requests data on its own, so nothing is sent without an open window.
+* Every sector is announced only once per lock period, even if the window is rebuilt in between.
+* Ideally only **one** guild member enables automatic sending, otherwise every announcement ends up in the channel multiple times.
