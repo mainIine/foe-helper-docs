@@ -60,17 +60,17 @@ A new line is simply inserted with the Enter key (line break). Discord markdown 
 
 The "Template" button creates a named template for the Guild Battlegrounds. Its text can contain the following placeholders, which are replaced with the data of the respective sector when sending:
 
-| Placeholder | Value |
-| --- | --- |
-| `#name` | name of the sector |
-| `#battletype` | 🔴 attack or 🔵 siege |
+| Placeholder | Value                                                                           |
+| --- |---------------------------------------------------------------------------------|
+| `#name` | name of the sector                                                              |
+| `#battletype` | 🔴 attack or 🔵 defend                                                          |
 | `#time` | unlock time as Unix timestamp — ideal for Discord timestamps like `<t:#time:R>` |
-| `#attrition` | attrition chance in percent |
-| `#guild` | guild holding the sector |
-| `#vp` | victory points (incl. bonus) |
-| `#neighbors` | neighboring guilds |
-| `#player` | your player name |
-| `#world` | your world |
+| `#attrition` | attrition chance in percent                                                     |
+| `#guild` | guild holding the sector                                                        |
+| `#vp` | victory points (incl. bonus)                                                    |
+| `#neighbors` | neighboring guilds                                                              |
+| `#player` | your player name                                                                |
+| `#world` | your world                                                                      |
 
 {% hint style="warning" %}
 Victory points, neighbors and attrition chance can still change until the sector opens — the values reflect the state at the time of sending.
